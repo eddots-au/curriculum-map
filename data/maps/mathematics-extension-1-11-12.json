@@ -1,0 +1,790 @@
+{
+ "schema": 1,
+ "id": "mathematics-extension-1-11-12",
+ "name": "Mathematics Extension 1 — Years 11–12",
+ "treeVersion": 1,
+ "note": "NSW 2024 syllabus sequence; Year 11 from 2026, Year 12 first HSC 2027. Retained revision is labelled separately.",
+ "stageYears": {
+  "Stage 6": [
+   11,
+   12
+  ]
+ },
+ "strands": [
+  {
+   "key": "algebra-and-functions",
+   "name": "Algebra and functions"
+  },
+  {
+   "key": "algebra-and-proof",
+   "name": "Algebra and proof"
+  },
+  {
+   "key": "trigonometry",
+   "name": "Trigonometry"
+  },
+  {
+   "key": "vectors",
+   "name": "Vectors"
+  },
+  {
+   "key": "calculus",
+   "name": "Calculus"
+  },
+  {
+   "key": "probability-and-data",
+   "name": "Probability and data"
+  }
+ ],
+ "topics": [
+  {
+   "key": "further-work-with-functions",
+   "name": "Further work with functions",
+   "strand": "algebra-and-functions",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "polynomials",
+   "name": "Polynomials",
+   "strand": "algebra-and-proof",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "permutations-and-combinations",
+   "name": "Permutations and combinations",
+   "strand": "algebra-and-proof",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "the-binomial-theorem",
+   "name": "The binomial theorem",
+   "strand": "algebra-and-proof",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "proof-by-mathematical-induction",
+   "name": "Proof by mathematical induction",
+   "strand": "algebra-and-proof",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "further-trigonometry",
+   "name": "Further trigonometry",
+   "strand": "trigonometry",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "inverse-trigonometric-functions",
+   "name": "Inverse trigonometric functions",
+   "strand": "trigonometry",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "introduction-to-vectors",
+   "name": "Introduction to vectors",
+   "strand": "vectors",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "further-calculus-skills",
+   "name": "Further calculus skills",
+   "strand": "calculus",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "further-applications-of-calculus",
+   "name": "Further applications of calculus",
+   "strand": "calculus",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "the-binomial-distribution-and-sampling-distribution-of-the-mean",
+   "name": "The binomial distribution and sampling distribution of the mean",
+   "strand": "probability-and-data",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  }
+ ],
+ "skills": [
+  {
+   "key": "me1-y11-reciprocal-function-graphs",
+   "name": "Reciprocal functions: points, signs and asymptotes",
+   "topic": "further-work-with-functions",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-reciprocal-trigonometric-graphs",
+   "name": "Secant, cosecant and cotangent",
+   "topic": "further-work-with-functions",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-absolute-value-transformations",
+   "name": "Two different absolute-value transformations",
+   "topic": "further-work-with-functions",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-sum-difference-functions",
+   "name": "Adding and subtracting graphs with shared domains",
+   "topic": "further-work-with-functions",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-one-to-one-and-reflection",
+   "name": "One-to-one functions and reflection in y=x",
+   "topic": "further-work-with-functions",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-inverse-equations-and-domains",
+   "name": "Find inverses and retain their domains",
+   "topic": "further-work-with-functions",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-restricting-domain-inverses",
+   "name": "Choosing a branch before finding an inverse",
+   "topic": "further-work-with-functions",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-inverse-composition-intersections",
+   "name": "Composition checks and inverse intersections",
+   "topic": "further-work-with-functions",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-parametric-linear-quadratic",
+   "name": "Linear and quadratic curves from a parameter",
+   "topic": "further-work-with-functions",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-parametric-circles",
+   "name": "Parametric circles: elimination and tracing",
+   "topic": "further-work-with-functions",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-cubic-inequalities",
+   "name": "Cubic inequalities through sign intervals",
+   "topic": "further-work-with-functions",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-rational-inequalities",
+   "name": "Rational inequalities without unsafe multiplication",
+   "topic": "further-work-with-functions",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-absolute-value-inequalities",
+   "name": "Distance, compound inequalities and outside intervals",
+   "topic": "further-work-with-functions",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-polynomial-language-end-behaviour",
+   "name": "Polynomial degree, cancellation and end behaviour",
+   "topic": "polynomials",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-polynomial-zeroes-multiplicity",
+   "name": "Zeroes, multiplicity and polynomial sketches",
+   "topic": "polynomials",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-polynomial-division",
+   "name": "Polynomial division with a checked remainder",
+   "topic": "polynomials",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-remainder-theorem",
+   "name": "Why substitution gives a linear-divisor remainder",
+   "topic": "polynomials",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-factor-theorem-factorisation",
+   "name": "Factor theorem and complete real factorisation",
+   "topic": "polynomials",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-quadratic-cubic-zero-relations",
+   "name": "Quadratic and cubic zeroes from coefficients",
+   "topic": "polynomials",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-quartic-zero-relations",
+   "name": "Quartic zeroes and connected coefficient problems",
+   "topic": "polynomials",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-factorials-multiplication",
+   "name": "Factorials and the multiplication principle",
+   "topic": "permutations-and-combinations",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-ordered-selections",
+   "name": "Permutations as ordered selections",
+   "topic": "permutations-and-combinations",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-restricted-repeated-permutations",
+   "name": "Restrictions and repeated objects in a line",
+   "topic": "permutations-and-combinations",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-circular-permutations",
+   "name": "Circular arrangements and rotational equivalence",
+   "topic": "permutations-and-combinations",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-combinations-identities",
+   "name": "Unordered selections and Pascal identities",
+   "topic": "permutations-and-combinations",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-mixed-restricted-counting",
+   "name": "Choose, arrange and split cases carefully",
+   "topic": "permutations-and-combinations",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-counting-probability",
+   "name": "Probabilities from equally likely counted outcomes",
+   "topic": "permutations-and-combinations",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-pascal-binomial-expansion",
+   "name": "Pascal’s triangle and the binomial theorem",
+   "topic": "the-binomial-theorem",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-binomial-specific-terms",
+   "name": "Finding coefficients and constant terms",
+   "topic": "the-binomial-theorem",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-binomial-coefficient-identities",
+   "name": "Simplifying and proving coefficient identities",
+   "topic": "the-binomial-theorem",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-combinatorial-binomial-proofs",
+   "name": "New identities from counting and established results",
+   "topic": "the-binomial-theorem",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y12-induction-sums",
+   "name": "Mathematical induction for sums",
+   "topic": "proof-by-mathematical-induction",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-induction-divisibility",
+   "name": "Induction for divisibility",
+   "topic": "proof-by-mathematical-induction",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y11-trigonometry-three-dimensions",
+   "name": "Finding a route through a three-dimensional diagram",
+   "topic": "further-trigonometry",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-compound-angle-identities",
+   "name": "Deriving and applying sum and difference identities",
+   "topic": "further-trigonometry",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-double-angle-identities",
+   "name": "Choosing the useful double-angle form",
+   "topic": "further-trigonometry",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-trigonometric-identity-equations",
+   "name": "Solve trig equations without dropping solutions",
+   "topic": "further-trigonometry",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-auxiliary-angle-form",
+   "name": "From a cos x+b sin x to a single sinusoid",
+   "topic": "further-trigonometry",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y11-trigonometric-context-modelling",
+   "name": "Build, solve and evaluate a periodic model",
+   "topic": "further-trigonometry",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "me1-y12-inverse-trig-definitions",
+   "name": "Inverse trig functions and principal branches",
+   "topic": "inverse-trigonometric-functions",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-inverse-trig-identities-composition",
+   "name": "Inverse trig identities and compositions",
+   "topic": "inverse-trigonometric-functions",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-inverse-trig-transformations",
+   "name": "Transformed inverse trig graphs",
+   "topic": "inverse-trigonometric-functions",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-vector-representations",
+   "name": "Vector magnitude, direction and coordinates",
+   "topic": "introduction-to-vectors",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-vector-between-points",
+   "name": "Displacement, midpoint and distance in 2D/3D",
+   "topic": "introduction-to-vectors",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-vector-algebra-parallelism",
+   "name": "Vector arithmetic and parallelism",
+   "topic": "introduction-to-vectors",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-vector-magnitude-unit",
+   "name": "Magnitude and unit vectors",
+   "topic": "introduction-to-vectors",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-vector-dot-products-angles",
+   "name": "Scalar product, angles and orthogonality",
+   "topic": "introduction-to-vectors",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-vector-projection-components",
+   "name": "Projection and perpendicular components",
+   "topic": "introduction-to-vectors",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-vector-position-paths",
+   "name": "Position, displacement and vector paths",
+   "topic": "introduction-to-vectors",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-vector-constant-relative-velocity",
+   "name": "Constant velocity and cross-current motion",
+   "topic": "introduction-to-vectors",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-vector-calculus-motion",
+   "name": "Velocity, acceleration and vector integration",
+   "topic": "introduction-to-vectors",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-projectile-components",
+   "name": "Projectile modelling and component equations",
+   "topic": "introduction-to-vectors",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-projectile-features-inverse",
+   "name": "Projectile flight features and inverse launch problems",
+   "topic": "introduction-to-vectors",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-parametric-inverse-derivatives",
+   "name": "Parametric and inverse-function derivatives",
+   "topic": "further-calculus-skills",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-inverse-trig-derivatives",
+   "name": "Inverse trig derivatives and combined rules",
+   "topic": "further-calculus-skills",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-inverse-trig-integrals",
+   "name": "Inverse trig integral forms",
+   "topic": "further-calculus-skills",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-given-substitution-integration",
+   "name": "Integration with a given substitution",
+   "topic": "further-calculus-skills",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-trig-square-integration",
+   "name": "Integrating squares of sine and cosine",
+   "topic": "further-calculus-skills",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-polynomial-multiplicity-calculus",
+   "name": "Multiplicity, derivative zeroes and curve shape",
+   "topic": "further-applications-of-calculus",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-related-rates-chain-rule",
+   "name": "Related rates in geometry and context",
+   "topic": "further-applications-of-calculus",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-shifted-exponential-models",
+   "name": "Growth and decay towards a fixed level",
+   "topic": "further-applications-of-calculus",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-areas-between-curves",
+   "name": "Area between curves with changing order",
+   "topic": "further-applications-of-calculus",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-solids-of-revolution",
+   "name": "Solids of revolution about either coordinate axis",
+   "topic": "further-applications-of-calculus",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-differential-equations-slope-fields",
+   "name": "Differential equations, slope fields and initial values",
+   "topic": "further-applications-of-calculus",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-separable-differential-equations",
+   "name": "Separate variables and retain equilibrium solutions",
+   "topic": "further-applications-of-calculus",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-logistic-context-equations",
+   "name": "Logistic growth and contextual differential equations",
+   "topic": "further-applications-of-calculus",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-bernoulli-distributions",
+   "name": "Bernoulli variables, expectation and variance",
+   "topic": "the-binomial-distribution-and-sampling-distribution-of-the-mean",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-binomial-distribution-model",
+   "name": "Binomial assumptions and exact probabilities",
+   "topic": "the-binomial-distribution-and-sampling-distribution-of-the-mean",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-binomial-moments-applications",
+   "name": "Binomial moments, expected frequencies and applications",
+   "topic": "the-binomial-distribution-and-sampling-distribution-of-the-mean",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-sampling-mean-distribution",
+   "name": "Population, sample and the distribution of sample means",
+   "topic": "the-binomial-distribution-and-sampling-distribution-of-the-mean",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-central-limit-standard-error",
+   "name": "Central limit theorem and sample-size effects",
+   "topic": "the-binomial-distribution-and-sampling-distribution-of-the-mean",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me1-y12-sample-mean-probabilities",
+   "name": "Probability bounds for a sample mean",
+   "topic": "the-binomial-distribution-and-sampling-distribution-of-the-mean",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  }
+ ]
+}

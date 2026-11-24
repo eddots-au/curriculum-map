@@ -1,0 +1,46 @@
+{
+ "maps": [
+  {
+   "id": "english-hsc",
+   "name": "HSC English Advanced",
+   "skills": 32,
+   "topics": 8
+  },
+  {
+   "id": "english-k10",
+   "name": "English K-10",
+   "skills": 363,
+   "topics": 72
+  },
+  {
+   "id": "mathematics-extension-1-11-12",
+   "name": "Mathematics Extension 1 \u2014 Years 11\u201312",
+   "skills": 72,
+   "topics": 11
+  },
+  {
+   "id": "mathematics-extension-2-11-12",
+   "name": "Mathematics Extension 2 \u2014 Year 12",
+   "skills": 45,
+   "topics": 5
+  },
+  {
+   "id": "mathematics-hsc",
+   "name": "Mathematics Advanced \u2014 Years 11\u201312",
+   "skills": 112,
+   "topics": 25
+  },
+  {
+   "id": "mathematics-k10",
+   "name": "Mathematics K\u201310",
+   "skills": 236,
+   "topics": 46
+  },
+  {
+   "id": "mathematics-standard-11-12",
+   "name": "Mathematics Standard \u2014 Years 11\u201312",
+   "skills": 96,
+   "topics": 25
+  }
+ ]
+}

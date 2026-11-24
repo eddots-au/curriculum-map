@@ -1,0 +1,1583 @@
+{
+ "schema": 1,
+ "id": "mathematics-hsc",
+ "name": "Mathematics Advanced — Years 11–12",
+ "treeVersion": 2,
+ "note": "NSW 2024 syllabus sequence; Year 11 from 2026, Year 12 first HSC 2027. Retained revision is labelled separately.",
+ "stageYears": {
+  "Stage 6": [
+   11,
+   12
+  ]
+ },
+ "strands": [
+  {
+   "key": "algebra-and-functions",
+   "name": "Algebra and functions"
+  },
+  {
+   "key": "trigonometry",
+   "name": "Trigonometry"
+  },
+  {
+   "key": "calculus",
+   "name": "Calculus"
+  },
+  {
+   "key": "probability-and-data",
+   "name": "Probability and data"
+  },
+  {
+   "key": "sequences-and-finance",
+   "name": "Sequences and finance"
+  },
+  {
+   "key": "retained-revision",
+   "name": "Retained 2017 syllabus revision"
+  }
+ ],
+ "topics": [
+  {
+   "key": "working-with-functions",
+   "name": "Working with functions",
+   "strand": "algebra-and-functions",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "exponentials-logarithms",
+   "name": "Exponentials logarithms",
+   "strand": "algebra-and-functions",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "exponential-and-logarithmic-functions",
+   "name": "Exponential and logarithmic functions",
+   "strand": "algebra-and-functions",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "graph-transformations",
+   "name": "Graph transformations",
+   "strand": "algebra-and-functions",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "further-graph-transformations-and-modelling",
+   "name": "Further graph transformations and modelling",
+   "strand": "algebra-and-functions",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "trigonometry",
+   "name": "Trigonometry",
+   "strand": "trigonometry",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "trigonometry-and-measure-of-angles",
+   "name": "Trigonometry and measure of angles",
+   "strand": "trigonometry",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "trigonometric-identities-and-equations",
+   "name": "Trigonometric identities and equations",
+   "strand": "trigonometry",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "intro-differentiation",
+   "name": "Intro differentiation",
+   "strand": "calculus",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "introduction-to-differentiation",
+   "name": "Introduction to differentiation",
+   "strand": "calculus",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "differentiation-yr12",
+   "name": "Differentiation yr12",
+   "strand": "calculus",
+   "stage": "Stage 6",
+   "years": [
+    11,
+    12
+   ]
+  },
+  {
+   "key": "differential-calculus",
+   "name": "Differential calculus",
+   "strand": "calculus",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "integration",
+   "name": "Integration",
+   "strand": "calculus",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "integral-calculus",
+   "name": "Integral calculus",
+   "strand": "calculus",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "applications-of-calculus",
+   "name": "Applications of calculus",
+   "strand": "calculus",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "probability-and-data",
+   "name": "Probability and data",
+   "strand": "probability-and-data",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "probability-distributions",
+   "name": "Probability distributions",
+   "strand": "probability-and-data",
+   "stage": "Stage 6",
+   "years": [
+    11,
+    12
+   ]
+  },
+  {
+   "key": "data-distributions-yr12",
+   "name": "Data distributions yr12",
+   "strand": "probability-and-data",
+   "stage": "Stage 6",
+   "years": [
+    11,
+    12
+   ]
+  },
+  {
+   "key": "random-variables",
+   "name": "Random variables",
+   "strand": "probability-and-data",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "sequences-and-series",
+   "name": "Sequences and series",
+   "strand": "sequences-and-finance",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "financial-maths",
+   "name": "Financial maths",
+   "strand": "sequences-and-finance",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "financial-mathematics",
+   "name": "Financial mathematics",
+   "strand": "sequences-and-finance",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "retained-differentiation-yr12",
+   "name": "Differential calculus — retained revision",
+   "strand": "retained-revision",
+   "stage": "2017 syllabus revision",
+   "years": []
+  },
+  {
+   "key": "retained-data-distributions-yr12",
+   "name": "Data and the normal distribution — retained revision",
+   "strand": "retained-revision",
+   "stage": "2017 syllabus revision",
+   "years": []
+  },
+  {
+   "key": "retained-financial-maths",
+   "name": "Series and financial mathematics — retained revision",
+   "strand": "retained-revision",
+   "stage": "2017 syllabus revision",
+   "years": []
+  }
+ ],
+ "skills": [
+  {
+   "key": "f-algebra-fluency",
+   "name": "Index laws, zero, negative and fractional powers",
+   "topic": "working-with-functions",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-algebra-expansion",
+   "name": "Expand, factorise and simplify expressions",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-algebra-fluency"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-algebra-fractions",
+   "name": "Algebraic fractions and valid cancellation",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-algebra-expansion"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-surds",
+   "name": "Surds, exact arithmetic and conjugates",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-algebra-expansion"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-quadratic-equations",
+   "name": "Choose a method to solve quadratic equations",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-algebra-expansion",
+    "f-surds"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-discriminant",
+   "name": "Discriminant, root type and parameter conditions",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-quadratic-equations"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-notation",
+   "name": "Functions, relations and function notation",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-algebra-fluency"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-domain-range",
+   "name": "Domain, range, intercepts and interval notation",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-notation",
+    "f-algebra-fractions"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-linear-equations",
+   "name": "Straight-line equations and graphs",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-notation"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-parallel-perpendicular",
+   "name": "Parallel and perpendicular lines",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-linear-equations"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-linear-inequalities",
+   "name": "Linear inequalities and feasible values",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-linear-equations"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-quadratics",
+   "name": "Quadratic graph features and completing the square",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-quadratic-equations",
+    "f-domain-range"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-quadratic-reconstruction",
+   "name": "Reconstruct quadratic functions and compare coefficients",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-quadratics"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-quadratic-intersections",
+   "name": "Intersections involving quadratic functions",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-quadratics",
+    "f-linear-equations"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-quadratic-inequalities",
+   "name": "Quadratic inequalities and sign intervals",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-quadratics",
+    "f-linear-inequalities"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-cubics-polys",
+   "name": "Cubic graphs from powers and factors",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-quadratics",
+    "f-algebra-expansion"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-reciprocal",
+   "name": "Reciprocal functions and asymptotic behaviour",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-domain-range"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-linear-models",
+   "name": "Linear models, simultaneous equations and break-even",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-linear-equations",
+    "f-parallel-perpendicular"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-quadratic-models",
+   "name": "Quadratic models in context",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-quadratics",
+    "f-quadratic-intersections"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-variation",
+   "name": "Direct and inverse variation",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-reciprocal",
+    "f-algebra-fluency"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-circles-semicircles",
+   "name": "Circles and semicircle relations",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-domain-range",
+    "f-quadratic-equations"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-even-odd",
+   "name": "Even and odd functions",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-domain-range"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-composition",
+   "name": "Composition of functions",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-notation",
+    "f-domain-range"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-piecewise",
+   "name": "Piecewise functions and continuity",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-domain-range",
+    "f-even-odd"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-absolute",
+   "name": "Absolute value, piecewise rules and equations",
+   "topic": "working-with-functions",
+   "prereqs": [
+    "f-piecewise",
+    "f-linear-equations"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-exponentials",
+   "name": "Exponential graphs and end behaviour",
+   "topic": "exponentials-logarithms",
+   "prereqs": [
+    "f-domain-range",
+    "f-algebra-fluency"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-logarithms",
+   "name": "Logarithms as inverse exponent questions",
+   "topic": "exponentials-logarithms",
+   "prereqs": [
+    "f-exponentials"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-euler-number",
+   "name": "Euler’s number and exponential gradients",
+   "topic": "exponential-and-logarithmic-functions",
+   "prereqs": [
+    "f-exponentials",
+    "c-derivative-meaning"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-log-laws",
+   "name": "Derive and apply logarithm laws",
+   "topic": "exponential-and-logarithmic-functions",
+   "prereqs": [
+    "f-logarithms",
+    "f-algebra-fluency"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-log-change-base",
+   "name": "Change of base and logarithmic equations",
+   "topic": "exponential-and-logarithmic-functions",
+   "prereqs": [
+    "f-log-laws"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-log-graphs",
+   "name": "Logarithmic graphs and inverse reflection",
+   "topic": "exponential-and-logarithmic-functions",
+   "prereqs": [
+    "f-logarithms",
+    "f-domain-range"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-translations",
+   "name": "Translate graphs and relations",
+   "topic": "graph-transformations",
+   "prereqs": [
+    "f-domain-range",
+    "f-quadratics",
+    "f-reciprocal",
+    "f-log-graphs"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-dilations",
+   "name": "Reflect and dilate graphs",
+   "topic": "graph-transformations",
+   "prereqs": [
+    "f-translations"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-combined-transform",
+   "name": "Combine transformations and reconstruct a rule",
+   "topic": "graph-transformations",
+   "prereqs": [
+    "f-translations",
+    "f-dilations",
+    "f-piecewise",
+    "f-absolute"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "f-translated-circles",
+   "name": "Translated circles and completing two squares",
+   "topic": "graph-transformations",
+   "prereqs": [
+    "f-circles-semicircles",
+    "f-translations",
+    "f-quadratic-equations"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "t-transformed-graphs",
+   "name": "Transform sine, cosine and tangent graphs",
+   "topic": "further-graph-transformations-and-modelling",
+   "prereqs": [
+    "t-trig-graphs",
+    "f-combined-transform"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "t-transformed-equations",
+   "name": "Solve transformed trigonometric equations",
+   "topic": "further-graph-transformations-and-modelling",
+   "prereqs": [
+    "t-transformed-graphs",
+    "t-trig-equations"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "t-periodic-models",
+   "name": "Model periodic phenomena",
+   "topic": "further-graph-transformations-and-modelling",
+   "prereqs": [
+    "t-transformed-graphs",
+    "t-transformed-equations"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "f-transformed-models",
+   "name": "Choose and evaluate transformed function models",
+   "topic": "further-graph-transformations-and-modelling",
+   "prereqs": [
+    "f-combined-transform",
+    "t-periodic-models"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "f-log-scales",
+   "name": "Logarithmic scales and multiplicative comparisons",
+   "topic": "further-graph-transformations-and-modelling",
+   "prereqs": [
+    "f-log-laws",
+    "f-log-change-base"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "t-ratios-review",
+   "name": "Exact acute ratios and right-triangle modelling",
+   "topic": "trigonometry",
+   "prereqs": [
+    "f-surds",
+    "f-linear-equations"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "t-unit-circle",
+   "name": "Angles of any magnitude and unit-circle ratios",
+   "topic": "trigonometry",
+   "prereqs": [
+    "t-ratios-review"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "t-sine-cosine-rules",
+   "name": "Sine rule, cosine rule and triangle area",
+   "topic": "trigonometry",
+   "prereqs": [
+    "t-unit-circle",
+    "f-quadratic-equations"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "t-radians",
+   "name": "Radians and exact angle conversion",
+   "topic": "trigonometry",
+   "prereqs": [
+    "t-unit-circle"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "t-trig-graphs",
+   "name": "Base sine, cosine and tangent graphs",
+   "topic": "trigonometry",
+   "prereqs": [
+    "t-radians",
+    "f-even-odd"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "t-trig-equations",
+   "name": "Trigonometric equations on restricted domains",
+   "topic": "trigonometry",
+   "prereqs": [
+    "t-trig-graphs",
+    "t-pythagorean-identities",
+    "f-quadratic-equations"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "t-ambiguous-sine",
+   "name": "The sine-rule ambiguous case",
+   "topic": "trigonometry-and-measure-of-angles",
+   "prereqs": [
+    "t-sine-cosine-rules"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "t-arcs-sectors",
+   "name": "Arc lengths, sectors and segments",
+   "topic": "trigonometry-and-measure-of-angles",
+   "prereqs": [
+    "t-radians",
+    "t-sine-cosine-rules"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "t-reciprocal-ratios",
+   "name": "Secant, cosecant and cotangent",
+   "topic": "trigonometric-identities-and-equations",
+   "prereqs": [
+    "t-radians"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "t-complementary-identities",
+   "name": "Complementary-angle identities",
+   "topic": "trigonometric-identities-and-equations",
+   "prereqs": [
+    "t-reciprocal-ratios"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "t-pythagorean-identities",
+   "name": "Prove and apply trigonometric identities",
+   "topic": "trigonometric-identities-and-equations",
+   "prereqs": [
+    "t-reciprocal-ratios",
+    "f-algebra-fractions"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "c-gradient-secant",
+   "name": "Average change, secants and instantaneous change",
+   "topic": "intro-differentiation",
+   "prereqs": [
+    "f-linear-equations",
+    "f-notation"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "c-first-principles",
+   "name": "Differentiate quadratics from first principles",
+   "topic": "intro-differentiation",
+   "prereqs": [
+    "c-derivative-meaning",
+    "f-algebra-expansion",
+    "f-algebra-fractions"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "c-power-rule",
+   "name": "Power rule and linearity",
+   "topic": "intro-differentiation",
+   "prereqs": [
+    "c-first-principles",
+    "f-algebra-fluency"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "c-tangents",
+   "name": "Tangent and normal equations",
+   "topic": "intro-differentiation",
+   "prereqs": [
+    "c-power-rule",
+    "f-parallel-perpendicular",
+    "t-unit-circle"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "c-derivative-meaning",
+   "name": "The derivative as a gradient function",
+   "topic": "introduction-to-differentiation",
+   "prereqs": [
+    "c-gradient-secant"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "c-product-rule",
+   "name": "Differentiate products",
+   "topic": "introduction-to-differentiation",
+   "prereqs": [
+    "c-power-rule"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "c-quotient-rule",
+   "name": "Differentiate quotients",
+   "topic": "introduction-to-differentiation",
+   "prereqs": [
+    "c-power-rule",
+    "f-algebra-fractions"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "c-rule-selection",
+   "name": "Choose and combine differentiation rules",
+   "topic": "introduction-to-differentiation",
+   "prereqs": [
+    "c-product-rule",
+    "c-quotient-rule",
+    "c-chain-rule"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "c-derivative-graphs",
+   "name": "Read and sketch derivative graphs",
+   "topic": "introduction-to-differentiation",
+   "prereqs": [
+    "c-power-rule",
+    "c-derivative-meaning"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "c-cubic-stationary",
+   "name": "Cubic stationary points and monotonic intervals",
+   "topic": "introduction-to-differentiation",
+   "prereqs": [
+    "c-power-rule",
+    "f-cubics-polys",
+    "f-quadratic-inequalities"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "c-motion-rates",
+   "name": "Derivatives as rates and one-dimensional velocity",
+   "topic": "introduction-to-differentiation",
+   "prereqs": [
+    "c-power-rule",
+    "c-derivative-graphs"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "c-chain-rule",
+   "name": "Differentiate composite functions",
+   "topic": "differentiation-yr12",
+   "prereqs": [
+    "c-power-rule",
+    "f-composition"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "c-exp-log-deriv",
+   "name": "Differentiate exponentials and logarithms",
+   "topic": "differentiation-yr12",
+   "prereqs": [
+    "c-chain-rule",
+    "f-euler-number",
+    "f-log-laws"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-trig-deriv",
+   "name": "Differentiate trigonometric functions",
+   "topic": "differentiation-yr12",
+   "prereqs": [
+    "c-product-rule",
+    "c-quotient-rule",
+    "c-chain-rule",
+    "t-pythagorean-identities"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-second-derivative",
+   "name": "Second derivative, concavity and inflection",
+   "topic": "differentiation-yr12",
+   "prereqs": [
+    "c-mixed-derivatives",
+    "c-differentiability"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-curve-sketching",
+   "name": "Stationary points and complete curve sketches",
+   "topic": "differentiation-yr12",
+   "prereqs": [
+    "c-second-derivative",
+    "c-cubic-stationary"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-optimisation",
+   "name": "Model and solve optimisation problems",
+   "topic": "differentiation-yr12",
+   "prereqs": [
+    "c-curve-sketching",
+    "f-quadratic-models"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-mixed-derivatives",
+   "name": "Differentiate mixed elementary functions",
+   "topic": "differential-calculus",
+   "prereqs": [
+    "c-exp-log-deriv",
+    "c-trig-deriv",
+    "c-rule-selection"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-senior-tangents",
+   "name": "Tangents and normals to elementary curves",
+   "topic": "differential-calculus",
+   "prereqs": [
+    "c-mixed-derivatives",
+    "c-tangents"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-antiderivatives",
+   "name": "Primitives and the family of antiderivatives",
+   "topic": "integration",
+   "prereqs": [
+    "c-power-rule"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-trapezoidal",
+   "name": "Numerical integration and trapezoidal approximation",
+   "topic": "integration",
+   "prereqs": [
+    "c-integral-meaning"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-definite-integrals",
+   "name": "The Fundamental Theorem and definite integrals",
+   "topic": "integration",
+   "prereqs": [
+    "c-integral-meaning",
+    "c-initial-conditions"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-areas",
+   "name": "Areas bounded by a curve and the x-axis",
+   "topic": "integration",
+   "prereqs": [
+    "c-definite-integrals",
+    "c-exponential-integrals",
+    "c-logarithmic-integrals",
+    "c-trig-integrals"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-applications",
+   "name": "Rates and accumulated change in context",
+   "topic": "integration",
+   "prereqs": [
+    "c-initial-conditions",
+    "c-mixed-derivatives",
+    "c-exponential-integrals",
+    "c-trig-integrals"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-linear-primitives",
+   "name": "Primitives of powers of linear functions",
+   "topic": "integral-calculus",
+   "prereqs": [
+    "c-antiderivatives",
+    "c-chain-rule"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-initial-conditions",
+   "name": "Find a primitive from an initial condition",
+   "topic": "integral-calculus",
+   "prereqs": [
+    "c-antiderivatives",
+    "c-linear-primitives"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-integral-meaning",
+   "name": "Definite integrals as signed accumulation",
+   "topic": "integral-calculus",
+   "prereqs": [
+    "c-gradient-secant",
+    "f-piecewise"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-reverse-chain",
+   "name": "Recognise reverse-chain integrals",
+   "topic": "integral-calculus",
+   "prereqs": [
+    "c-linear-primitives",
+    "c-definite-integrals",
+    "c-chain-rule"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-exponential-integrals",
+   "name": "Integrate exponential functions",
+   "topic": "integral-calculus",
+   "prereqs": [
+    "c-reverse-chain",
+    "c-exp-log-deriv"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-logarithmic-integrals",
+   "name": "Reciprocal integrals and logarithms",
+   "topic": "integral-calculus",
+   "prereqs": [
+    "c-reverse-chain",
+    "c-exp-log-deriv"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-trig-integrals",
+   "name": "Integrate trigonometric functions",
+   "topic": "integral-calculus",
+   "prereqs": [
+    "c-reverse-chain",
+    "c-trig-deriv"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-y-axis-areas",
+   "name": "Areas relative to the y-axis and inverse curves",
+   "topic": "integral-calculus",
+   "prereqs": [
+    "c-areas",
+    "f-log-graphs"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-integral-properties",
+   "name": "Integral properties, symmetry and digital verification",
+   "topic": "integral-calculus",
+   "prereqs": [
+    "c-definite-integrals",
+    "f-even-odd"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-differentiability",
+   "name": "Continuity and differentiability",
+   "topic": "applications-of-calculus",
+   "prereqs": [
+    "c-first-principles",
+    "f-piecewise",
+    "f-absolute"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-exponential-growth",
+   "name": "Exponential growth and decay models",
+   "topic": "applications-of-calculus",
+   "prereqs": [
+    "c-exp-log-deriv",
+    "f-log-change-base"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-motion-integrals",
+   "name": "Displacement, velocity and acceleration",
+   "topic": "applications-of-calculus",
+   "prereqs": [
+    "c-motion-rates",
+    "c-applications"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "s-sets",
+   "name": "Sets, notation and Venn diagrams",
+   "topic": "probability-and-data",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "s-independence",
+   "name": "Test independence and solve event problems",
+   "topic": "probability-and-data",
+   "prereqs": [
+    "s-conditional"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "s-random-variable-types",
+   "name": "Random variables and data types",
+   "topic": "probability-and-data",
+   "prereqs": [
+    "s-probability"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "s-frequency-graphs",
+   "name": "Histograms, polygons, mode and median",
+   "topic": "probability-and-data",
+   "prereqs": [
+    "s-data-summary"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "s-probability",
+   "name": "Sample spaces, events and probability rules",
+   "topic": "probability-distributions",
+   "prereqs": [
+    "s-sets"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "s-conditional",
+   "name": "Conditional probability and restricted sample spaces",
+   "topic": "probability-distributions",
+   "prereqs": [
+    "s-probability"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "s-discrete-rv",
+   "name": "Discrete probability distributions",
+   "topic": "probability-distributions",
+   "prereqs": [
+    "s-random-variable-types",
+    "s-data-summary"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "s-expected-value",
+   "name": "Expectation, variance and discrete decisions",
+   "topic": "probability-distributions",
+   "prereqs": [
+    "s-discrete-rv",
+    "f-algebra-expansion"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "s-data-summary",
+   "name": "Frequency tables and cumulative data",
+   "topic": "data-distributions-yr12",
+   "prereqs": [
+    "s-random-variable-types"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "s-continuous-rv",
+   "name": "Continuous density and interval probability",
+   "topic": "data-distributions-yr12",
+   "prereqs": [
+    "c-definite-integrals",
+    "s-random-variable-types"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "s-normal",
+   "name": "Normal models and the empirical rule",
+   "topic": "data-distributions-yr12",
+   "prereqs": [
+    "s-continuous-rv",
+    "c-second-derivative"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "s-zscores",
+   "name": "Standardisation and normal probabilities",
+   "topic": "data-distributions-yr12",
+   "prereqs": [
+    "s-normal",
+    "s-cdf"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "s-cdf",
+   "name": "Cumulative distributions and quantiles",
+   "topic": "random-variables",
+   "prereqs": [
+    "s-continuous-rv",
+    "c-differentiability"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "s-continuous-moments",
+   "name": "Continuous expectation and variance",
+   "topic": "random-variables",
+   "prereqs": [
+    "s-continuous-rv",
+    "c-integral-properties"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "s-inverse-normal",
+   "name": "Recover normal model parameters from probabilities",
+   "topic": "random-variables",
+   "prereqs": [
+    "s-zscores",
+    "f-linear-equations"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "t-sequence-notation",
+   "name": "Sequences, partial sums and sigma notation",
+   "topic": "sequences-and-series",
+   "prereqs": [
+    "f-notation",
+    "f-algebra-fluency"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "t-geometric-limits",
+   "name": "Limiting geometric sums",
+   "topic": "sequences-and-series",
+   "prereqs": [
+    "t-geometric-seq"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "t-arithmetic-seq",
+   "name": "Arithmetic sequences and their sums",
+   "topic": "financial-maths",
+   "prereqs": [
+    "t-sequence-notation",
+    "f-linear-models"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "t-geometric-seq",
+   "name": "Geometric sequences and finite sums",
+   "topic": "financial-maths",
+   "prereqs": [
+    "t-sequence-notation",
+    "f-exponentials",
+    "f-log-change-base"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "t-annuities",
+   "name": "Annuities, contributions and withdrawals",
+   "topic": "financial-maths",
+   "prereqs": [
+    "t-geometric-seq",
+    "t-loan-balances"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "t-loan-balances",
+   "name": "Reducing balance loans and repayment schedules",
+   "topic": "financial-mathematics",
+   "prereqs": [
+    "t-geometric-seq",
+    "f-log-change-base"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "c-product-quotient",
+   "name": "Applies the product and quotient rules",
+   "topic": "retained-differentiation-yr12",
+   "prereqs": [
+    "c-chain-rule"
+   ],
+   "years": []
+  },
+  {
+   "key": "s-bivariate",
+   "name": "Analyses bivariate data using scatter plots and correlation",
+   "topic": "retained-data-distributions-yr12",
+   "prereqs": [
+    "s-data-summary"
+   ],
+   "years": []
+  },
+  {
+   "key": "s-regression",
+   "name": "Fits and interprets a least-squares regression line",
+   "topic": "retained-data-distributions-yr12",
+   "prereqs": [
+    "s-bivariate"
+   ],
+   "years": []
+  },
+  {
+   "key": "t-compound-interest",
+   "name": "Models compound interest and depreciation using geometric growth",
+   "topic": "retained-financial-maths",
+   "prereqs": [
+    "t-geometric-seq",
+    "f-exponentials"
+   ],
+   "years": []
+  }
+ ]
+}

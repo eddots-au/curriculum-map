@@ -1,0 +1,1321 @@
+{
+ "schema": 1,
+ "status": "PROPOSED: not yet reviewed by a curriculum expert. Treat as suggestions to check, not as claims.",
+ "types": {
+  "builds-on": "from needs to (prerequisite)",
+  "uses": "from applies to",
+  "connects-to": "related, not required",
+  "leads-to": "from leads on to the later to"
+ },
+ "links": [
+  {
+   "id": "xl-0001",
+   "from": "mathematics-hsc:f-algebra-fluency",
+   "to": "mathematics-k10:na-index-laws",
+   "type": "builds-on",
+   "why": "The Starting lesson extends the Stage 5 index laws for positive and zero powers.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 11 (2024 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Advanced lesson f-algebra-fluency (outcome MAV-11-01): its Starting level covers positive integer and zero powers, the laws K–10 na-index-laws teaches."
+  },
+  {
+   "id": "xl-0002",
+   "from": "mathematics-hsc:f-algebra-fluency",
+   "to": "mathematics-k10:na-negative-indices-algebraic",
+   "type": "builds-on",
+   "why": "The Developing lesson extends the Stage 5 rules for negative indices.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 11 (2024 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Advanced lesson f-algebra-fluency (outcome MAV-11-01): its Developing level covers negative integer indices, which K–10 na-negative-indices-algebraic teaches."
+  },
+  {
+   "id": "xl-0003",
+   "from": "mathematics-hsc:t-ratios-review",
+   "to": "mathematics-k10:ms-trig-ratios",
+   "type": "builds-on",
+   "why": "Right-triangle modelling in Year 11 starts from the sine, cosine and tangent ratios.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 11 (2024 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Advanced lesson t-ratios-review (outcome MAV-11-04), right-triangle modelling; K–10 ms-trig-ratios (Stage 5 core)."
+  },
+  {
+   "id": "xl-0004",
+   "from": "mathematics-standard-11-12:ms11-rearrange-formulas",
+   "to": "mathematics-k10:na-change-subject",
+   "type": "builds-on",
+   "why": "Year 11 extends changing the subject to formulas with a squared term.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Standard, Year 11 (2024 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Standard lesson ms11-rearrange-formulas (outcome MST-11-01), scope \"For y=ax²+c isolate the square\"; K–10 na-change-subject (Stage 5)."
+  },
+  {
+   "id": "xl-0005",
+   "from": "mathematics-standard-11-12:ms11-scientific-notation",
+   "to": "mathematics-k10:ms-scientific-notation",
+   "type": "builds-on",
+   "why": "Year 11 adds metric prefixes and significant figures to Stage 5 scientific notation.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Standard, Year 11 (2024 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Standard lesson ms11-scientific-notation (outcome MST-11-05); K–10 ms-scientific-notation (Stage 5)."
+  },
+  {
+   "id": "xl-0006",
+   "from": "mathematics-hsc:f-exponentials",
+   "to": "mathematics-k10:na-exponential-curves",
+   "type": "builds-on",
+   "why": "Year 11 exponential graphs build on the exponential curves graphed in Stage 5.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 11 (2024 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Concept names in both trees: \"Exponential graphs and end behaviour\" (Advanced, Year 11) and \"Graphs exponential curves of the form y = a^x\" (K–10, Stage 5)."
+  },
+  {
+   "id": "xl-0007",
+   "from": "mathematics-hsc:f-linear-models",
+   "to": "mathematics-k10:na-simultaneous",
+   "type": "builds-on",
+   "why": "Break-even models solve two linear equations simultaneously, a Stage 5 method.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 11 (2024 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Concept names in both trees: \"Linear models, simultaneous equations and break-even\" (Advanced, Year 11) and \"Solves simultaneous linear equations graphically and algebraically\" (K–10, Stage 5)."
+  },
+  {
+   "id": "xl-0008",
+   "from": "mathematics-hsc:f-algebra-fluency",
+   "to": "mathematics-k10:na-fractional-indices",
+   "type": "connects-to",
+   "why": "The Strong lesson teaches fractional powers again; Stage 5 met them first.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 11 (2024 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "The Advanced lesson states that no fractional indices are assumed, so this is not marked Builds on. Review 3 §4.3."
+  },
+  {
+   "id": "xl-0009",
+   "from": "mathematics-hsc:s-sets",
+   "to": "mathematics-k10:sp-set-notation",
+   "type": "builds-on",
+   "why": "Year 11 sets use the set language and notation from Stage 5.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 11 (2024 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3. K–10 sp-set-notation is Path content: confirm which Stage 5 paths Mathematics Advanced assumes."
+  },
+  {
+   "id": "xl-0010",
+   "from": "mathematics-hsc:s-sets",
+   "to": "mathematics-k10:sp-venn-two-way",
+   "type": "builds-on",
+   "why": "Year 11 Venn diagrams extend Stage 5 Venn diagrams and two-way tables.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 11 (2024 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3. K–10 sp-venn-two-way is Path content."
+  },
+  {
+   "id": "xl-0011",
+   "from": "mathematics-hsc:t-ratios-review",
+   "to": "mathematics-k10:ms-exact-trig-ratios",
+   "type": "builds-on",
+   "why": "The exact ratios for 30, 45 and 60 degrees come from Stage 5.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 11 (2024 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3. K–10 ms-exact-trig-ratios is Path content."
+  },
+  {
+   "id": "xl-0012",
+   "from": "mathematics-hsc:f-logarithms",
+   "to": "mathematics-k10:na-logarithm-definition",
+   "type": "builds-on",
+   "why": "Year 11 logarithms start from the Stage 5 definition of a logarithm.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 11 (2024 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3. K–10 na-logarithm-definition is Path content."
+  },
+  {
+   "id": "xl-0013",
+   "from": "mathematics-hsc:f-log-laws",
+   "to": "mathematics-k10:na-log-laws",
+   "type": "builds-on",
+   "why": "The Year 11 logarithm laws extend the laws deduced in Stage 5.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 11 (2024 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3. K–10 na-log-laws is Path content."
+  },
+  {
+   "id": "xl-0014",
+   "from": "mathematics-hsc:f-log-scales",
+   "to": "mathematics-k10:na-logarithmic-scales",
+   "type": "builds-on",
+   "why": "Year 12 logarithmic scales extend the Stage 5 work on logarithmic scales.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 12 (2024 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3. K–10 na-logarithmic-scales is Path content."
+  },
+  {
+   "id": "xl-0015",
+   "from": "mathematics-hsc:f-exponentials",
+   "to": "mathematics-k10:na-exponential-transformations",
+   "type": "builds-on",
+   "why": "Year 11 exponential graphs use the Stage 5 transformations of exponential curves.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 11 (2024 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0016",
+   "from": "mathematics-hsc:f-linear-models",
+   "to": "mathematics-k10:na-slope-intercept-form",
+   "type": "builds-on",
+   "why": "Linear models read the gradient and the intercept from y = mx + c.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 11 (2024 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0017",
+   "from": "physics-11-12:phy-s6-newton-second-law-cart",
+   "to": "mathematics-k10:na-change-subject",
+   "type": "builds-on",
+   "why": "Rearranging F = ma for the acceleration changes the subject of a formula.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Physics, Year 11 (2017 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Plan §3.3 example record; Review 3 §4.3."
+  },
+  {
+   "id": "xl-0018",
+   "from": "physics-11-12:phy-s6-newton-second-law-cart",
+   "to": "mathematics-standard-11-12:ms11-rearrange-formulas",
+   "type": "builds-on",
+   "why": "Isolating the acceleration in F = ma uses the Year 11 rearranging method.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Physics, Year 11 (2017 syllabus)",
+     "Mathematics Standard, Year 11 (2024 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0019",
+   "from": "physics-11-12:phy-s6-newton-second-law-cart",
+   "to": "mathematics-k10:na-substitution",
+   "type": "uses",
+   "why": "Substituting measured values into F = ma finds the force or the acceleration.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Physics, Year 11 (2017 syllabus)",
+     "Mathematics K–10, Years 7–8 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0020",
+   "from": "physics-11-12:phy-s6-newton-second-law-cart",
+   "to": "mathematics-k10:na-equations-formulas-words",
+   "type": "uses",
+   "why": "Questions about carts give linear equations built from F = ma.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Physics, Year 11 (2017 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0021",
+   "from": "physics-11-12:phy-s6-newton-second-law-cart",
+   "to": "mathematics-k10:ms-scientific-notation",
+   "type": "uses",
+   "why": "Measured masses and forces are written in scientific notation.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Physics, Year 11 (2017 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0022",
+   "from": "physics-11-12:phy-s6-newton-second-law-cart",
+   "to": "mathematics-k10:ms-rounding-significant-figures",
+   "type": "uses",
+   "why": "Answers from measured data are rounded to significant figures.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Physics, Year 11 (2017 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0023",
+   "from": "physics-11-12:phy-s6-newton-second-law-cart",
+   "to": "mathematics-standard-11-12:ms11-scientific-notation",
+   "type": "uses",
+   "why": "Metric prefixes and significant figures express measured forces and masses.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Physics, Year 11 (2017 syllabus)",
+     "Mathematics Standard, Year 11 (2024 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0024",
+   "from": "physics-11-12:phy-s6-newton-second-law-cart",
+   "to": "mathematics-k10:na-gradient-interval",
+   "type": "connects-to",
+   "why": "Acceleration is the gradient of a velocity–time graph.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Physics, Year 11 (2017 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0025",
+   "from": "physics-11-12:phy-s6-newton-second-law-cart",
+   "to": "mathematics-k10:na-constant-rate-graphs",
+   "type": "connects-to",
+   "why": "Constant acceleration gives a velocity–time graph with a constant rate of change.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Physics, Year 11 (2017 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0026",
+   "from": "physics-11-12:phy-s6-newton-second-law-cart",
+   "to": "mathematics-hsc:c-motion-rates",
+   "type": "connects-to",
+   "why": "Velocity and acceleration are rates of change, as in Advanced calculus.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Physics, Year 11 (2017 syllabus)",
+     "Mathematics Advanced, Year 11 (2024 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0027",
+   "from": "physics-11-12:phy-s6-newton-second-law-cart",
+   "to": "mathematics-extension-2-11-12:me2-y12-pulley-incline-systems",
+   "type": "leads-to",
+   "why": "Connected pulley motion applies F = ma to each mass.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Physics, Year 11 (2017 syllabus)",
+     "Mathematics Extension 2, Year 12 (2024 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0028",
+   "from": "physics-11-12:phy-s6-newton-second-law-cart",
+   "to": "mathematics-extension-2-11-12:me2-y12-rectilinear-resistance",
+   "type": "leads-to",
+   "why": "Resisted motion applies F = ma with a force that depends on speed.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Physics, Year 11 (2017 syllabus)",
+     "Mathematics Extension 2, Year 12 (2024 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0029",
+   "from": "physics-11-12:phy-s6-newton-second-law-cart",
+   "to": "mathematics-extension-1-11-12:me1-y12-projectile-components",
+   "type": "leads-to",
+   "why": "Projectile components apply the equations of motion in each direction.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Physics, Year 11 (2017 syllabus)",
+     "Mathematics Extension 1, Year 12 (2024 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0030",
+   "from": "physics-11-12:phy-s6-newton-second-law-cart",
+   "to": "english-k10:wr-evidence-argument-s4",
+   "type": "connects-to",
+   "why": "An extended response supports each claim with evidence from the data.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Physics, Year 11 (2017 syllabus)",
+     "English K–10, Years 7–8 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0031",
+   "from": "chemistry-11-12:chem-s6-le-chatelier-no2-n2o4-temperature-pressure",
+   "to": "mathematics-k10:na-ratios",
+   "type": "uses",
+   "why": "An equilibrium quotient is a ratio of concentrations.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Chemistry, Year 12 (2017 syllabus)",
+     "Mathematics K–10, Years 7–8 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0032",
+   "from": "chemistry-11-12:chem-s6-le-chatelier-no2-n2o4-temperature-pressure",
+   "to": "mathematics-k10:na-substitution",
+   "type": "uses",
+   "why": "Concentrations are substituted into the equilibrium expression.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Chemistry, Year 12 (2017 syllabus)",
+     "Mathematics K–10, Years 7–8 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0033",
+   "from": "chemistry-11-12:chem-s6-le-chatelier-no2-n2o4-temperature-pressure",
+   "to": "mathematics-k10:ms-scientific-notation",
+   "type": "uses",
+   "why": "Small equilibrium constants are written in scientific notation.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Chemistry, Year 12 (2017 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0034",
+   "from": "chemistry-11-12:chem-s6-le-chatelier-no2-n2o4-temperature-pressure",
+   "to": "mathematics-extension-1-11-12:me1-y12-separable-differential-equations",
+   "type": "connects-to",
+   "why": "Both treat equilibrium as a steady state that a system settles into.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Chemistry, Year 12 (2017 syllabus)",
+     "Mathematics Extension 1, Year 12 (2024 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3 marks this link weak."
+  },
+  {
+   "id": "xl-0035",
+   "from": "biology-11-12:bio-osmosis-water-movement",
+   "to": "mathematics-k10:na-ratios",
+   "type": "uses",
+   "why": "A concentration compares the amount of solute with the volume of water.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Biology, Year 11 (2017 syllabus)",
+     "Mathematics K–10, Years 7–8 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0036",
+   "from": "biology-11-12:bio-osmosis-water-movement",
+   "to": "mathematics-k10:na-rates",
+   "type": "uses",
+   "why": "The rate of water movement compares a change in mass with the time taken.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Biology, Year 11 (2017 syllabus)",
+     "Mathematics K–10, Years 7–8 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0037",
+   "from": "biology-11-12:bio-osmosis-water-movement",
+   "to": "mathematics-k10:ms-similar-area-volume-ratios",
+   "type": "uses",
+   "why": "Surface area to volume ratio explains how fast a cell gains or loses water.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Biology, Year 11 (2017 syllabus)",
+     "Mathematics K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0038",
+   "from": "biology-11-12:bio-osmosis-water-movement",
+   "to": "english-k10:wr-procedure-explanation-s2",
+   "type": "connects-to",
+   "why": "Explaining osmosis step by step uses ordered explanation writing.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Biology, Year 11 (2017 syllabus)",
+     "English K–10, Years 3–4 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0039",
+   "from": "english-hsc:ta-close-reading",
+   "to": "english-k10:rv-close-reading-s5",
+   "type": "builds-on",
+   "why": "Year 11 close reading extends the Stage 5 rereading for layers of meaning.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "English Advanced, Year 11 (2017 syllabus)",
+     "English K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0040",
+   "from": "english-hsc:ta-context",
+   "to": "english-k10:rv-critical-analysis",
+   "type": "builds-on",
+   "why": "Explaining context extends the Stage 5 study of how texts position readers.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "English Advanced, Year 11 (2017 syllabus)",
+     "English K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0041",
+   "from": "english-hsc:ta-context",
+   "to": "english-k10:rv-thematic-analysis-s5",
+   "type": "builds-on",
+   "why": "Context explains the thematic concerns first analysed in Stage 5.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "English Advanced, Year 11 (2017 syllabus)",
+     "English K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0042",
+   "from": "english-hsc:ta-perspective",
+   "to": "english-k10:rv-critical-analysis",
+   "type": "builds-on",
+   "why": "Analysing perspective extends the Stage 5 study of how texts position audiences.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "English Advanced, Year 11 (2017 syllabus)",
+     "English K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0043",
+   "from": "english-hsc:ec-thesis",
+   "to": "english-k10:wr-thesis-s5",
+   "type": "builds-on",
+   "why": "The HSC essay thesis builds on the Stage 5 thesis for extended texts.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "English Advanced, Year 11 (2017 syllabus)",
+     "English K–10, Years 9–10 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0044",
+   "from": "english-hsc:ec-evidence",
+   "to": "english-k10:wr-peel",
+   "type": "builds-on",
+   "why": "HSC essays embed evidence in sentences, as Stage 4 paragraphs do.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "English Advanced, Year 11 (2017 syllabus)",
+     "English K–10, Years 7–8 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0045",
+   "from": "english-hsc:ec-evidence",
+   "to": "english-k10:wr-evidence-argument-s4",
+   "type": "builds-on",
+   "why": "Choosing evidence for a claim starts with Stage 4 argument writing.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "English Advanced, Year 11 (2017 syllabus)",
+     "English K–10, Years 7–8 (2022 syllabus)"
+    ]
+   },
+   "basis": "Review 3 §4.3."
+  },
+  {
+   "id": "xl-0046",
+   "from": "mathematics-standard-11-12:ms12s1-simple-interest",
+   "to": "mathematics-k10:na-change-subject",
+   "type": "builds-on",
+   "why": "Both concepts use changing the subject of a formula.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Standard, Year 12",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"changing the subject of a formula\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0047",
+   "from": "mathematics-standard-11-12:ms12s2-simple-interest",
+   "to": "mathematics-k10:na-change-subject",
+   "type": "builds-on",
+   "why": "Both concepts use changing the subject of a formula.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Standard, Year 12",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"changing the subject of a formula\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0048",
+   "from": "mathematics-hsc:f-log-laws",
+   "to": "mathematics-k10:na-logarithm-definition",
+   "type": "builds-on",
+   "why": "Both concepts use logarithms.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 11",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"logarithms\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0049",
+   "from": "mathematics-hsc:f-log-change-base",
+   "to": "mathematics-k10:na-logarithm-definition",
+   "type": "builds-on",
+   "why": "Both concepts use logarithms.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 11",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"logarithms\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0050",
+   "from": "mathematics-hsc:f-log-graphs",
+   "to": "mathematics-k10:na-logarithm-definition",
+   "type": "builds-on",
+   "why": "Both concepts use logarithms.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 11",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"logarithms\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0051",
+   "from": "mathematics-hsc:f-log-scales",
+   "to": "mathematics-k10:na-logarithm-definition",
+   "type": "builds-on",
+   "why": "Both concepts use logarithms.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 12",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"logarithms\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0052",
+   "from": "mathematics-hsc:c-exp-log-deriv",
+   "to": "mathematics-k10:na-logarithm-definition",
+   "type": "builds-on",
+   "why": "Both concepts use logarithms.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 12",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"logarithms\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0053",
+   "from": "mathematics-hsc:c-logarithmic-integrals",
+   "to": "mathematics-k10:na-logarithm-definition",
+   "type": "builds-on",
+   "why": "Both concepts use logarithms.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 12",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"logarithms\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0054",
+   "from": "mathematics-standard-11-12:ms12s1-right-triangle-trigonometry",
+   "to": "mathematics-k10:ms-trig-ratios",
+   "type": "builds-on",
+   "why": "Both concepts use trigonometric ratios.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Standard, Year 12",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"trigonometric ratios\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0055",
+   "from": "mathematics-standard-11-12:ms12s2-right-triangle-trigonometry",
+   "to": "mathematics-k10:ms-trig-ratios",
+   "type": "builds-on",
+   "why": "Both concepts use trigonometric ratios.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Standard, Year 12",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"trigonometric ratios\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0056",
+   "from": "mathematics-hsc:t-transformed-graphs",
+   "to": "mathematics-k10:ms-trig-ratios",
+   "type": "builds-on",
+   "why": "Both concepts use trigonometric ratios.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 12",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"trigonometric ratios\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0057",
+   "from": "mathematics-hsc:t-trig-graphs",
+   "to": "mathematics-k10:ms-trig-ratios",
+   "type": "builds-on",
+   "why": "Both concepts use trigonometric ratios.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 11",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"trigonometric ratios\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0058",
+   "from": "mathematics-standard-11-12:ms12s2-simultaneous-equations",
+   "to": "mathematics-k10:na-simultaneous",
+   "type": "builds-on",
+   "why": "Both concepts use simultaneous equations.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Standard, Year 12",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"simultaneous equations\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0059",
+   "from": "mathematics-standard-11-12:ms12s1-ratios",
+   "to": "mathematics-k10:na-ratios",
+   "type": "builds-on",
+   "why": "Both concepts use ratios.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Standard, Year 12",
+     "Mathematics K–10, Years 7–8"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"ratios\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0060",
+   "from": "mathematics-standard-11-12:ms12s2-ratios-capture-recapture",
+   "to": "mathematics-k10:na-ratios",
+   "type": "builds-on",
+   "why": "Both concepts use ratios.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Standard, Year 12",
+     "Mathematics K–10, Years 7–8"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"ratios\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0061",
+   "from": "mathematics-hsc:t-unit-circle",
+   "to": "mathematics-k10:na-ratios",
+   "type": "builds-on",
+   "why": "Both concepts use ratios.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 11",
+     "Mathematics K–10, Years 7–8"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"ratios\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0062",
+   "from": "mathematics-standard-11-12:ms12s1-rates-unit-prices",
+   "to": "mathematics-k10:na-earning-money",
+   "type": "builds-on",
+   "why": "Both concepts use rates.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Standard, Year 12",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"rates\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0063",
+   "from": "mathematics-standard-11-12:ms12s2-rates-travel-fuel",
+   "to": "mathematics-k10:na-earning-money",
+   "type": "builds-on",
+   "why": "Both concepts use rates.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Standard, Year 12",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"rates\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0064",
+   "from": "mathematics-standard-11-12:ms11-wages-salaries",
+   "to": "mathematics-k10:na-earning-money",
+   "type": "builds-on",
+   "why": "Both concepts use rates.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Standard, Year 11",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"rates\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0065",
+   "from": "mathematics-hsc:c-motion-rates",
+   "to": "mathematics-k10:na-earning-money",
+   "type": "builds-on",
+   "why": "Both concepts use rates.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 11",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"rates\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0066",
+   "from": "mathematics-hsc:c-applications",
+   "to": "mathematics-k10:na-earning-money",
+   "type": "builds-on",
+   "why": "Both concepts use rates.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 12",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"rates\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0067",
+   "from": "mathematics-extension-1-11-12:me1-y12-related-rates-chain-rule",
+   "to": "mathematics-k10:na-earning-money",
+   "type": "builds-on",
+   "why": "Both concepts use rates.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Extension 1, Year 12",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"rates\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0068",
+   "from": "mathematics-extension-1-11-12:me1-y12-related-rates-chain-rule",
+   "to": "mathematics-hsc:c-applications",
+   "type": "builds-on",
+   "why": "Both concepts use rates.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Extension 1, Year 12",
+     "Mathematics Advanced, Year 12"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"rates\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0069",
+   "from": "mathematics-standard-11-12:ms11-scientific-notation",
+   "to": "mathematics-k10:ms-rounding-significant-figures",
+   "type": "builds-on",
+   "why": "Both concepts use significant figures.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Standard, Year 11",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"significant figures\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0070",
+   "from": "mathematics-hsc:c-derivative-meaning",
+   "to": "mathematics-k10:na-gradient-interval",
+   "type": "builds-on",
+   "why": "Both concepts use gradient.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Advanced, Year 11",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"gradient\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0071",
+   "from": "mathematics-extension-1-11-12:me1-y12-differential-equations-slope-fields",
+   "to": "mathematics-k10:na-gradient-interval",
+   "type": "builds-on",
+   "why": "Both concepts use gradient.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Extension 1, Year 12",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"gradient\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0072",
+   "from": "mathematics-extension-1-11-12:me1-y12-differential-equations-slope-fields",
+   "to": "mathematics-hsc:c-derivative-meaning",
+   "type": "builds-on",
+   "why": "Both concepts use gradient.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Extension 1, Year 12",
+     "Mathematics Advanced, Year 11"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"gradient\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0073",
+   "from": "mathematics-standard-11-12:ms12s2-venn-two-way",
+   "to": "mathematics-k10:sp-venn-two-way",
+   "type": "builds-on",
+   "why": "Both concepts use set notation.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Standard, Year 12",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"set notation\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0074",
+   "from": "mathematics-extension-2-11-12:me2-y12-complex-number-foundations",
+   "to": "mathematics-k10:sp-venn-two-way",
+   "type": "builds-on",
+   "why": "Both concepts use set notation.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Extension 2, Year 12",
+     "Mathematics K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"set notation\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0075",
+   "from": "mathematics-extension-2-11-12:me2-y12-complex-number-foundations",
+   "to": "mathematics-hsc:s-sets",
+   "type": "builds-on",
+   "why": "Both concepts use set notation.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "Mathematics Extension 2, Year 12",
+     "Mathematics Advanced, Year 11"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"set notation\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0076",
+   "from": "english-hsc:ec-thesis",
+   "to": "english-k10:wr-sustained-essay",
+   "type": "builds-on",
+   "why": "Both concepts use a thesis.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "English Advanced, Year 11",
+     "English K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"a thesis\". Check the type and write the reason before review."
+  },
+  {
+   "id": "xl-0077",
+   "from": "english-hsc:ec-full-essay",
+   "to": "english-k10:wr-sustained-essay",
+   "type": "builds-on",
+   "why": "Both concepts use a thesis.",
+   "scope": {
+    "states": [
+     "NSW"
+    ],
+    "cohorts": [
+     "English Advanced, Year 12",
+     "English K–10, Years 9–10"
+    ]
+   },
+   "basis": "Derived: both concept names match the vocabulary term \"a thesis\". Check the type and write the reason before review."
+  }
+ ]
+}

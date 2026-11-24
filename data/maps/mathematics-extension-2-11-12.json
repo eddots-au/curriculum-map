@@ -1,0 +1,488 @@
+{
+ "schema": 1,
+ "id": "mathematics-extension-2-11-12",
+ "name": "Mathematics Extension 2 — Year 12",
+ "treeVersion": 1,
+ "note": "NSW 2024 syllabus sequence; Year 11 from 2026, Year 12 first HSC 2027. Retained revision is labelled separately.",
+ "stageYears": {
+  "Stage 6": [
+   12
+  ]
+ },
+ "strands": [
+  {
+   "key": "the-nature-of-proof",
+   "name": "The nature of proof"
+  },
+  {
+   "key": "further-work-with-vectors",
+   "name": "Further work with vectors"
+  },
+  {
+   "key": "introduction-to-complex-numbers",
+   "name": "Introduction to complex numbers"
+  },
+  {
+   "key": "further-integration",
+   "name": "Further integration"
+  },
+  {
+   "key": "applications-of-calculus-to-mechanics",
+   "name": "Applications of calculus to mechanics"
+  }
+ ],
+ "topics": [
+  {
+   "key": "the-nature-of-proof",
+   "name": "The nature of proof",
+   "strand": "the-nature-of-proof",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "further-work-with-vectors",
+   "name": "Further work with vectors",
+   "strand": "further-work-with-vectors",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "introduction-to-complex-numbers",
+   "name": "Introduction to complex numbers",
+   "strand": "introduction-to-complex-numbers",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "further-integration",
+   "name": "Further integration",
+   "strand": "further-integration",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "applications-of-calculus-to-mechanics",
+   "name": "Applications of calculus to mechanics",
+   "strand": "applications-of-calculus-to-mechanics",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  }
+ ],
+ "skills": [
+  {
+   "key": "me2-y12-proof-statements-logic",
+   "name": "Statements, connectives and quantifiers",
+   "topic": "the-nature-of-proof",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-negation-converse-contrapositive",
+   "name": "Negation, converse and contrapositive",
+   "topic": "the-nature-of-proof",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-integer-proofs-counterexamples",
+   "name": "Direct and contradiction proofs with integers",
+   "topic": "the-nature-of-proof",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-inequality-foundations",
+   "name": "Proving and transforming inequalities safely",
+   "topic": "the-nature-of-proof",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-triangle-amgm-inequalities",
+   "name": "Triangle inequality and arithmetic–geometric mean",
+   "topic": "the-nature-of-proof",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-calculus-squeeze-inequalities",
+   "name": "Inequalities from graphs, calculus and squeezing",
+   "topic": "the-nature-of-proof",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-induction-identities-inequalities",
+   "name": "Induction for identities and inequalities",
+   "topic": "the-nature-of-proof",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-induction-recursion-calculus-geometry",
+   "name": "Induction across recurrence, calculus and geometry",
+   "topic": "the-nature-of-proof",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-vector-lines-parameters",
+   "name": "Direction vectors and lines through points",
+   "topic": "further-work-with-vectors",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-vector-incidence-parallelism",
+   "name": "Parallel lines, point membership and collinearity",
+   "topic": "further-work-with-vectors",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-vector-line-intersections",
+   "name": "Intersections and skew lines in two and three dimensions",
+   "topic": "further-work-with-vectors",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-vector-parametric-curves",
+   "name": "Vector curves and Cartesian elimination",
+   "topic": "further-work-with-vectors",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-vector-circles-spheres",
+   "name": "Circles and spheres as vector loci",
+   "topic": "further-work-with-vectors",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-dot-product-cauchy-schwarz",
+   "name": "Dot-product laws and Cauchy–Schwarz",
+   "topic": "further-work-with-vectors",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-vector-geometric-proofs",
+   "name": "Vector proofs involving triangle lines and spatial geometry",
+   "topic": "further-work-with-vectors",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-complex-number-foundations",
+   "name": "Imaginary unit, number sets and negative discriminants",
+   "topic": "introduction-to-complex-numbers",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-complex-arithmetic-conjugates",
+   "name": "Complex arithmetic and conjugates",
+   "topic": "introduction-to-complex-numbers",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-complex-square-roots-equations",
+   "name": "Square roots and quadratics with complex coefficients",
+   "topic": "introduction-to-complex-numbers",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-complex-plane-argument",
+   "name": "Argand diagrams, arguments and polar form",
+   "topic": "introduction-to-complex-numbers",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-complex-polar-operations",
+   "name": "Polar multiplication, division and identities",
+   "topic": "introduction-to-complex-numbers",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-complex-conjugate-root-theorem",
+   "name": "Conjugate roots of real polynomials",
+   "topic": "introduction-to-complex-numbers",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-de-moivre-integer-powers",
+   "name": "de Moivre’s theorem and integer powers",
+   "topic": "introduction-to-complex-numbers",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-complex-roots-unity",
+   "name": "Roots of unity, roots of −1 and arbitrary complex numbers",
+   "topic": "introduction-to-complex-numbers",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-complex-transformations-geometry",
+   "name": "Complex vectors, rotations and geometric proofs",
+   "topic": "introduction-to-complex-numbers",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-complex-lines-circles-rays",
+   "name": "Loci: real/imaginary lines, distances and rays",
+   "topic": "introduction-to-complex-numbers",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-complex-regions-intersections",
+   "name": "Combined complex regions and circle geometry",
+   "topic": "introduction-to-complex-numbers",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-product-sum-identities",
+   "name": "Product-to-sum derivations and trig equations",
+   "topic": "further-integration",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-t-formulas-equations",
+   "name": "Tangent-half-angle formulas with domain checks",
+   "topic": "further-integration",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-integration-substitution",
+   "name": "Selecting and completing a substitution",
+   "topic": "further-integration",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-partial-fractions-distinct-factors",
+   "name": "Partial fractions with linear and irreducible quadratic factors",
+   "topic": "further-integration",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-partial-fractions-repeated-factors",
+   "name": "Repeated factors and improper rational integrands",
+   "topic": "further-integration",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-completing-square-integration",
+   "name": "Completing the square and choosing an integral form",
+   "topic": "further-integration",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-integration-by-parts",
+   "name": "Derivation and first applications of integration by parts",
+   "topic": "further-integration",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-repeated-parts-recurrences",
+   "name": "Repeated integration by parts and recurrence relations",
+   "topic": "further-integration",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-integration-method-selection",
+   "name": "Combining integration techniques in theory and context",
+   "topic": "further-integration",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-acceleration-representations",
+   "name": "Three acceleration forms and displacement-dependent motion",
+   "topic": "applications-of-calculus-to-mechanics",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-newtons-laws-resultant-forces",
+   "name": "Newton’s laws and resolved concurrent forces",
+   "topic": "applications-of-calculus-to-mechanics",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-motion-no-resistance",
+   "name": "Constant/variable acceleration and smooth inclines",
+   "topic": "applications-of-calculus-to-mechanics",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-pulley-incline-systems",
+   "name": "Connected motion through a single smooth pulley",
+   "topic": "applications-of-calculus-to-mechanics",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-shm-definition-solutions",
+   "name": "Simple harmonic motion: centre, restoring force and solutions",
+   "topic": "applications-of-calculus-to-mechanics",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-shm-graphs-initial-conditions",
+   "name": "SHM graphs, energy relation and initial conditions",
+   "topic": "applications-of-calculus-to-mechanics",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-rectilinear-resistance",
+   "name": "Straight-line resistance proportional to powers of speed",
+   "topic": "applications-of-calculus-to-mechanics",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-vertical-linear-resistance",
+   "name": "Vertical motion with resistance proportional to speed",
+   "topic": "applications-of-calculus-to-mechanics",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-vertical-quadratic-resistance",
+   "name": "Vertical motion with resistance proportional to speed squared",
+   "topic": "applications-of-calculus-to-mechanics",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "me2-y12-resisted-projectiles",
+   "name": "Projectile motion with linear resistance",
+   "topic": "applications-of-calculus-to-mechanics",
+   "prereqs": [],
+   "years": [
+    12
+   ]
+  }
+ ]
+}

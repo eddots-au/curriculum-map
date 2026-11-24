@@ -1,0 +1,1348 @@
+{
+ "schema": 1,
+ "id": "mathematics-standard-11-12",
+ "name": "Mathematics Standard — Years 11–12",
+ "treeVersion": 1,
+ "note": "NSW 2024 syllabus sequence; Year 11 from 2026, Year 12 first HSC 2027. Retained revision is labelled separately.",
+ "stageYears": {
+  "Stage 6": [
+   11,
+   12
+  ]
+ },
+ "strands": [
+  {
+   "key": "algebra-and-functions",
+   "name": "Algebra and functions"
+  },
+  {
+   "key": "financial-mathematics",
+   "name": "Financial mathematics"
+  },
+  {
+   "key": "measurement",
+   "name": "Measurement"
+  },
+  {
+   "key": "networks",
+   "name": "Networks"
+  },
+  {
+   "key": "probability-and-data",
+   "name": "Probability and data"
+  },
+  {
+   "key": "trigonometry",
+   "name": "Trigonometry"
+  }
+ ],
+ "topics": [
+  {
+   "key": "formulas-and-equations",
+   "name": "Formulas and equations",
+   "strand": "algebra-and-functions",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "linear-relationships",
+   "name": "Linear relationships",
+   "strand": "algebra-and-functions",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "standard-1-algebraic-relationships",
+   "name": "Standard 1: Algebraic relationships",
+   "strand": "algebra-and-functions",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "standard-1-ratios-and-rates",
+   "name": "Standard 1: Ratios and rates",
+   "strand": "algebra-and-functions",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "standard-2-algebraic-relationships",
+   "name": "Standard 2: Algebraic relationships",
+   "strand": "algebra-and-functions",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "standard-2-ratios-and-rates",
+   "name": "Standard 2: Ratios and rates",
+   "strand": "algebra-and-functions",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "earning-money",
+   "name": "Earning money",
+   "strand": "financial-mathematics",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "managing-money",
+   "name": "Managing money",
+   "strand": "financial-mathematics",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "standard-1-investment",
+   "name": "Standard 1: Investment",
+   "strand": "financial-mathematics",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "standard-1-depreciation-and-loans",
+   "name": "Standard 1: Depreciation and loans",
+   "strand": "financial-mathematics",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "standard-2-investment-and-loans",
+   "name": "Standard 2: Investment and loans",
+   "strand": "financial-mathematics",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "standard-2-annuities",
+   "name": "Standard 2: Annuities",
+   "strand": "financial-mathematics",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "applications-of-measurement",
+   "name": "Applications of measurement",
+   "strand": "measurement",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "time-and-location",
+   "name": "Time and location",
+   "strand": "measurement",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "networks-paths-and-trees",
+   "name": "Networks, paths and trees",
+   "strand": "networks",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "standard-2-network-flow",
+   "name": "Standard 2: Network flow",
+   "strand": "networks",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "standard-2-critical-path-analysis",
+   "name": "Standard 2: Critical path analysis",
+   "strand": "networks",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "data-analysis",
+   "name": "Data analysis",
+   "strand": "probability-and-data",
+   "stage": "Stage 6",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "standard-1-bivariate-data-analysis",
+   "name": "Standard 1: Bivariate data analysis",
+   "strand": "probability-and-data",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "standard-1-relative-frequency-and-probability",
+   "name": "Standard 1: Relative frequency and probability",
+   "strand": "probability-and-data",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "standard-2-bivariate-data-analysis",
+   "name": "Standard 2: Bivariate data analysis",
+   "strand": "probability-and-data",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "standard-2-relative-frequency-and-probability",
+   "name": "Standard 2: Relative frequency and probability",
+   "strand": "probability-and-data",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "standard-2-the-normal-distribution",
+   "name": "Standard 2: The normal distribution",
+   "strand": "probability-and-data",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "standard-1-right-angled-triangles",
+   "name": "Standard 1: Right-angled triangles",
+   "strand": "trigonometry",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "standard-2-trigonometry",
+   "name": "Standard 2: Trigonometry",
+   "strand": "trigonometry",
+   "stage": "Stage 6",
+   "years": [
+    12
+   ]
+  }
+ ],
+ "skills": [
+  {
+   "key": "ms11-substitution",
+   "name": "Read formulas and substitute values",
+   "topic": "formulas-and-equations",
+   "prereqs": [],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-linear-equations",
+   "name": "Build and solve linear equations from word problems",
+   "topic": "formulas-and-equations",
+   "prereqs": [
+    "ms11-substitution"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-rearrange-formulas",
+   "name": "Change the subject of linear and quadratic formulas",
+   "topic": "formulas-and-equations",
+   "prereqs": [
+    "ms11-linear-equations"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-practical-formulas",
+   "name": "Use speed, stopping, BAC and dosage formulas critically",
+   "topic": "formulas-and-equations",
+   "prereqs": [
+    "ms11-substitution",
+    "ms11-rearrange-formulas"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-formula-spreadsheets",
+   "name": "Build and check formula spreadsheets",
+   "topic": "formulas-and-equations",
+   "prereqs": [
+    "ms11-substitution"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-gradient-intercepts",
+   "name": "Read, calculate and graph straight lines",
+   "topic": "linear-relationships",
+   "prereqs": [
+    "ms11-substitution",
+    "ms11-linear-equations"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-linear-models",
+   "name": "Model linear situations, predict and check limits",
+   "topic": "linear-relationships",
+   "prereqs": [
+    "ms11-gradient-intercepts"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-direct-variation",
+   "name": "Recognise and solve direct-variation models",
+   "topic": "linear-relationships",
+   "prereqs": [
+    "ms11-gradient-intercepts"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms12s1-graphical-simultaneous",
+   "name": "Find and interpret the intersection of two lines",
+   "topic": "standard-1-algebraic-relationships",
+   "prereqs": [
+    "ms11-gradient-intercepts",
+    "ms11-linear-equations"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s1-break-even",
+   "name": "Find revenue, cost and break-even graphically",
+   "topic": "standard-1-algebraic-relationships",
+   "prereqs": [
+    "ms12s1-graphical-simultaneous"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s1-practical-graphs",
+   "name": "Compare linear and exponential practical models",
+   "topic": "standard-1-algebraic-relationships",
+   "prereqs": [
+    "ms11-linear-models"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s1-ratios",
+   "name": "Interpret, simplify, compare and divide in a ratio",
+   "topic": "standard-1-ratios-and-rates",
+   "prereqs": [
+    "ms11-percentages-gst"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s1-scale-plans",
+   "name": "Read scaled maps and plans and estimate material costs",
+   "topic": "standard-1-ratios-and-rates",
+   "prereqs": [
+    "ms12s1-ratios",
+    "ms11-perimeter-area-land"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s1-rates-unit-prices",
+   "name": "Convert and compare rates and unit prices",
+   "topic": "standard-1-ratios-and-rates",
+   "prereqs": [
+    "ms12s1-ratios",
+    "ms11-metric-units"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s1-travel-fuel",
+   "name": "Read distance-time graphs and compare fuel efficiency",
+   "topic": "standard-1-ratios-and-rates",
+   "prereqs": [
+    "ms12s1-rates-unit-prices"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-simultaneous-equations",
+   "name": "Solve and interpret simultaneous linear equations",
+   "topic": "standard-2-algebraic-relationships",
+   "prereqs": [
+    "ms11-linear-equations",
+    "ms11-gradient-intercepts"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-break-even",
+   "name": "Model cost, revenue, profit and break-even",
+   "topic": "standard-2-algebraic-relationships",
+   "prereqs": [
+    "ms12s2-simultaneous-equations"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-exponential-models",
+   "name": "Graph and interpret exponential growth and decay",
+   "topic": "standard-2-algebraic-relationships",
+   "prereqs": [
+    "ms11-substitution"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-quadratic-features",
+   "name": "Construct quadratic graphs and locate their features",
+   "topic": "standard-2-algebraic-relationships",
+   "prereqs": [
+    "ms11-substitution",
+    "ms11-rearrange-formulas"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-quadratic-contexts",
+   "name": "Interpret quadratic models in practical contexts",
+   "topic": "standard-2-algebraic-relationships",
+   "prereqs": [
+    "ms12s2-quadratic-features"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-inverse-variation",
+   "name": "Recognise, graph and solve reciprocal models",
+   "topic": "standard-2-algebraic-relationships",
+   "prereqs": [
+    "ms11-direct-variation"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-ratios-capture-recapture",
+   "name": "Solve ratio allocations and capture-recapture estimates",
+   "topic": "standard-2-ratios-and-rates",
+   "prereqs": [
+    "ms11-percentages-gst"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-scale-maps-surveys",
+   "name": "Construct scaled plans and calculate land and material quantities",
+   "topic": "standard-2-ratios-and-rates",
+   "prereqs": [
+    "ms12s2-ratios-capture-recapture",
+    "ms12s2-bearings-surveys",
+    "ms11-trapezoidal-estimates"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-rainfall-volume",
+   "name": "Calculate water volume from rainfall over an area",
+   "topic": "standard-2-ratios-and-rates",
+   "prereqs": [
+    "ms12s2-scale-maps-surveys",
+    "ms11-volume-capacity"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-rates-travel-fuel",
+   "name": "Convert rates and interpret travel, prices and fuel efficiency",
+   "topic": "standard-2-ratios-and-rates",
+   "prereqs": [
+    "ms12s2-ratios-capture-recapture",
+    "ms11-metric-units"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-energy-costs",
+   "name": "Calculate power, energy consumption and electricity cost",
+   "topic": "standard-2-ratios-and-rates",
+   "prereqs": [
+    "ms12s2-rates-travel-fuel"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms11-wages-salaries",
+   "name": "Calculate salaries, wages, penalty rates and leave loading",
+   "topic": "earning-money",
+   "prereqs": [
+    "ms11-substitution"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-variable-earnings",
+   "name": "Calculate commission, piecework, royalties and mixed income",
+   "topic": "earning-money",
+   "prereqs": [
+    "ms11-wages-salaries"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-taxation",
+   "name": "Calculate taxable income, PAYG, Medicare and reconciliation",
+   "topic": "earning-money",
+   "prereqs": [
+    "ms11-variable-earnings"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-percentages-gst",
+   "name": "Calculate percentage change, profit, loss, GST and VAT",
+   "topic": "managing-money",
+   "prereqs": [
+    "ms11-substitution"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-purchase-comparisons",
+   "name": "Compare cash, terms and buy-now-pay-later costs",
+   "topic": "managing-money",
+   "prereqs": [
+    "ms11-percentages-gst"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-vehicle-costs",
+   "name": "Calculate vehicle purchase and ongoing ownership costs",
+   "topic": "managing-money",
+   "prereqs": [
+    "ms11-purchase-comparisons"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-budgets-bills",
+   "name": "Plan budgets, read utility bills and build an emergency fund",
+   "topic": "managing-money",
+   "prereqs": [
+    "ms11-vehicle-costs"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms12s1-simple-interest",
+   "name": "Calculate and rearrange simple-interest models",
+   "topic": "standard-1-investment",
+   "prereqs": [
+    "ms11-rearrange-formulas",
+    "ms11-percentages-gst"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s1-compound-interest",
+   "name": "Calculate compound future value and present value",
+   "topic": "standard-1-investment",
+   "prereqs": [
+    "ms12s1-simple-interest"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s1-investment-comparisons",
+   "name": "Compare savings, term deposits and property investment models",
+   "topic": "standard-1-investment",
+   "prereqs": [
+    "ms12s1-compound-interest"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s1-depreciation",
+   "name": "Compare straight-line and declining-balance depreciation",
+   "topic": "standard-1-depreciation-and-loans",
+   "prereqs": [
+    "ms12s1-compound-interest",
+    "ms11-linear-models"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s1-reducing-balance-loans",
+   "name": "Calculate reducing-balance repayments and compare borrowing",
+   "topic": "standard-1-depreciation-and-loans",
+   "prereqs": [
+    "ms12s1-compound-interest",
+    "ms11-purchase-comparisons"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s1-credit-card-statements",
+   "name": "Read credit-card statements and calculate daily compound interest",
+   "topic": "standard-1-depreciation-and-loans",
+   "prereqs": [
+    "ms12s1-reducing-balance-loans"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s1-credit-decisions",
+   "name": "Compare credit-card choices against stated financial goals",
+   "topic": "standard-1-depreciation-and-loans",
+   "prereqs": [
+    "ms12s1-credit-card-statements",
+    "ms11-budgets-bills"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-simple-interest",
+   "name": "Calculate and rearrange simple-interest relationships",
+   "topic": "standard-2-investment-and-loans",
+   "prereqs": [
+    "ms11-rearrange-formulas"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-compound-interest",
+   "name": "Calculate compound future and present values",
+   "topic": "standard-2-investment-and-loans",
+   "prereqs": [
+    "ms12s2-simple-interest"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-investment-comparisons",
+   "name": "Compare savings and investment growth with spreadsheets",
+   "topic": "standard-2-investment-and-loans",
+   "prereqs": [
+    "ms12s2-compound-interest"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-shares-investments",
+   "name": "Read share information and calculate costs and dividend yield",
+   "topic": "standard-2-investment-and-loans",
+   "prereqs": [
+    "ms12s2-investment-comparisons"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-depreciation",
+   "name": "Compare straight-line and declining-balance asset models",
+   "topic": "standard-2-investment-and-loans",
+   "prereqs": [
+    "ms12s2-compound-interest",
+    "ms11-linear-models"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-reducing-balance-loans",
+   "name": "Calculate loan balances and compare repayment choices",
+   "topic": "standard-2-investment-and-loans",
+   "prereqs": [
+    "ms12s2-compound-interest",
+    "ms11-purchase-comparisons"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-credit-cards",
+   "name": "Calculate statement balances, daily interest and credit-card costs",
+   "topic": "standard-2-investment-and-loans",
+   "prereqs": [
+    "ms12s2-reducing-balance-loans"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-annuity-tables",
+   "name": "Build contribution and withdrawal annuity tables",
+   "topic": "standard-2-annuities",
+   "prereqs": [
+    "ms12s2-compound-interest",
+    "ms12s2-reducing-balance-loans"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-annuity-factors",
+   "name": "Use interest-factor tables for annuity future and present value",
+   "topic": "standard-2-annuities",
+   "prereqs": [
+    "ms12s2-annuity-tables"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-annuity-decisions",
+   "name": "Compare annuity and repayment scenarios using digital tools",
+   "topic": "standard-2-annuities",
+   "prereqs": [
+    "ms12s2-annuity-factors"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms11-metric-units",
+   "name": "Convert metric length, area, volume, capacity and mass",
+   "topic": "applications-of-measurement",
+   "prereqs": [
+    "ms11-substitution"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-scientific-notation",
+   "name": "Use scientific notation, metric prefixes and significant figures",
+   "topic": "applications-of-measurement",
+   "prereqs": [
+    "ms11-metric-units"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-perimeter-area-land",
+   "name": "Find perimeters and areas of sectors, composites and land",
+   "topic": "applications-of-measurement",
+   "prereqs": [
+    "ms11-metric-units"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-pythagoras",
+   "name": "Find missing lengths using Pythagoras’ theorem",
+   "topic": "applications-of-measurement",
+   "prereqs": [
+    "ms11-rearrange-formulas",
+    "ms11-metric-units"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-surface-area",
+   "name": "Calculate surface areas of solids and composites",
+   "topic": "applications-of-measurement",
+   "prereqs": [
+    "ms11-perimeter-area-land"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-volume-capacity",
+   "name": "Calculate volumes and capacities of solids and composites",
+   "topic": "applications-of-measurement",
+   "prereqs": [
+    "ms11-metric-units",
+    "ms11-perimeter-area-land"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-trapezoidal-estimates",
+   "name": "Estimate irregular area, volume and capacity by trapezoids",
+   "topic": "applications-of-measurement",
+   "prereqs": [
+    "ms11-perimeter-area-land",
+    "ms11-volume-capacity"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-earth-location",
+   "name": "Locate places by latitude and longitude and estimate solar time",
+   "topic": "time-and-location",
+   "prereqs": [
+    "ms11-substitution"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-time-utc",
+   "name": "Calculate elapsed time, Australian daylight saving and UTC",
+   "topic": "time-and-location",
+   "prereqs": [
+    "ms11-earth-location"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-network-representation",
+   "name": "Represent real situations with weighted and directed networks",
+   "topic": "networks-paths-and-trees",
+   "prereqs": [
+    "ms11-substitution"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-shortest-paths",
+   "name": "Find shortest paths and justify the best route",
+   "topic": "networks-paths-and-trees",
+   "prereqs": [
+    "ms11-network-representation"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-spanning-trees",
+   "name": "Build minimum spanning trees for minimal connectors",
+   "topic": "networks-paths-and-trees",
+   "prereqs": [
+    "ms11-network-representation"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms12s2-flow-paths",
+   "name": "Represent directed flow and calculate feasible path capacities",
+   "topic": "standard-2-network-flow",
+   "prereqs": [
+    "ms11-network-representation"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-max-flow-min-cut",
+   "name": "Find maximum flow and evaluate capacity changes and demand",
+   "topic": "standard-2-network-flow",
+   "prereqs": [
+    "ms12s2-flow-paths"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-precedence-networks",
+   "name": "Build activity networks with correct dependencies and dummy edges",
+   "topic": "standard-2-critical-path-analysis",
+   "prereqs": [
+    "ms11-network-representation"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-critical-path-float",
+   "name": "Calculate earliest and latest times, floats and critical paths",
+   "topic": "standard-2-critical-path-analysis",
+   "prereqs": [
+    "ms12s2-precedence-networks"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-project-scheduling",
+   "name": "Build Gantt charts and evaluate scheduling changes",
+   "topic": "standard-2-critical-path-analysis",
+   "prereqs": [
+    "ms12s2-critical-path-float"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms11-surveys-sampling",
+   "name": "Design a statistical investigation and evaluate sampling",
+   "topic": "data-analysis",
+   "prereqs": [
+    "ms11-substitution"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-data-classification",
+   "name": "Classify data and construct frequency and cumulative tables",
+   "topic": "data-analysis",
+   "prereqs": [
+    "ms11-surveys-sampling"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-graph-interpretation",
+   "name": "Choose, read and evaluate statistical graphs",
+   "topic": "data-analysis",
+   "prereqs": [
+    "ms11-data-classification"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-centre",
+   "name": "Calculate and justify mean, median and mode",
+   "topic": "data-analysis",
+   "prereqs": [
+    "ms11-data-classification"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-spread",
+   "name": "Calculate range and population standard deviation",
+   "topic": "data-analysis",
+   "prereqs": [
+    "ms11-centre"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms11-boxplots-outliers",
+   "name": "Use quartiles, box plots and outlier fences to compare data",
+   "topic": "data-analysis",
+   "prereqs": [
+    "ms11-centre",
+    "ms11-spread"
+   ],
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "ms12s1-bivariate-questions",
+   "name": "Choose variables and distinguish association from causation",
+   "topic": "standard-1-bivariate-data-analysis",
+   "prereqs": [
+    "ms11-surveys-sampling"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s1-scatter-best-fit",
+   "name": "Construct scatterplots and interpret a best-fit model",
+   "topic": "standard-1-bivariate-data-analysis",
+   "prereqs": [
+    "ms12s1-bivariate-questions",
+    "ms11-gradient-intercepts"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s1-probability-foundations",
+   "name": "Build sample spaces and calculate simple-event probabilities",
+   "topic": "standard-1-relative-frequency-and-probability",
+   "prereqs": [
+    "ms12s1-ratios"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s1-two-stage-probability",
+   "name": "Represent and calculate two-stage outcomes with replacement",
+   "topic": "standard-1-relative-frequency-and-probability",
+   "prereqs": [
+    "ms12s1-probability-foundations"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s1-relative-frequency",
+   "name": "Estimate probabilities, expected counts and assess statistical claims",
+   "topic": "standard-1-relative-frequency-and-probability",
+   "prereqs": [
+    "ms12s1-two-stage-probability"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-bivariate-scatter",
+   "name": "Define bivariate variables and describe scatterplots",
+   "topic": "standard-2-bivariate-data-analysis",
+   "prereqs": [
+    "ms11-surveys-sampling",
+    "ms11-gradient-intercepts"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-pearson-correlation",
+   "name": "Calculate and interpret Pearson correlation using technology",
+   "topic": "standard-2-bivariate-data-analysis",
+   "prereqs": [
+    "ms12s2-bivariate-scatter"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-regression-prediction",
+   "name": "Fit a least-squares line and assess predictions",
+   "topic": "standard-2-bivariate-data-analysis",
+   "prereqs": [
+    "ms12s2-pearson-correlation"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-probability-foundations",
+   "name": "Build sample spaces and calculate event probabilities",
+   "topic": "standard-2-relative-frequency-and-probability",
+   "prereqs": [
+    "ms12s2-ratios-capture-recapture"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-multistage-probability",
+   "name": "Use arrays and trees for multistage probabilities",
+   "topic": "standard-2-relative-frequency-and-probability",
+   "prereqs": [
+    "ms12s2-probability-foundations"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-relative-frequency",
+   "name": "Use relative frequency and expected counts in decisions",
+   "topic": "standard-2-relative-frequency-and-probability",
+   "prereqs": [
+    "ms12s2-multistage-probability"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-venn-two-way",
+   "name": "Represent two attributes in Venn diagrams and two-way tables",
+   "topic": "standard-2-relative-frequency-and-probability",
+   "prereqs": [
+    "ms12s2-probability-foundations"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-normal-z-scores",
+   "name": "Recognise normal models and compare values with z-scores",
+   "topic": "standard-2-the-normal-distribution",
+   "prereqs": [
+    "ms11-centre",
+    "ms11-spread"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-normal-empirical-rule",
+   "name": "Estimate normal probabilities using the empirical rule",
+   "topic": "standard-2-the-normal-distribution",
+   "prereqs": [
+    "ms12s2-normal-z-scores"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-normal-decisions",
+   "name": "Compare normal extremeness and make bounded statistical judgements",
+   "topic": "standard-2-the-normal-distribution",
+   "prereqs": [
+    "ms12s2-normal-empirical-rule"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s1-right-triangle-trigonometry",
+   "name": "Choose and solve right-triangle side and angle problems",
+   "topic": "standard-1-right-angled-triangles",
+   "prereqs": [
+    "ms11-pythagoras",
+    "ms11-rearrange-formulas"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s1-bearings",
+   "name": "Read, convert and use compass and true bearings",
+   "topic": "standard-1-right-angled-triangles",
+   "prereqs": [
+    "ms12s1-right-triangle-trigonometry"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s1-elevation-navigation",
+   "name": "Solve elevation, depression and navigation problems",
+   "topic": "standard-1-right-angled-triangles",
+   "prereqs": [
+    "ms12s1-bearings"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-right-triangle-trigonometry",
+   "name": "Solve right-triangle side and angle problems",
+   "topic": "standard-2-trigonometry",
+   "prereqs": [
+    "ms11-pythagoras"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-sine-rule",
+   "name": "Use the sine rule with appropriately determined angles",
+   "topic": "standard-2-trigonometry",
+   "prereqs": [
+    "ms12s2-right-triangle-trigonometry"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-cosine-rule-area",
+   "name": "Use the cosine rule and included-angle area formula",
+   "topic": "standard-2-trigonometry",
+   "prereqs": [
+    "ms12s2-sine-rule"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-bearings-surveys",
+   "name": "Use bearings and radial surveys to represent land",
+   "topic": "standard-2-trigonometry",
+   "prereqs": [
+    "ms12s2-cosine-rule-area"
+   ],
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "ms12s2-trigonometric-applications",
+   "name": "Select and combine triangle methods in practical problems",
+   "topic": "standard-2-trigonometry",
+   "prereqs": [
+    "ms12s2-bearings-surveys"
+   ],
+   "years": [
+    12
+   ]
+  }
+ ]
+}

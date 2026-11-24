@@ -1,0 +1,2631 @@
+{
+ "schema": 1,
+ "id": "mathematics-k10",
+ "name": "Mathematics K–10",
+ "treeVersion": 5,
+ "note": "NSW syllabus, as used on the learning platform",
+ "stageYears": {
+  "Early Stage 1": [
+   0
+  ],
+  "Stage 1": [
+   1,
+   2
+  ],
+  "Stage 2": [
+   3,
+   4
+  ],
+  "Stage 3": [
+   5,
+   6
+  ],
+  "Stage 4": [
+   7,
+   8
+  ],
+  "Stage 5": [
+   9,
+   10
+  ]
+ },
+ "strands": [
+  {
+   "key": "number-algebra",
+   "name": "Number and algebra"
+  },
+  {
+   "key": "measurement-space",
+   "name": "Measurement and space"
+  },
+  {
+   "key": "statistics-probability",
+   "name": "Statistics and probability"
+  }
+ ],
+ "topics": [
+  {
+   "key": "early-number",
+   "name": "Early number sense",
+   "strand": "number-algebra",
+   "stage": "Early Stage 1",
+   "years": [
+    0
+   ]
+  },
+  {
+   "key": "place-value",
+   "name": "Place value and counting",
+   "strand": "number-algebra",
+   "stage": "Stage 1",
+   "years": [
+    1,
+    2
+   ]
+  },
+  {
+   "key": "addition-subtraction",
+   "name": "Addition and subtraction",
+   "strand": "number-algebra",
+   "stage": "Stage 1",
+   "years": [
+    1,
+    2
+   ]
+  },
+  {
+   "key": "multiplication-division",
+   "name": "Multiplication and division",
+   "strand": "number-algebra",
+   "stage": "Stage 2",
+   "years": [
+    3,
+    4
+   ]
+  },
+  {
+   "key": "fractions-decimals",
+   "name": "Fractions and decimals",
+   "strand": "number-algebra",
+   "stage": "Stage 3",
+   "years": [
+    5,
+    6
+   ]
+  },
+  {
+   "key": "integers-percentages",
+   "name": "Integers, ratios and percentages",
+   "strand": "number-algebra",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "linear-algebra",
+   "name": "Algebraic techniques and linear equations",
+   "strand": "number-algebra",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "fractions-percentages-stage4",
+   "name": "Fractions, decimals and percentages (Stage 4)",
+   "strand": "number-algebra",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "indices-stage4",
+   "name": "Primes and indices",
+   "strand": "number-algebra",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "quadratics-indices",
+   "name": "Indices, quadratics and simultaneous equations",
+   "strand": "number-algebra",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "financial-maths-stage5",
+   "name": "Financial mathematics (Stage 5)",
+   "strand": "number-algebra",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "algebraic-techniques-stage5",
+   "name": "Algebraic techniques (Stage 5)",
+   "strand": "number-algebra",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "indices-surds-stage5",
+   "name": "Indices and surds (Stage 5)",
+   "strand": "number-algebra",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "equations-inequalities-stage5",
+   "name": "Equations and inequalities (Stage 5)",
+   "strand": "number-algebra",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "linear-relationships-stage5",
+   "name": "Linear relationships (Stage 5)",
+   "strand": "number-algebra",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "nonlinear-relationships-stage5",
+   "name": "Non-linear relationships (Stage 5)",
+   "strand": "number-algebra",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "variation-rates-stage5",
+   "name": "Variation and rates of change (Path)",
+   "strand": "number-algebra",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "polynomials-stage5",
+   "name": "Polynomials (Path)",
+   "strand": "number-algebra",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "logarithms-stage5",
+   "name": "Logarithms (Path)",
+   "strand": "number-algebra",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "functions-graphs-stage5",
+   "name": "Functions and other graphs (Path)",
+   "strand": "number-algebra",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "comparing-sorting",
+   "name": "Comparing and sorting",
+   "strand": "measurement-space",
+   "stage": "Early Stage 1",
+   "years": [
+    0
+   ]
+  },
+  {
+   "key": "informal-units",
+   "name": "Informal units and time",
+   "strand": "measurement-space",
+   "stage": "Stage 1",
+   "years": [
+    1,
+    2
+   ]
+  },
+  {
+   "key": "formal-units",
+   "name": "Formal units",
+   "strand": "measurement-space",
+   "stage": "Stage 2",
+   "years": [
+    3,
+    4
+   ]
+  },
+  {
+   "key": "area-volume-angles",
+   "name": "Area, volume and angles",
+   "strand": "measurement-space",
+   "stage": "Stage 3",
+   "years": [
+    5,
+    6
+   ]
+  },
+  {
+   "key": "angles-circles",
+   "name": "Angle relationships and circles",
+   "strand": "measurement-space",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "measurement-stage4",
+   "name": "Length, area and volume (Stage 4)",
+   "strand": "measurement-space",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "geometry-stage4",
+   "name": "Geometrical figures and parallel lines",
+   "strand": "measurement-space",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "pythagoras-stage4",
+   "name": "Right-angled triangles (Pythagoras)",
+   "strand": "measurement-space",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "trig-similarity",
+   "name": "Pythagoras, trigonometry and similarity",
+   "strand": "measurement-space",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "measurement-stage5",
+   "name": "Measurement, area and volume (Stage 5)",
+   "strand": "measurement-space",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "trig-path-stage5",
+   "name": "Further trigonometry (Path)",
+   "strand": "measurement-space",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "measurement-path-stage5",
+   "name": "Further area and volume (Path)",
+   "strand": "measurement-space",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "geometry-path-stage5",
+   "name": "Congruence, similarity and geometrical proof (Path)",
+   "strand": "measurement-space",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "circle-geometry-stage5",
+   "name": "Circle geometry (Path)",
+   "strand": "measurement-space",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "networks-stage5",
+   "name": "Introduction to networks (Path)",
+   "strand": "measurement-space",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "early-data",
+   "name": "Collecting and organising data",
+   "strand": "statistics-probability",
+   "stage": "Stage 1",
+   "years": [
+    1,
+    2
+   ]
+  },
+  {
+   "key": "data-displays",
+   "name": "Data displays",
+   "strand": "statistics-probability",
+   "stage": "Stage 2",
+   "years": [
+    3,
+    4
+   ]
+  },
+  {
+   "key": "data-analysis",
+   "name": "Analysing data",
+   "strand": "statistics-probability",
+   "stage": "Stage 3",
+   "years": [
+    5,
+    6
+   ]
+  },
+  {
+   "key": "chance",
+   "name": "Chance",
+   "strand": "statistics-probability",
+   "stage": "Stage 3",
+   "years": [
+    5,
+    6
+   ]
+  },
+  {
+   "key": "probability-stage4",
+   "name": "Probability experiments",
+   "strand": "statistics-probability",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "data-stage4",
+   "name": "Data classification and analysis",
+   "strand": "statistics-probability",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "data-stage5",
+   "name": "Comparing data sets",
+   "strand": "statistics-probability",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "bivariate-stage5",
+   "name": "Bivariate data and lines of best fit",
+   "strand": "statistics-probability",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "probability-stage5",
+   "name": "Multistage probability and simulation",
+   "strand": "statistics-probability",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "statistical-inquiry-stage5",
+   "name": "Statistical inquiry (Path)",
+   "strand": "statistics-probability",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "probability-path-stage5",
+   "name": "Venn diagrams, sets and conditional probability (Path)",
+   "strand": "statistics-probability",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  }
+ ],
+ "skills": [
+  {
+   "key": "na-count-20",
+   "name": "Counts forwards and backwards to 20",
+   "topic": "early-number",
+   "prereqs": []
+  },
+  {
+   "key": "na-numerals-10",
+   "name": "Reads and writes numerals to 10",
+   "topic": "early-number",
+   "prereqs": [
+    "na-count-20"
+   ]
+  },
+  {
+   "key": "na-compare-collections",
+   "name": "Compares two groups to say which has more or fewer",
+   "topic": "early-number",
+   "prereqs": [
+    "na-count-20"
+   ]
+  },
+  {
+   "key": "na-combine-small",
+   "name": "Combines and separates small groups to model adding and taking away",
+   "topic": "early-number",
+   "prereqs": [
+    "na-numerals-10",
+    "na-compare-collections"
+   ]
+  },
+  {
+   "key": "na-count-100",
+   "name": "Counts to 100 by ones and tens",
+   "topic": "place-value",
+   "prereqs": [
+    "na-count-20"
+   ]
+  },
+  {
+   "key": "na-skip-count",
+   "name": "Skip counts by 2s, 5s and 10s",
+   "topic": "place-value",
+   "prereqs": [
+    "na-count-100"
+   ]
+  },
+  {
+   "key": "na-tens-ones",
+   "name": "Represents two-digit numbers as tens and ones",
+   "topic": "place-value",
+   "prereqs": [
+    "na-count-100",
+    "na-numerals-10"
+   ]
+  },
+  {
+   "key": "na-number-line",
+   "name": "Places numbers up to 100 on a number line",
+   "topic": "place-value",
+   "prereqs": [
+    "na-tens-ones"
+   ]
+  },
+  {
+   "key": "na-count-1000",
+   "name": "Reads, writes and orders numbers to 1000",
+   "topic": "place-value",
+   "prereqs": [
+    "na-tens-ones"
+   ]
+  },
+  {
+   "key": "na-add-facts-20",
+   "name": "Recalls addition facts to 20",
+   "topic": "addition-subtraction",
+   "prereqs": [
+    "na-combine-small",
+    "na-count-100"
+   ]
+  },
+  {
+   "key": "na-sub-facts-20",
+   "name": "Recalls the related subtraction facts to 20",
+   "topic": "addition-subtraction",
+   "prereqs": [
+    "na-add-facts-20"
+   ]
+  },
+  {
+   "key": "na-add-2digit",
+   "name": "Adds two-digit numbers with and without regrouping",
+   "topic": "addition-subtraction",
+   "prereqs": [
+    "na-add-facts-20",
+    "na-tens-ones"
+   ]
+  },
+  {
+   "key": "na-sub-2digit",
+   "name": "Subtracts two-digit numbers with and without regrouping",
+   "topic": "addition-subtraction",
+   "prereqs": [
+    "na-sub-facts-20",
+    "na-add-2digit"
+   ]
+  },
+  {
+   "key": "na-times-2-5-10",
+   "name": "Recalls multiplication facts for 2s, 5s and 10s",
+   "topic": "multiplication-division",
+   "prereqs": [
+    "na-skip-count",
+    "na-add-facts-20"
+   ]
+  },
+  {
+   "key": "na-times-all",
+   "name": "Recalls multiplication facts to 10 × 10",
+   "topic": "multiplication-division",
+   "prereqs": [
+    "na-times-2-5-10"
+   ]
+  },
+  {
+   "key": "na-division-sharing",
+   "name": "Models division as equal sharing and grouping",
+   "topic": "multiplication-division",
+   "prereqs": [
+    "na-times-2-5-10"
+   ]
+  },
+  {
+   "key": "na-fact-families",
+   "name": "Uses fact families to link multiplication and division",
+   "topic": "multiplication-division",
+   "prereqs": [
+    "na-times-all",
+    "na-division-sharing"
+   ]
+  },
+  {
+   "key": "na-written-mult",
+   "name": "Multiplies two- and three-digit numbers by a one-digit number",
+   "topic": "multiplication-division",
+   "prereqs": [
+    "na-times-all",
+    "na-count-1000"
+   ]
+  },
+  {
+   "key": "na-written-div",
+   "name": "Divides two- and three-digit numbers by a one-digit number, with remainders",
+   "topic": "multiplication-division",
+   "prereqs": [
+    "na-fact-families",
+    "na-written-mult"
+   ]
+  },
+  {
+   "key": "na-unit-fractions",
+   "name": "Recognises and names unit fractions of shapes and collections",
+   "topic": "fractions-decimals",
+   "prereqs": [
+    "na-division-sharing"
+   ]
+  },
+  {
+   "key": "na-equiv-fractions",
+   "name": "Finds equivalent fractions using models and multiplication",
+   "topic": "fractions-decimals",
+   "prereqs": [
+    "na-unit-fractions",
+    "na-times-all"
+   ]
+  },
+  {
+   "key": "na-add-like-fractions",
+   "name": "Adds and subtracts fractions with the same denominator",
+   "topic": "fractions-decimals",
+   "prereqs": [
+    "na-unit-fractions"
+   ]
+  },
+  {
+   "key": "na-add-unlike-fractions",
+   "name": "Adds and subtracts fractions with unlike denominators",
+   "topic": "fractions-decimals",
+   "prereqs": [
+    "na-equiv-fractions",
+    "na-add-like-fractions"
+   ]
+  },
+  {
+   "key": "na-decimal-pv",
+   "name": "Reads and orders decimals to thousandths using place value",
+   "topic": "fractions-decimals",
+   "prereqs": [
+    "na-count-1000",
+    "na-unit-fractions"
+   ]
+  },
+  {
+   "key": "na-decimal-ops",
+   "name": "Adds, subtracts and multiplies decimals",
+   "topic": "fractions-decimals",
+   "prereqs": [
+    "na-decimal-pv",
+    "na-written-mult"
+   ]
+  },
+  {
+   "key": "na-fdp-links",
+   "name": "Converts between fractions, decimals and percentages",
+   "topic": "fractions-decimals",
+   "prereqs": [
+    "na-equiv-fractions",
+    "na-decimal-pv"
+   ]
+  },
+  {
+   "key": "na-integers",
+   "name": "Orders, adds and subtracts positive and negative integers",
+   "topic": "integers-percentages",
+   "prereqs": [
+    "na-number-line",
+    "na-sub-2digit"
+   ]
+  },
+  {
+   "key": "na-order-ops",
+   "name": "Applies the order of operations to whole-number calculations",
+   "topic": "integers-percentages",
+   "prereqs": [
+    "na-written-mult",
+    "na-written-div"
+   ]
+  },
+  {
+   "key": "na-ratios",
+   "name": "Simplifies ratios and divides a quantity in a given ratio",
+   "topic": "integers-percentages",
+   "prereqs": [
+    "na-equiv-fractions",
+    "na-written-div"
+   ]
+  },
+  {
+   "key": "na-percent-quantity",
+   "name": "Calculates a percentage of a quantity, including discounts",
+   "topic": "integers-percentages",
+   "prereqs": [
+    "na-fdp-links",
+    "na-decimal-ops"
+   ]
+  },
+  {
+   "key": "na-integer-multiply-divide",
+   "name": "Multiplies and divides integers, including with the order of operations",
+   "topic": "integers-percentages",
+   "prereqs": [
+    "na-integers",
+    "na-order-ops"
+   ]
+  },
+  {
+   "key": "na-rates",
+   "name": "Uses rates to compare quantities, including best buys and speed",
+   "topic": "integers-percentages",
+   "prereqs": [
+    "na-ratios",
+    "na-decimals-divide"
+   ]
+  },
+  {
+   "key": "na-distance-time",
+   "name": "Interprets distance–time graphs",
+   "topic": "integers-percentages",
+   "prereqs": [
+    "na-rates",
+    "ms-coordinates"
+   ]
+  },
+  {
+   "key": "na-patterns-rules",
+   "name": "Describes number patterns and writes the rule",
+   "topic": "linear-algebra",
+   "prereqs": [
+    "na-times-all"
+   ]
+  },
+  {
+   "key": "na-algebra-notation",
+   "name": "Uses algebraic notation with pronumerals",
+   "topic": "linear-algebra",
+   "prereqs": [
+    "na-patterns-rules",
+    "na-order-ops"
+   ]
+  },
+  {
+   "key": "na-simplify",
+   "name": "Simplifies algebraic expressions by collecting like terms",
+   "topic": "linear-algebra",
+   "prereqs": [
+    "na-algebra-notation"
+   ]
+  },
+  {
+   "key": "na-expand",
+   "name": "Expands expressions with brackets using the distributive law",
+   "topic": "linear-algebra",
+   "prereqs": [
+    "na-simplify"
+   ]
+  },
+  {
+   "key": "na-solve-1step",
+   "name": "Solves one-step linear equations",
+   "topic": "linear-algebra",
+   "prereqs": [
+    "na-algebra-notation",
+    "na-integers"
+   ]
+  },
+  {
+   "key": "na-solve-2step",
+   "name": "Solves two-step linear equations, including with brackets",
+   "topic": "linear-algebra",
+   "prereqs": [
+    "na-solve-1step",
+    "na-expand"
+   ]
+  },
+  {
+   "key": "na-plot-linear",
+   "name": "Plots straight-line graphs from a table of values",
+   "topic": "linear-algebra",
+   "prereqs": [
+    "na-algebra-notation",
+    "ms-coordinates"
+   ]
+  },
+  {
+   "key": "na-gradient-intercept",
+   "name": "Finds the gradient and y-intercept and writes the equation of a line",
+   "topic": "linear-algebra",
+   "prereqs": [
+    "na-plot-linear"
+   ]
+  },
+  {
+   "key": "na-substitution",
+   "name": "Substitutes values into algebraic expressions and formulas",
+   "topic": "linear-algebra",
+   "prereqs": [
+    "na-algebra-notation",
+    "na-integers"
+   ]
+  },
+  {
+   "key": "na-factorise-hcf",
+   "name": "Factorises algebraic expressions using the highest common factor",
+   "topic": "linear-algebra",
+   "prereqs": [
+    "na-expand"
+   ]
+  },
+  {
+   "key": "na-quadratic-ax2",
+   "name": "Solves quadratic equations of the form ax² = c",
+   "topic": "linear-algebra",
+   "prereqs": [
+    "na-solve-1step",
+    "na-squares-cubes-roots"
+   ]
+  },
+  {
+   "key": "na-solve-graphical",
+   "name": "Solves linear equations graphically using the point of intersection",
+   "topic": "linear-algebra",
+   "prereqs": [
+    "na-plot-linear",
+    "na-solve-2step"
+   ]
+  },
+  {
+   "key": "na-fraction-multiply-divide",
+   "name": "Multiplies and divides fractions and mixed numerals",
+   "topic": "fractions-percentages-stage4",
+   "prereqs": [
+    "na-equiv-fractions",
+    "na-written-mult"
+   ]
+  },
+  {
+   "key": "na-decimals-divide",
+   "name": "Divides decimals by whole numbers and by decimals",
+   "topic": "fractions-percentages-stage4",
+   "prereqs": [
+    "na-decimal-ops",
+    "na-written-div"
+   ]
+  },
+  {
+   "key": "na-quantity-fraction-percent",
+   "name": "Expresses one quantity as a fraction or percentage of another",
+   "topic": "fractions-percentages-stage4",
+   "prereqs": [
+    "na-fdp-links",
+    "na-percent-quantity"
+   ]
+  },
+  {
+   "key": "na-percent-change",
+   "name": "Calculates percentage increase and decrease, including GST",
+   "topic": "fractions-percentages-stage4",
+   "prereqs": [
+    "na-percent-quantity"
+   ]
+  },
+  {
+   "key": "na-primes-factors",
+   "name": "Expresses whole numbers as products of their prime factors",
+   "topic": "indices-stage4",
+   "prereqs": [
+    "na-times-all",
+    "na-written-div"
+   ]
+  },
+  {
+   "key": "na-squares-cubes-roots",
+   "name": "Calculates squares, cubes, square roots and cube roots",
+   "topic": "indices-stage4",
+   "prereqs": [
+    "na-times-all",
+    "na-primes-factors"
+   ]
+  },
+  {
+   "key": "na-index-notation-laws",
+   "name": "Uses index notation and applies the index laws with numerical bases",
+   "topic": "indices-stage4",
+   "prereqs": [
+    "na-primes-factors",
+    "na-squares-cubes-roots"
+   ]
+  },
+  {
+   "key": "na-index-laws",
+   "name": "Applies the index laws to simplify algebraic expressions with positive-integer and zero indices",
+   "topic": "quadratics-indices",
+   "prereqs": [
+    "na-index-notation-laws",
+    "na-simplify"
+   ]
+  },
+  {
+   "key": "na-expand-binomials",
+   "name": "Expands binomial products",
+   "topic": "quadratics-indices",
+   "prereqs": [
+    "na-expand-distributive"
+   ]
+  },
+  {
+   "key": "na-factorise",
+   "name": "Factorises quadratic expressions",
+   "topic": "quadratics-indices",
+   "prereqs": [
+    "na-expand-binomials",
+    "na-factorise-common-factor"
+   ]
+  },
+  {
+   "key": "na-solve-quadratic",
+   "name": "Solves quadratic equations by factorising",
+   "topic": "quadratics-indices",
+   "prereqs": [
+    "na-factorise",
+    "na-solve-3step"
+   ]
+  },
+  {
+   "key": "na-simultaneous",
+   "name": "Solves simultaneous linear equations graphically and algebraically",
+   "topic": "quadratics-indices",
+   "prereqs": [
+    "na-slope-intercept-form",
+    "na-solve-multistep-equations"
+   ]
+  },
+  {
+   "key": "na-parabolas",
+   "name": "Graphs parabolas of the form y = kx² and y = kx² + c and describes their key features",
+   "topic": "quadratics-indices",
+   "prereqs": [
+    "na-quadratic-exponential-graphs"
+   ]
+  },
+  {
+   "key": "na-earning-money",
+   "name": "Calculates earnings from wages, salaries, overtime, penalty rates, commission, piecework and leave loading",
+   "topic": "financial-maths-stage5",
+   "prereqs": [
+    "na-percent-quantity",
+    "na-decimal-ops",
+    "na-rates"
+   ]
+  },
+  {
+   "key": "na-income-tax-net-pay",
+   "name": "Calculates taxable income, PAYG tax and net pay",
+   "topic": "financial-maths-stage5",
+   "prereqs": [
+    "na-earning-money",
+    "na-percent-quantity"
+   ]
+  },
+  {
+   "key": "na-simple-interest",
+   "name": "Applies the simple interest formula I = Prn to investment problems",
+   "topic": "financial-maths-stage5",
+   "prereqs": [
+    "na-percent-quantity",
+    "na-substitution"
+   ]
+  },
+  {
+   "key": "na-spending-money",
+   "name": "Compares the true cost of buying on terms, buy now pay later and short-term loans",
+   "topic": "financial-maths-stage5",
+   "prereqs": [
+    "na-simple-interest",
+    "na-percent-change"
+   ]
+  },
+  {
+   "key": "na-compound-interest",
+   "name": "Calculates compound interest using repeated multiplication and the formula FV = PV(1 + r)^n",
+   "topic": "financial-maths-stage5",
+   "prereqs": [
+    "na-simple-interest",
+    "na-index-laws",
+    "na-percent-change"
+   ]
+  },
+  {
+   "key": "na-depreciation",
+   "name": "Calculates the depreciation of an asset using S = V₀(1 − r)^n",
+   "topic": "financial-maths-stage5",
+   "prereqs": [
+    "na-compound-interest"
+   ]
+  },
+  {
+   "key": "na-algebraic-fractions-numeric",
+   "name": "Simplifies algebraic fractions with numerical denominators using the four operations",
+   "topic": "algebraic-techniques-stage5",
+   "prereqs": [
+    "na-simplify",
+    "na-add-unlike-fractions"
+   ]
+  },
+  {
+   "key": "na-expand-distributive",
+   "name": "Expands and simplifies algebraic expressions using the distributive law",
+   "topic": "algebraic-techniques-stage5",
+   "prereqs": [
+    "na-expand",
+    "na-integer-multiply-divide"
+   ]
+  },
+  {
+   "key": "na-algebraic-fractions-indices",
+   "name": "Simplifies and operates with algebraic fractions involving indices and pronumerals in the denominator",
+   "topic": "algebraic-techniques-stage5",
+   "prereqs": [
+    "na-algebraic-fractions-numeric",
+    "na-index-laws",
+    "na-negative-indices-algebraic"
+   ]
+  },
+  {
+   "key": "na-factorise-common-factor",
+   "name": "Factorises algebraic expressions by taking out a common algebraic factor",
+   "topic": "algebraic-techniques-stage5",
+   "prereqs": [
+    "na-factorise-hcf",
+    "na-index-laws"
+   ]
+  },
+  {
+   "key": "na-special-products",
+   "name": "Proves and applies the special products (a − b)(a + b), (a + b)² and (a − b)²",
+   "topic": "algebraic-techniques-stage5",
+   "prereqs": [
+    "na-expand-binomials"
+   ]
+  },
+  {
+   "key": "na-factorise-strategies",
+   "name": "Selects factorisation strategies, including grouping in pairs and non-monic quadratic trinomials",
+   "topic": "algebraic-techniques-stage5",
+   "prereqs": [
+    "na-factorise",
+    "na-special-products",
+    "na-factorise-common-factor"
+   ]
+  },
+  {
+   "key": "na-algebraic-fractions-binomial",
+   "name": "Operates with algebraic fractions with binomial numerators and simplifies fractions by factorising",
+   "topic": "algebraic-techniques-stage5",
+   "prereqs": [
+    "na-algebraic-fractions-indices",
+    "na-factorise-strategies"
+   ]
+  },
+  {
+   "key": "na-negative-indices-numeric",
+   "name": "Establishes and evaluates negative-integer indices for numerical bases",
+   "topic": "indices-surds-stage5",
+   "prereqs": [
+    "na-index-laws"
+   ]
+  },
+  {
+   "key": "na-negative-indices-algebraic",
+   "name": "Applies the index laws to algebraic expressions involving negative-integer indices",
+   "topic": "indices-surds-stage5",
+   "prereqs": [
+    "na-negative-indices-numeric",
+    "na-index-laws"
+   ]
+  },
+  {
+   "key": "na-reciprocal-indices",
+   "name": "Uses x⁻¹ as a reciprocal and simplifies expressions of the form (a/b)⁻ⁿ",
+   "topic": "indices-surds-stage5",
+   "prereqs": [
+    "na-negative-indices-algebraic"
+   ]
+  },
+  {
+   "key": "na-real-rational-irrational",
+   "name": "Distinguishes rational from irrational numbers within the real numbers",
+   "topic": "indices-surds-stage5",
+   "prereqs": [
+    "na-fdp-links",
+    "na-squares-cubes-roots"
+   ]
+  },
+  {
+   "key": "na-surds-definition",
+   "name": "Describes surds as exact values and the conditions under which they are defined",
+   "topic": "indices-surds-stage5",
+   "prereqs": [
+    "na-real-rational-irrational"
+   ]
+  },
+  {
+   "key": "na-surd-operations",
+   "name": "Applies the surd results and the four operations to simplify surds",
+   "topic": "indices-surds-stage5",
+   "prereqs": [
+    "na-surds-definition",
+    "na-primes-factors"
+   ]
+  },
+  {
+   "key": "na-expand-rationalise-surds",
+   "name": "Expands expressions involving surds and rationalises denominators",
+   "topic": "indices-surds-stage5",
+   "prereqs": [
+    "na-surd-operations",
+    "na-special-products"
+   ]
+  },
+  {
+   "key": "na-fractional-indices",
+   "name": "Converts between surd and index form and evaluates fractional indices",
+   "topic": "indices-surds-stage5",
+   "prereqs": [
+    "na-surd-operations",
+    "na-negative-indices-algebraic"
+   ]
+  },
+  {
+   "key": "na-solve-3step",
+   "name": "Solves linear equations of up to 3 steps, including pronumerals on both sides and grouping symbols",
+   "topic": "equations-inequalities-stage5",
+   "prereqs": [
+    "na-solve-2step",
+    "na-expand-distributive"
+   ]
+  },
+  {
+   "key": "na-equations-algebraic-fraction",
+   "name": "Solves linear equations involving one algebraic fraction",
+   "topic": "equations-inequalities-stage5",
+   "prereqs": [
+    "na-solve-3step",
+    "na-algebraic-fractions-numeric"
+   ]
+  },
+  {
+   "key": "na-equations-formulas-words",
+   "name": "Solves linear equations arising from formulas and word problems",
+   "topic": "equations-inequalities-stage5",
+   "prereqs": [
+    "na-solve-3step",
+    "na-substitution"
+   ]
+  },
+  {
+   "key": "na-solve-cubic-simple",
+   "name": "Solves cubic equations of the form ax³ = k",
+   "topic": "equations-inequalities-stage5",
+   "prereqs": [
+    "na-solve-3step",
+    "na-fractional-indices",
+    "na-squares-cubes-roots"
+   ]
+  },
+  {
+   "key": "na-linear-inequalities",
+   "name": "Solves linear inequalities and graphs their solutions on a number line",
+   "topic": "equations-inequalities-stage5",
+   "prereqs": [
+    "na-solve-3step",
+    "na-integers"
+   ]
+  },
+  {
+   "key": "na-solve-multistep-equations",
+   "name": "Solves linear equations of more than 3 steps and equations with two or more fractions",
+   "topic": "equations-inequalities-stage5",
+   "prereqs": [
+    "na-solve-3step",
+    "na-equations-algebraic-fraction",
+    "na-algebraic-fractions-binomial"
+   ]
+  },
+  {
+   "key": "na-change-subject",
+   "name": "Rearranges literal equations by changing the subject of a formula",
+   "topic": "equations-inequalities-stage5",
+   "prereqs": [
+    "na-solve-multistep-equations",
+    "na-substitution"
+   ]
+  },
+  {
+   "key": "na-completing-the-square",
+   "name": "Solves quadratic equations by completing the square",
+   "topic": "equations-inequalities-stage5",
+   "prereqs": [
+    "na-special-products",
+    "na-solve-quadratic",
+    "na-surd-operations"
+   ]
+  },
+  {
+   "key": "na-quadratic-formula",
+   "name": "Applies the quadratic formula and uses the discriminant to describe the solutions",
+   "topic": "equations-inequalities-stage5",
+   "prereqs": [
+    "na-completing-the-square",
+    "na-surd-operations",
+    "na-substitution"
+   ]
+  },
+  {
+   "key": "na-choose-quadratic-method",
+   "name": "Selects and verifies the most appropriate method for solving a quadratic equation",
+   "topic": "equations-inequalities-stage5",
+   "prereqs": [
+    "na-solve-quadratic",
+    "na-completing-the-square",
+    "na-quadratic-formula"
+   ]
+  },
+  {
+   "key": "na-quadratic-word-problems",
+   "name": "Models and solves problems using quadratic equations, including substitution into formulas",
+   "topic": "equations-inequalities-stage5",
+   "prereqs": [
+    "na-choose-quadratic-method",
+    "na-change-subject"
+   ]
+  },
+  {
+   "key": "na-identities-contradictions",
+   "name": "Relates identities and contradictions to coincident and parallel lines",
+   "topic": "equations-inequalities-stage5",
+   "prereqs": [
+    "na-simultaneous",
+    "na-horizontal-vertical-parallel-lines"
+   ]
+  },
+  {
+   "key": "na-gradient-interval",
+   "name": "Finds the gradient of an interval on the Cartesian plane using rise over run",
+   "topic": "linear-relationships-stage5",
+   "prereqs": [
+    "ms-coordinates",
+    "na-integers"
+   ]
+  },
+  {
+   "key": "na-midpoint-interval",
+   "name": "Finds the midpoint of an interval on the Cartesian plane",
+   "topic": "linear-relationships-stage5",
+   "prereqs": [
+    "ms-coordinates",
+    "sp-mean-median"
+   ]
+  },
+  {
+   "key": "na-distance-two-points",
+   "name": "Finds the distance between two points on the Cartesian plane using Pythagoras’ theorem",
+   "topic": "linear-relationships-stage5",
+   "prereqs": [
+    "ms-pythagoras",
+    "ms-coordinates",
+    "na-gradient-interval"
+   ]
+  },
+  {
+   "key": "na-graph-linear-relationships",
+   "name": "Graphs linear relationships from tables of values and identifies their intercepts",
+   "topic": "linear-relationships-stage5",
+   "prereqs": [
+    "na-plot-linear",
+    "ms-coordinates",
+    "na-substitution"
+   ]
+  },
+  {
+   "key": "na-horizontal-vertical-parallel-lines",
+   "name": "Graphs and explains horizontal, vertical and parallel lines",
+   "topic": "linear-relationships-stage5",
+   "prereqs": [
+    "na-graph-linear-relationships",
+    "na-gradient-interval"
+   ]
+  },
+  {
+   "key": "na-slope-intercept-form",
+   "name": "Interprets and applies the gradient/slope–intercept form y = mx + c",
+   "topic": "linear-relationships-stage5",
+   "prereqs": [
+    "na-gradient-intercept",
+    "na-graph-linear-relationships",
+    "na-gradient-interval"
+   ]
+  },
+  {
+   "key": "na-parallel-perpendicular-lines",
+   "name": "Finds the equations of parallel and perpendicular lines",
+   "topic": "linear-relationships-stage5",
+   "prereqs": [
+    "na-slope-intercept-form",
+    "na-horizontal-vertical-parallel-lines"
+   ]
+  },
+  {
+   "key": "na-midpoint-gradient-formulas",
+   "name": "Applies the midpoint and gradient formulas to an interval on the Cartesian plane",
+   "topic": "linear-relationships-stage5",
+   "prereqs": [
+    "na-midpoint-interval",
+    "na-gradient-interval"
+   ]
+  },
+  {
+   "key": "na-distance-formula",
+   "name": "Establishes and applies the distance formula",
+   "topic": "linear-relationships-stage5",
+   "prereqs": [
+    "na-distance-two-points",
+    "na-surd-operations"
+   ]
+  },
+  {
+   "key": "na-forms-straight-line",
+   "name": "Converts between gradient–intercept and general form and graphs a line given in any form",
+   "topic": "linear-relationships-stage5",
+   "prereqs": [
+    "na-slope-intercept-form",
+    "na-solve-multistep-equations"
+   ]
+  },
+  {
+   "key": "na-point-gradient-form",
+   "name": "Uses the point–gradient form to find the equation of a line through a point or through two points",
+   "topic": "linear-relationships-stage5",
+   "prereqs": [
+    "na-forms-straight-line",
+    "na-midpoint-gradient-formulas"
+   ]
+  },
+  {
+   "key": "na-parallel-perpendicular-any-form",
+   "name": "Finds and justifies the equations of parallel and perpendicular lines given in any form",
+   "topic": "linear-relationships-stage5",
+   "prereqs": [
+    "na-point-gradient-form",
+    "na-parallel-perpendicular-lines"
+   ]
+  },
+  {
+   "key": "na-coordinate-geometry-proof",
+   "name": "Solves problems involving geometrical figures by applying coordinate geometry formulas",
+   "topic": "linear-relationships-stage5",
+   "prereqs": [
+    "na-distance-formula",
+    "na-midpoint-gradient-formulas",
+    "na-parallel-perpendicular-any-form"
+   ]
+  },
+  {
+   "key": "na-symmetry-graphs",
+   "name": "Identifies line and rotational symmetry in plane shapes and in graphs",
+   "topic": "linear-relationships-stage5",
+   "prereqs": [
+    "ms-classify-triangles-quads",
+    "na-parabolas"
+   ]
+  },
+  {
+   "key": "na-transformations-cartesian",
+   "name": "Describes translations, reflections and rotations on the Cartesian plane using coordinates",
+   "topic": "linear-relationships-stage5",
+   "prereqs": [
+    "ms-coordinates",
+    "na-symmetry-graphs"
+   ]
+  },
+  {
+   "key": "na-quadratic-exponential-graphs",
+   "name": "Connects algebraic and graphical representations of quadratic and exponential relationships",
+   "topic": "nonlinear-relationships-stage5",
+   "prereqs": [
+    "na-graph-linear-relationships",
+    "na-index-laws",
+    "na-substitution"
+   ]
+  },
+  {
+   "key": "na-exponential-curves",
+   "name": "Graphs exponential curves of the form y = a^x and describes their features",
+   "topic": "nonlinear-relationships-stage5",
+   "prereqs": [
+    "na-quadratic-exponential-graphs",
+    "na-negative-indices-numeric"
+   ]
+  },
+  {
+   "key": "na-compare-linear-quadratic-exponential",
+   "name": "Distinguishes between linear, quadratic and exponential relationships from their graphs and equations",
+   "topic": "nonlinear-relationships-stage5",
+   "prereqs": [
+    "na-parabolas",
+    "na-exponential-curves",
+    "na-slope-intercept-form"
+   ]
+  },
+  {
+   "key": "na-parabola-transformations",
+   "name": "Graphs parabolas in turning-point form and describes their transformations",
+   "topic": "nonlinear-relationships-stage5",
+   "prereqs": [
+    "na-parabolas",
+    "na-transformations-cartesian"
+   ]
+  },
+  {
+   "key": "na-parabola-features",
+   "name": "Finds the intercepts, axis of symmetry and vertex of y = ax² + bx + c and sketches it by hand",
+   "topic": "nonlinear-relationships-stage5",
+   "prereqs": [
+    "na-parabola-transformations",
+    "na-solve-quadratic",
+    "na-quadratic-formula"
+   ]
+  },
+  {
+   "key": "na-exponential-transformations",
+   "name": "Graphs exponential relationships of the form y = ka^x + c and describes their transformations",
+   "topic": "nonlinear-relationships-stage5",
+   "prereqs": [
+    "na-exponential-curves",
+    "na-negative-indices-algebraic"
+   ]
+  },
+  {
+   "key": "na-hyperbolas",
+   "name": "Graphs hyperbolas and describes their features and transformations",
+   "topic": "nonlinear-relationships-stage5",
+   "prereqs": [
+    "na-inverse-variation",
+    "na-reciprocal-indices",
+    "na-parabola-transformations"
+   ]
+  },
+  {
+   "key": "na-circle-equation",
+   "name": "Derives and graphs the equation of a circle centred at the origin",
+   "topic": "nonlinear-relationships-stage5",
+   "prereqs": [
+    "na-distance-formula",
+    "na-surd-operations"
+   ]
+  },
+  {
+   "key": "na-circle-general-form",
+   "name": "Graphs circles with centre (a, b) and finds the centre and radius by completing the square",
+   "topic": "nonlinear-relationships-stage5",
+   "prereqs": [
+    "na-circle-equation",
+    "na-completing-the-square"
+   ]
+  },
+  {
+   "key": "na-identify-compare-graphs",
+   "name": "Identifies and compares graph types from their equations and finds intersections with a line",
+   "topic": "nonlinear-relationships-stage5",
+   "prereqs": [
+    "na-parabola-features",
+    "na-hyperbolas",
+    "na-circle-general-form",
+    "na-simultaneous"
+   ]
+  },
+  {
+   "key": "na-power-curves",
+   "name": "Graphs and compares curves of the form y = kxⁿ and describes their transformations",
+   "topic": "nonlinear-relationships-stage5",
+   "prereqs": [
+    "na-parabola-transformations",
+    "na-symmetry-graphs"
+   ]
+  },
+  {
+   "key": "na-direct-variation",
+   "name": "Identifies, describes and represents direct variation",
+   "topic": "variation-rates-stage5",
+   "prereqs": [
+    "na-ratios",
+    "na-rates",
+    "na-slope-intercept-form"
+   ]
+  },
+  {
+   "key": "na-inverse-variation",
+   "name": "Identifies, describes and represents inverse variation",
+   "topic": "variation-rates-stage5",
+   "prereqs": [
+    "na-direct-variation"
+   ]
+  },
+  {
+   "key": "na-variation-graphs-problems",
+   "name": "Recognises graphs of direct and inverse variation and solves variation problems",
+   "topic": "variation-rates-stage5",
+   "prereqs": [
+    "na-direct-variation",
+    "na-inverse-variation",
+    "na-graph-linear-relationships"
+   ]
+  },
+  {
+   "key": "na-constant-rate-graphs",
+   "name": "Interprets graphs that increase or decrease at a constant rate",
+   "topic": "variation-rates-stage5",
+   "prereqs": [
+    "na-variation-graphs-problems",
+    "na-slope-intercept-form",
+    "na-distance-time"
+   ]
+  },
+  {
+   "key": "na-variable-rate-graphs",
+   "name": "Interprets and constructs graphs with a variable rate of change",
+   "topic": "variation-rates-stage5",
+   "prereqs": [
+    "na-constant-rate-graphs"
+   ]
+  },
+  {
+   "key": "na-define-polynomials",
+   "name": "Defines polynomials and their terminology and uses P(x) notation",
+   "topic": "polynomials-stage5",
+   "prereqs": [
+    "na-index-laws",
+    "na-substitution",
+    "na-negative-indices-algebraic"
+   ]
+  },
+  {
+   "key": "na-polynomial-operations",
+   "name": "Adds, subtracts and multiplies polynomials",
+   "topic": "polynomials-stage5",
+   "prereqs": [
+    "na-define-polynomials",
+    "na-expand-binomials"
+   ]
+  },
+  {
+   "key": "na-divide-polynomials",
+   "name": "Divides a polynomial by a linear polynomial and expresses the result as P(x) = D(x)Q(x) + R(x)",
+   "topic": "polynomials-stage5",
+   "prereqs": [
+    "na-polynomial-operations",
+    "na-written-div"
+   ]
+  },
+  {
+   "key": "na-remainder-factor-theorems",
+   "name": "Applies the remainder and factor theorems to factorise polynomials and find their zeroes",
+   "topic": "polynomials-stage5",
+   "prereqs": [
+    "na-divide-polynomials",
+    "na-factorise-strategies"
+   ]
+  },
+  {
+   "key": "na-graph-polynomials",
+   "name": "Graphs polynomials from their zeroes using multiplicity and the leading term",
+   "topic": "polynomials-stage5",
+   "prereqs": [
+    "na-remainder-factor-theorems",
+    "na-power-curves"
+   ]
+  },
+  {
+   "key": "na-polynomial-transformations",
+   "name": "Compares transformations of polynomial graphs",
+   "topic": "polynomials-stage5",
+   "prereqs": [
+    "na-graph-polynomials",
+    "na-transformations-cartesian"
+   ]
+  },
+  {
+   "key": "na-logarithm-definition",
+   "name": "Defines logarithms and converts between index and logarithmic form",
+   "topic": "logarithms-stage5",
+   "prereqs": [
+    "na-index-laws",
+    "na-exponential-curves",
+    "na-fractional-indices"
+   ]
+  },
+  {
+   "key": "na-logarithm-graphs",
+   "name": "Compares the graphs of exponential and logarithmic functions",
+   "topic": "logarithms-stage5",
+   "prereqs": [
+    "na-logarithm-definition",
+    "na-exponential-transformations"
+   ]
+  },
+  {
+   "key": "na-log-laws",
+   "name": "Deduces and applies the laws of logarithms",
+   "topic": "logarithms-stage5",
+   "prereqs": [
+    "na-logarithm-definition",
+    "na-index-laws"
+   ]
+  },
+  {
+   "key": "na-exponential-log-equations",
+   "name": "Solves simple equations involving exponents or logarithms",
+   "topic": "logarithms-stage5",
+   "prereqs": [
+    "na-log-laws",
+    "na-solve-3step"
+   ]
+  },
+  {
+   "key": "na-logarithmic-scales",
+   "name": "Examines logarithmic scales and explains their use in context",
+   "topic": "logarithms-stage5",
+   "prereqs": [
+    "na-log-laws",
+    "na-logarithm-graphs"
+   ]
+  },
+  {
+   "key": "na-relations-functions",
+   "name": "Defines relations and functions and applies the vertical line test",
+   "topic": "functions-graphs-stage5",
+   "prereqs": [
+    "ms-coordinates",
+    "na-identify-compare-graphs"
+   ]
+  },
+  {
+   "key": "na-function-notation",
+   "name": "Uses function notation f(x) and evaluates f(c)",
+   "topic": "functions-graphs-stage5",
+   "prereqs": [
+    "na-relations-functions",
+    "na-substitution"
+   ]
+  },
+  {
+   "key": "na-domain-range",
+   "name": "Determines the domain and range of a function",
+   "topic": "functions-graphs-stage5",
+   "prereqs": [
+    "na-function-notation",
+    "na-linear-inequalities"
+   ]
+  },
+  {
+   "key": "na-function-transformations",
+   "name": "Graphs and describes transformations of y = f(x)",
+   "topic": "functions-graphs-stage5",
+   "prereqs": [
+    "na-domain-range",
+    "na-parabola-transformations",
+    "na-polynomial-transformations"
+   ]
+  },
+  {
+   "key": "na-inequality-regions",
+   "name": "Graphs regions corresponding to linear inequalities in one and two variables",
+   "topic": "functions-graphs-stage5",
+   "prereqs": [
+    "na-linear-inequalities",
+    "na-forms-straight-line"
+   ]
+  },
+  {
+   "key": "ms-compare-length",
+   "name": "Compares the length of two objects directly",
+   "topic": "comparing-sorting",
+   "prereqs": []
+  },
+  {
+   "key": "ms-sort-shapes",
+   "name": "Sorts and names circles, squares, triangles and rectangles",
+   "topic": "comparing-sorting",
+   "prereqs": []
+  },
+  {
+   "key": "ms-informal-length",
+   "name": "Measures length using informal units such as blocks",
+   "topic": "informal-units",
+   "prereqs": [
+    "ms-compare-length"
+   ],
+   "years": [
+    1,
+    2
+   ]
+  },
+  {
+   "key": "ms-time-oclock",
+   "name": "Tells time to the hour and half-hour on analog clocks",
+   "topic": "informal-units",
+   "prereqs": [
+    "na-count-20"
+   ]
+  },
+  {
+   "key": "ms-calendar-dates",
+   "name": "Reads dates on a calendar",
+   "topic": "informal-units",
+   "prereqs": [],
+   "years": [
+    2
+   ]
+  },
+  {
+   "key": "ms-metric-length",
+   "name": "Measures length in centimetres and metres",
+   "topic": "formal-units",
+   "prereqs": [
+    "ms-informal-length",
+    "na-count-100"
+   ]
+  },
+  {
+   "key": "ms-mass-capacity",
+   "name": "Measures mass in grams and kilograms and capacity in litres",
+   "topic": "formal-units",
+   "prereqs": [
+    "ms-metric-length",
+    "na-count-1000"
+   ]
+  },
+  {
+   "key": "ms-perimeter",
+   "name": "Calculates the perimeter of rectangles and simple shapes",
+   "topic": "formal-units",
+   "prereqs": [
+    "ms-metric-length",
+    "na-add-2digit"
+   ]
+  },
+  {
+   "key": "ms-area-grids",
+   "name": "Finds area by counting square units on grids",
+   "topic": "formal-units",
+   "prereqs": [
+    "ms-metric-length"
+   ]
+  },
+  {
+   "key": "ms-time-minute",
+   "name": "Tells time to the minute and converts between hours and minutes",
+   "topic": "formal-units",
+   "prereqs": [
+    "ms-time-oclock",
+    "na-skip-count"
+   ]
+  },
+  {
+   "key": "ms-area-formulas",
+   "name": "Uses formulas to find the area of rectangles and triangles",
+   "topic": "area-volume-angles",
+   "prereqs": [
+    "ms-area-grids",
+    "na-written-mult"
+   ]
+  },
+  {
+   "key": "ms-volume-prisms",
+   "name": "Calculates the volume of rectangular prisms",
+   "topic": "area-volume-angles",
+   "prereqs": [
+    "ms-area-formulas"
+   ]
+  },
+  {
+   "key": "ms-angles-protractor",
+   "name": "Measures and draws angles with a protractor",
+   "topic": "area-volume-angles",
+   "prereqs": [
+    "ms-sort-shapes"
+   ]
+  },
+  {
+   "key": "ms-coordinates",
+   "name": "Plots and reads points in all four quadrants of the Cartesian plane",
+   "topic": "area-volume-angles",
+   "prereqs": [
+    "na-integers",
+    "na-number-line"
+   ]
+  },
+  {
+   "key": "ms-angle-relationships",
+   "name": "Finds unknown angles using angles at a point, on a line and in triangles",
+   "topic": "angles-circles",
+   "prereqs": [
+    "ms-angles-protractor",
+    "na-solve-1step"
+   ]
+  },
+  {
+   "key": "ms-circle-measure",
+   "name": "Calculates the circumference and area of circles",
+   "topic": "angles-circles",
+   "prereqs": [
+    "ms-area-formulas",
+    "na-decimal-ops"
+   ]
+  },
+  {
+   "key": "ms-composite-area",
+   "name": "Finds the area of composite shapes",
+   "topic": "angles-circles",
+   "prereqs": [
+    "ms-area-formulas",
+    "ms-circle-measure"
+   ]
+  },
+  {
+   "key": "ms-volume-cylinder",
+   "name": "Calculates the volume of prisms and cylinders",
+   "topic": "angles-circles",
+   "prereqs": [
+    "ms-volume-prisms",
+    "ms-circle-measure"
+   ]
+  },
+  {
+   "key": "ms-perimeter-composite",
+   "name": "Calculates perimeters of plane shapes, including composite figures",
+   "topic": "measurement-stage4",
+   "prereqs": [
+    "ms-perimeter",
+    "na-decimal-ops"
+   ]
+  },
+  {
+   "key": "ms-area-special-quads",
+   "name": "Uses formulas to find the area of parallelograms, trapeziums, rhombuses and kites",
+   "topic": "measurement-stage4",
+   "prereqs": [
+    "ms-area-formulas"
+   ]
+  },
+  {
+   "key": "ms-volume-right-prisms",
+   "name": "Calculates the volume and capacity of right prisms with various cross-sections",
+   "topic": "measurement-stage4",
+   "prereqs": [
+    "ms-volume-prisms",
+    "ms-area-special-quads"
+   ]
+  },
+  {
+   "key": "ms-classify-triangles-quads",
+   "name": "Classifies triangles and quadrilaterals using their side, angle and symmetry properties",
+   "topic": "geometry-stage4",
+   "prereqs": [
+    "ms-angles-protractor"
+   ]
+  },
+  {
+   "key": "ms-angle-sums",
+   "name": "Uses the angle sum of a quadrilateral to find unknown angles",
+   "topic": "geometry-stage4",
+   "prereqs": [
+    "ms-angle-relationships",
+    "ms-classify-triangles-quads"
+   ]
+  },
+  {
+   "key": "ms-parallel-angles",
+   "name": "Finds unknown angles formed when parallel lines are cut by a transversal",
+   "topic": "geometry-stage4",
+   "prereqs": [
+    "ms-angle-relationships"
+   ]
+  },
+  {
+   "key": "ms-pythagoras",
+   "name": "Applies Pythagoras' theorem to find unknown sides in right-angled triangles",
+   "topic": "pythagoras-stage4",
+   "prereqs": [
+    "ms-angle-relationships",
+    "na-squares-cubes-roots"
+   ]
+  },
+  {
+   "key": "ms-similarity",
+   "name": "Identifies similar figures and uses scale factors",
+   "topic": "trig-similarity",
+   "prereqs": [
+    "na-ratios",
+    "ms-angle-relationships",
+    "ms-classify-triangles-quads"
+   ]
+  },
+  {
+   "key": "ms-trig-ratios",
+   "name": "Uses sine, cosine and tangent ratios to find unknown sides",
+   "topic": "trig-similarity",
+   "prereqs": [
+    "ms-pythagoras",
+    "ms-similarity"
+   ]
+  },
+  {
+   "key": "ms-trig-angles",
+   "name": "Uses trigonometry to find unknown angles",
+   "topic": "trig-similarity",
+   "prereqs": [
+    "ms-trig-ratios"
+   ]
+  },
+  {
+   "key": "ms-scale-drawings",
+   "name": "Enlarges, reduces and interprets scale drawings",
+   "topic": "trig-similarity",
+   "prereqs": [
+    "ms-similarity",
+    "na-ratios"
+   ]
+  },
+  {
+   "key": "ms-elevation-depression",
+   "name": "Solves problems involving angles of elevation and depression",
+   "topic": "trig-similarity",
+   "prereqs": [
+    "ms-trig-ratios",
+    "ms-trig-angles"
+   ]
+  },
+  {
+   "key": "ms-bearings",
+   "name": "Solves practical problems involving true and compass bearings",
+   "topic": "trig-similarity",
+   "prereqs": [
+    "ms-trig-ratios",
+    "ms-elevation-depression",
+    "ms-parallel-angles"
+   ]
+  },
+  {
+   "key": "ms-metric-prefixes",
+   "name": "Interprets unit prefixes for very small and very large measurements",
+   "topic": "measurement-stage5",
+   "prereqs": [
+    "ms-metric-length",
+    "na-index-notation-laws"
+   ]
+  },
+  {
+   "key": "ms-measurement-error",
+   "name": "Finds the precision, absolute error and percentage error of a measurement",
+   "topic": "measurement-stage5",
+   "prereqs": [
+    "ms-metric-prefixes",
+    "na-percent-quantity"
+   ]
+  },
+  {
+   "key": "ms-rounding-significant-figures",
+   "name": "Rounds numbers to a given number of significant figures and judges accuracy",
+   "topic": "measurement-stage5",
+   "prereqs": [
+    "na-decimal-ops",
+    "ms-measurement-error"
+   ]
+  },
+  {
+   "key": "ms-scientific-notation",
+   "name": "Represents and calculates with numbers in scientific notation",
+   "topic": "measurement-stage5",
+   "prereqs": [
+    "na-index-laws",
+    "ms-rounding-significant-figures"
+   ]
+  },
+  {
+   "key": "ms-composite-area-problems",
+   "name": "Solves practical problems involving the area of composite shapes",
+   "topic": "measurement-stage5",
+   "prereqs": [
+    "ms-composite-area",
+    "ms-area-special-quads",
+    "ms-circle-measure"
+   ]
+  },
+  {
+   "key": "ms-surface-area-composite",
+   "name": "Solves problems involving the surface area of composite solids",
+   "topic": "measurement-stage5",
+   "prereqs": [
+    "ms-surface-area",
+    "ms-composite-area-problems"
+   ]
+  },
+  {
+   "key": "ms-volume-prism-cross-sections",
+   "name": "Finds the volume of right prisms with composite and circular cross-sections",
+   "topic": "measurement-stage5",
+   "prereqs": [
+    "ms-volume-right-prisms",
+    "ms-composite-area-problems"
+   ]
+  },
+  {
+   "key": "ms-volume-composite-solids",
+   "name": "Calculates the volume and capacity of composite solids made from prisms and cylinders",
+   "topic": "measurement-stage5",
+   "prereqs": [
+    "ms-volume-prism-cross-sections",
+    "ms-volume-cylinder"
+   ]
+  },
+  {
+   "key": "ms-surface-area",
+   "name": "Calculates the surface area of prisms and cylinders",
+   "topic": "measurement-stage5",
+   "prereqs": [
+    "ms-composite-area",
+    "ms-volume-cylinder",
+    "ms-area-special-quads"
+   ]
+  },
+  {
+   "key": "ms-trig-3d",
+   "name": "Applies Pythagoras' theorem and trigonometry to solve 3-dimensional problems",
+   "topic": "trig-path-stage5",
+   "prereqs": [
+    "ms-pythagoras",
+    "ms-trig-ratios",
+    "ms-trig-angles",
+    "ms-bearings"
+   ]
+  },
+  {
+   "key": "ms-sine-rule",
+   "name": "Applies the sine rule to non-right-angled triangles",
+   "topic": "trig-path-stage5",
+   "prereqs": [
+    "ms-trig-ratios",
+    "ms-trig-angles"
+   ]
+  },
+  {
+   "key": "ms-cosine-rule",
+   "name": "Applies the cosine rule to non-right-angled triangles",
+   "topic": "trig-path-stage5",
+   "prereqs": [
+    "ms-sine-rule",
+    "na-substitution"
+   ]
+  },
+  {
+   "key": "ms-area-rule",
+   "name": "Uses the area rule and selects the appropriate rule for non-right-angled triangles",
+   "topic": "trig-path-stage5",
+   "prereqs": [
+    "ms-sine-rule",
+    "ms-cosine-rule"
+   ]
+  },
+  {
+   "key": "ms-unit-circle",
+   "name": "Uses the unit circle to define and graph the trigonometric functions",
+   "topic": "trig-path-stage5",
+   "prereqs": [
+    "ms-trig-ratios",
+    "ms-coordinates",
+    "na-parabolas"
+   ]
+  },
+  {
+   "key": "ms-gradient-inclination",
+   "name": "Relates the gradient of a line to its angle of inclination",
+   "topic": "trig-path-stage5",
+   "prereqs": [
+    "na-gradient-intercept",
+    "ms-trig-angles",
+    "ms-unit-circle"
+   ]
+  },
+  {
+   "key": "ms-exact-trig-ratios",
+   "name": "Derives and applies the exact trigonometric ratios for 30, 45 and 60 degrees",
+   "topic": "trig-path-stage5",
+   "prereqs": [
+    "ms-trig-ratios",
+    "ms-pythagoras",
+    "na-index-notation-laws"
+   ]
+  },
+  {
+   "key": "ms-trig-equations",
+   "name": "Solves trigonometric equations, including the ambiguous case",
+   "topic": "trig-path-stage5",
+   "prereqs": [
+    "ms-unit-circle",
+    "ms-exact-trig-ratios",
+    "ms-area-rule"
+   ]
+  },
+  {
+   "key": "ms-surface-area-pyramids-cones",
+   "name": "Finds the surface area of right pyramids and right cones",
+   "topic": "measurement-path-stage5",
+   "prereqs": [
+    "ms-surface-area",
+    "ms-pythagoras",
+    "ms-surface-area-composite"
+   ]
+  },
+  {
+   "key": "ms-surface-area-spheres",
+   "name": "Finds the surface area of spheres and composite solids",
+   "topic": "measurement-path-stage5",
+   "prereqs": [
+    "ms-surface-area-pyramids-cones",
+    "ms-surface-area-composite"
+   ]
+  },
+  {
+   "key": "ms-volume-pyramids-cones",
+   "name": "Finds the volume of right pyramids and right cones",
+   "topic": "measurement-path-stage5",
+   "prereqs": [
+    "ms-volume-composite-solids",
+    "ms-surface-area-pyramids-cones"
+   ]
+  },
+  {
+   "key": "ms-volume-spheres-composite",
+   "name": "Finds the volume of spheres and related composite solids",
+   "topic": "measurement-path-stage5",
+   "prereqs": [
+    "ms-volume-pyramids-cones",
+    "ms-surface-area-spheres"
+   ]
+  },
+  {
+   "key": "ms-congruence",
+   "name": "Identifies congruent figures and matches their sides and angles",
+   "topic": "geometry-path-stage5",
+   "prereqs": [
+    "ms-classify-triangles-quads",
+    "ms-similarity"
+   ]
+  },
+  {
+   "key": "ms-congruent-triangle-tests",
+   "name": "Establishes and uses the congruence tests for triangles",
+   "topic": "geometry-path-stage5",
+   "prereqs": [
+    "ms-congruence"
+   ]
+  },
+  {
+   "key": "ms-similar-triangle-tests",
+   "name": "Establishes and uses the similarity tests for triangles",
+   "topic": "geometry-path-stage5",
+   "prereqs": [
+    "ms-similarity",
+    "ms-congruent-triangle-tests"
+   ]
+  },
+  {
+   "key": "ms-similar-area-volume-ratios",
+   "name": "Relates area and volume ratios to the similarity ratio of similar figures and solids",
+   "topic": "geometry-path-stage5",
+   "prereqs": [
+    "ms-similar-triangle-tests",
+    "ms-volume-composite-solids",
+    "ms-scale-drawings"
+   ]
+  },
+  {
+   "key": "ms-polygon-angles",
+   "name": "Applies interior and exterior angle results for polygons",
+   "topic": "geometry-path-stage5",
+   "prereqs": [
+    "ms-angle-sums",
+    "ms-parallel-angles"
+   ]
+  },
+  {
+   "key": "ms-geometric-reasoning",
+   "name": "Finds unknown sides and angles in plane shapes, giving geometrical reasons",
+   "topic": "geometry-path-stage5",
+   "prereqs": [
+    "ms-polygon-angles",
+    "ms-congruent-triangle-tests",
+    "ms-similar-triangle-tests"
+   ]
+  },
+  {
+   "key": "ms-congruence-proofs",
+   "name": "Constructs formal proofs of congruent and similar triangles",
+   "topic": "geometry-path-stage5",
+   "prereqs": [
+    "ms-congruent-triangle-tests",
+    "ms-similar-triangle-tests",
+    "ms-geometric-reasoning"
+   ]
+  },
+  {
+   "key": "ms-plane-shape-proofs",
+   "name": "Proves properties and tests for triangles and quadrilaterals",
+   "topic": "geometry-path-stage5",
+   "prereqs": [
+    "ms-congruence-proofs",
+    "ms-polygon-angles"
+   ]
+  },
+  {
+   "key": "ms-circle-chord-angle",
+   "name": "Proves and applies chord and angle properties of circles",
+   "topic": "circle-geometry-stage5",
+   "prereqs": [
+    "ms-circle-measure",
+    "ms-congruence-proofs",
+    "ms-plane-shape-proofs"
+   ]
+  },
+  {
+   "key": "ms-circle-tangent-secant",
+   "name": "Proves and applies tangent and secant properties of circles",
+   "topic": "circle-geometry-stage5",
+   "prereqs": [
+    "ms-circle-chord-angle"
+   ]
+  },
+  {
+   "key": "ms-networks-graphs",
+   "name": "Describes networks using vertices, edges and degree",
+   "topic": "networks-stage5",
+   "prereqs": [
+    "ms-classify-triangles-quads",
+    "sp-interpret-graphs"
+   ]
+  },
+  {
+   "key": "ms-planar-graphs",
+   "name": "Identifies planar graphs and applies Euler's formula",
+   "topic": "networks-stage5",
+   "prereqs": [
+    "ms-networks-graphs"
+   ]
+  },
+  {
+   "key": "ms-eulerian-trails",
+   "name": "Explains and finds Eulerian trails and circuits",
+   "topic": "networks-stage5",
+   "prereqs": [
+    "ms-planar-graphs"
+   ]
+  },
+  {
+   "key": "sp-collect-sort",
+   "name": "Collects data and sorts objects into categories",
+   "topic": "early-data",
+   "prereqs": [
+    "na-compare-collections"
+   ],
+   "years": [
+    1,
+    2
+   ]
+  },
+  {
+   "key": "sp-picture-graphs",
+   "name": "Creates and reads picture graphs",
+   "topic": "early-data",
+   "prereqs": [
+    "sp-collect-sort",
+    "na-count-20"
+   ]
+  },
+  {
+   "key": "sp-tables-tallies",
+   "name": "Records data in tables using tally marks",
+   "topic": "data-displays",
+   "prereqs": [
+    "sp-collect-sort",
+    "na-skip-count"
+   ]
+  },
+  {
+   "key": "sp-column-graphs",
+   "name": "Draws and interprets column graphs",
+   "topic": "data-displays",
+   "prereqs": [
+    "sp-picture-graphs",
+    "sp-tables-tallies"
+   ]
+  },
+  {
+   "key": "sp-mean-median",
+   "name": "Calculates the mean, median, mode and range of a data set",
+   "topic": "data-analysis",
+   "prereqs": [
+    "sp-column-graphs",
+    "na-written-div"
+   ]
+  },
+  {
+   "key": "sp-interpret-graphs",
+   "name": "Interprets line graphs and two-way tables",
+   "topic": "data-analysis",
+   "prereqs": [
+    "sp-column-graphs"
+   ]
+  },
+  {
+   "key": "sp-chance-language",
+   "name": "Describes chance using words such as likely, unlikely and impossible",
+   "topic": "chance",
+   "prereqs": []
+  },
+  {
+   "key": "sp-prob-fractions",
+   "name": "Assigns probabilities to simple events as fractions",
+   "topic": "chance",
+   "prereqs": [
+    "sp-chance-language",
+    "na-unit-fractions"
+   ]
+  },
+  {
+   "key": "sp-theoretical",
+   "name": "Calculates theoretical probabilities for single-step experiments",
+   "topic": "probability-stage4",
+   "prereqs": [
+    "sp-prob-fractions",
+    "na-fdp-links"
+   ]
+  },
+  {
+   "key": "sp-experimental",
+   "name": "Runs experiments and compares relative frequency with theoretical probability",
+   "topic": "probability-stage4",
+   "prereqs": [
+    "sp-theoretical"
+   ]
+  },
+  {
+   "key": "sp-two-step",
+   "name": "Uses tables and tree diagrams for two-step experiments",
+   "topic": "probability-stage4",
+   "prereqs": [
+    "sp-theoretical"
+   ]
+  },
+  {
+   "key": "sp-complementary-events",
+   "name": "Uses complementary events to calculate probabilities",
+   "topic": "probability-stage4",
+   "prereqs": [
+    "sp-theoretical"
+   ]
+  },
+  {
+   "key": "sp-classify-data",
+   "name": "Classifies data as categorical or numerical, discrete or continuous",
+   "topic": "data-stage4",
+   "prereqs": [
+    "sp-collect-sort"
+   ]
+  },
+  {
+   "key": "sp-dot-stem-plots",
+   "name": "Constructs and interprets dot plots and stem-and-leaf plots",
+   "topic": "data-stage4",
+   "prereqs": [
+    "sp-classify-data",
+    "sp-column-graphs"
+   ]
+  },
+  {
+   "key": "sp-frequency-histograms",
+   "name": "Constructs frequency tables and histograms for numerical data",
+   "topic": "data-stage4",
+   "prereqs": [
+    "sp-classify-data",
+    "sp-tables-tallies"
+   ]
+  },
+  {
+   "key": "sp-choose-centre",
+   "name": "Chooses appropriate measures of centre and spread, including the effect of outliers",
+   "topic": "data-stage4",
+   "prereqs": [
+    "sp-mean-median"
+   ]
+  },
+  {
+   "key": "sp-data-shape",
+   "name": "Describes the shape of data distributions, including symmetry, clusters and outliers",
+   "topic": "data-stage4",
+   "prereqs": [
+    "sp-dot-stem-plots",
+    "sp-choose-centre"
+   ]
+  },
+  {
+   "key": "sp-boxplots",
+   "name": "Constructs and compares box plots using five-number summaries",
+   "topic": "data-stage5",
+   "prereqs": [
+    "sp-quartiles-iqr",
+    "sp-mean-median",
+    "sp-frequency-histograms"
+   ]
+  },
+  {
+   "key": "sp-quartiles-iqr",
+   "name": "Determines the five-number summary and interquartile range of a dataset",
+   "topic": "data-stage5",
+   "prereqs": [
+    "sp-mean-median",
+    "sp-choose-centre",
+    "sp-dot-stem-plots"
+   ]
+  },
+  {
+   "key": "sp-compare-datasets",
+   "name": "Compares two or more datasets using parallel box plots, shape and summary statistics",
+   "topic": "data-stage5",
+   "prereqs": [
+    "sp-boxplots",
+    "sp-data-shape",
+    "sp-quartiles-iqr"
+   ]
+  },
+  {
+   "key": "sp-standard-deviation",
+   "name": "Uses standard deviation to measure and compare the spread of datasets",
+   "topic": "data-stage5",
+   "prereqs": [
+    "sp-mean-median",
+    "sp-quartiles-iqr",
+    "na-squares-cubes-roots"
+   ]
+  },
+  {
+   "key": "sp-bivariate-data",
+   "name": "Identifies bivariate data and distinguishes association from causation",
+   "topic": "bivariate-stage5",
+   "prereqs": [
+    "sp-classify-data",
+    "sp-interpret-graphs"
+   ]
+  },
+  {
+   "key": "sp-line-of-best-fit",
+   "name": "Fits a line of best fit by eye and uses it to interpolate and extrapolate",
+   "topic": "bivariate-stage5",
+   "prereqs": [
+    "sp-scatter",
+    "na-gradient-intercept"
+   ]
+  },
+  {
+   "key": "sp-scatter",
+   "name": "Draws scatter plots and describes the relationship between two variables",
+   "topic": "bivariate-stage5",
+   "prereqs": [
+    "sp-bivariate-data",
+    "ms-coordinates",
+    "sp-interpret-graphs"
+   ]
+  },
+  {
+   "key": "sp-independent-dependent",
+   "name": "Distinguishes independent and dependent events and lists outcomes for multistage experiments",
+   "topic": "probability-stage5",
+   "prereqs": [
+    "sp-two-step",
+    "sp-theoretical",
+    "sp-complementary-events"
+   ]
+  },
+  {
+   "key": "sp-multistage-probability",
+   "name": "Calculates probabilities for multistage chance experiments, with and without replacement",
+   "topic": "probability-stage5",
+   "prereqs": [
+    "sp-independent-dependent",
+    "na-fraction-multiply-divide"
+   ]
+  },
+  {
+   "key": "sp-simulations",
+   "name": "Designs, runs and evaluates probability simulations using digital tools",
+   "topic": "probability-stage5",
+   "prereqs": [
+    "sp-experimental",
+    "sp-multistage-probability"
+   ]
+  },
+  {
+   "key": "sp-statistical-inquiry",
+   "name": "Plans and conducts a statistical inquiry and reports its findings",
+   "topic": "statistical-inquiry-stage5",
+   "prereqs": [
+    "sp-compare-datasets",
+    "sp-line-of-best-fit",
+    "sp-standard-deviation"
+   ]
+  },
+  {
+   "key": "sp-evaluate-reports",
+   "name": "Critically evaluates sampling, surveys and statistical claims in media reports",
+   "topic": "statistical-inquiry-stage5",
+   "prereqs": [
+    "sp-statistical-inquiry",
+    "sp-bivariate-data"
+   ]
+  },
+  {
+   "key": "sp-venn-two-way",
+   "name": "Represents data in Venn diagrams and two-way tables and converts between them",
+   "topic": "probability-path-stage5",
+   "prereqs": [
+    "sp-two-step",
+    "sp-theoretical",
+    "sp-interpret-graphs"
+   ]
+  },
+  {
+   "key": "sp-set-notation",
+   "name": "Uses set language and notation to describe events",
+   "topic": "probability-path-stage5",
+   "prereqs": [
+    "sp-venn-two-way"
+   ]
+  },
+  {
+   "key": "sp-mutually-exclusive",
+   "name": "Describes and calculates probabilities of compound events, mutually exclusive or not",
+   "topic": "probability-path-stage5",
+   "prereqs": [
+    "sp-set-notation",
+    "sp-venn-two-way",
+    "sp-complementary-events"
+   ]
+  },
+  {
+   "key": "sp-conditional-probability",
+   "name": "Calculates conditional probabilities and interprets conditional language",
+   "topic": "probability-path-stage5",
+   "prereqs": [
+    "sp-venn-two-way",
+    "sp-mutually-exclusive",
+    "sp-independent-dependent"
+   ]
+  }
+ ]
+}

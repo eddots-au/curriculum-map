@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "curriculumVersion": "9.0",
+  "releasePath": "MRAC/2024/04",
+  "indexVerifiedAt": "2026-09-08",
+  "publisher": "Australian Curriculum, Assessment and Reporting Authority (ACARA)",
+  "distributor": "Education Services Australia",
+  "officialOverview": "https://www.australiancurriculum.edu.au/machine-readable-australian-curriculum",
+  "officialIndex": "https://www.scootle.edu.au/ec/p/mrac_details",
+  "indexTitle": "Machine Readable Australian Curriculum V9 (MRAC)",
+  "copyrightTerms": "https://www.australiancurriculum.edu.au/copyright-and-terms-of-use",
+  "licence": "https://creativecommons.org/licenses/by/4.0/",
+  "scope": "Learning-area curriculum metadata only. No photographs, logos, videos, teacher-support resources or literacy learning progressions are imported.",
+  "areas": [
+    { "key": "ART", "name": "The Arts", "url": "https://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/ART/export/MRAC/2024/04/LA/ART.jsonld" },
+    { "key": "ENG", "name": "English", "url": "https://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/ENG/export/MRAC/2024/04/LA/ENG.jsonld" },
+    { "key": "HPE", "name": "Health and Physical Education", "url": "https://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/HPE/export/MRAC/2024/04/LA/HPE.jsonld" },
+    { "key": "HASS", "sourceNotation": "HAS", "name": "Humanities and Social Sciences", "url": "https://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/HASS/export/MRAC/2024/04/LA/HASS.jsonld" },
+    { "key": "LAN", "name": "Languages", "url": "https://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/LAN/export/MRAC/2024/04/LA/LAN.jsonld" },
+    { "key": "MAT", "name": "Mathematics", "url": "https://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/export/MRAC/2024/04/LA/MAT.jsonld" },
+    { "key": "SCI", "name": "Science", "url": "https://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/export/MRAC/2024/04/LA/SCI.jsonld" },
+    { "key": "TEC", "name": "Technologies", "url": "https://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/TEC/export/MRAC/2024/04/LA/TEC.jsonld" }
+  ]
+}
+

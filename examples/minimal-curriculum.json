@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "id": "example-country-maths-y1-y2",
+  "name": "Example country, Mathematics Years 1-2 (illustration only)",
+  "note": "Invented example to show the format. Replace with your own curriculum.",
+  "stageYears": { "Stage 1": [1, 2] },
+  "strands": [{ "key": "number", "name": "Number" }],
+  "topics": [
+    { "key": "counting", "name": "Counting", "strand": "number", "stage": "Stage 1", "years": [1] },
+    { "key": "adding", "name": "Adding", "strand": "number", "stage": "Stage 1", "years": [1, 2] }
+  ],
+  "skills": [
+    { "key": "count-to-20", "name": "Counts to 20", "topic": "counting", "prereqs": [] },
+    { "key": "add-within-10", "name": "Adds numbers within 10", "topic": "adding", "prereqs": ["count-to-20"] },
+    { "key": "add-within-20", "name": "Adds numbers within 20", "topic": "adding", "prereqs": ["add-within-10"] }
+  ]
+}

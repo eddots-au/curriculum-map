@@ -1,0 +1,369 @@
+{
+ "schema": 1,
+ "id": "english-hsc",
+ "name": "HSC English Advanced",
+ "treeVersion": 1,
+ "note": "NSW syllabus, as used on the learning platform",
+ "stageYears": {
+  "Preliminary": [
+   11
+  ],
+  "Year 12": [
+   12
+  ]
+ },
+ "strands": [
+  {
+   "key": "textual-analysis",
+   "name": "Textual analysis"
+  },
+  {
+   "key": "essay-craft",
+   "name": "Essay craft"
+  },
+  {
+   "key": "composition",
+   "name": "Imaginative, discursive and reflective writing"
+  }
+ ],
+ "topics": [
+  {
+   "key": "foundations",
+   "name": "Foundations of analysis",
+   "strand": "textual-analysis",
+   "stage": "Preliminary",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "context-perspective",
+   "name": "Context and perspective",
+   "strand": "textual-analysis",
+   "stage": "Preliminary",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "human-experiences",
+   "name": "Texts and human experiences",
+   "strand": "textual-analysis",
+   "stage": "Year 12",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "critical-study",
+   "name": "Critical study of texts",
+   "strand": "textual-analysis",
+   "stage": "Year 12",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "building-arguments",
+   "name": "Building analytical arguments",
+   "strand": "essay-craft",
+   "stage": "Preliminary",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "sustained-essays",
+   "name": "Sustained essays under exam conditions",
+   "strand": "essay-craft",
+   "stage": "Year 12",
+   "years": [
+    12
+   ]
+  },
+  {
+   "key": "creative-craft",
+   "name": "Creative craft",
+   "strand": "composition",
+   "stage": "Preliminary",
+   "years": [
+    11
+   ]
+  },
+  {
+   "key": "discursive-reflective",
+   "name": "Discursive and reflective writing",
+   "strand": "composition",
+   "stage": "Year 12",
+   "years": [
+    12
+   ]
+  }
+ ],
+ "skills": [
+  {
+   "key": "ta-close-reading",
+   "name": "Annotates unseen texts for technique, tone and meaning",
+   "topic": "foundations",
+   "prereqs": []
+  },
+  {
+   "key": "ta-prose-techniques",
+   "name": "Analyses narrative voice, characterisation and structure in prose",
+   "topic": "foundations",
+   "prereqs": [
+    "ta-close-reading"
+   ]
+  },
+  {
+   "key": "ta-poetry-techniques",
+   "name": "Analyses imagery, form and sound devices in poetry",
+   "topic": "foundations",
+   "prereqs": [
+    "ta-close-reading"
+   ]
+  },
+  {
+   "key": "ta-drama-film",
+   "name": "Analyses dramatic and film techniques, including staging and camera work",
+   "topic": "foundations",
+   "prereqs": [
+    "ta-close-reading"
+   ]
+  },
+  {
+   "key": "ta-rhetoric",
+   "name": "Analyses rhetorical devices in speeches and essays",
+   "topic": "foundations",
+   "prereqs": [
+    "ta-close-reading"
+   ]
+  },
+  {
+   "key": "ta-technique-effect",
+   "name": "Links technique to effect and effect to meaning in analysis",
+   "topic": "foundations",
+   "prereqs": [
+    "ta-prose-techniques",
+    "ta-poetry-techniques"
+   ]
+  },
+  {
+   "key": "ta-context",
+   "name": "Explains how a composer's context shapes meaning and values",
+   "topic": "context-perspective",
+   "prereqs": [
+    "ta-technique-effect"
+   ]
+  },
+  {
+   "key": "ta-perspective",
+   "name": "Analyses how texts represent perspectives and position audiences",
+   "topic": "context-perspective",
+   "prereqs": [
+    "ta-technique-effect"
+   ]
+  },
+  {
+   "key": "ta-individual-collective",
+   "name": "Analyses representations of individual and collective human experiences",
+   "topic": "human-experiences",
+   "prereqs": [
+    "ta-context",
+    "ta-perspective"
+   ]
+  },
+  {
+   "key": "ta-anomalies",
+   "name": "Explores anomalies, paradoxes and inconsistencies in human behaviour in texts",
+   "topic": "human-experiences",
+   "prereqs": [
+    "ta-individual-collective"
+   ]
+  },
+  {
+   "key": "ta-emotion",
+   "name": "Evaluates how texts represent human qualities and emotions",
+   "topic": "human-experiences",
+   "prereqs": [
+    "ta-individual-collective"
+   ]
+  },
+  {
+   "key": "ta-unseen-mastery",
+   "name": "Responds to unseen texts under timed conditions",
+   "topic": "human-experiences",
+   "prereqs": [
+    "ta-technique-effect",
+    "ta-drama-film"
+   ]
+  },
+  {
+   "key": "ta-textual-integrity",
+   "name": "Evaluates a text's construction, coherence and textual integrity",
+   "topic": "critical-study",
+   "prereqs": [
+    "ta-individual-collective"
+   ]
+  },
+  {
+   "key": "ta-interpretations",
+   "name": "Weighs different critical interpretations of a text against personal judgment",
+   "topic": "critical-study",
+   "prereqs": [
+    "ta-textual-integrity"
+   ]
+  },
+  {
+   "key": "ec-thesis",
+   "name": "Writes a conceptual thesis that answers the question directly",
+   "topic": "building-arguments",
+   "prereqs": [
+    "ta-technique-effect"
+   ]
+  },
+  {
+   "key": "ec-topic-sentences",
+   "name": "Frames body paragraphs with conceptual topic sentences",
+   "topic": "building-arguments",
+   "prereqs": [
+    "ec-thesis"
+   ]
+  },
+  {
+   "key": "ec-intro-conclusions",
+   "name": "Writes introductions and conclusions that frame the argument",
+   "topic": "building-arguments",
+   "prereqs": [
+    "ec-topic-sentences"
+   ]
+  },
+  {
+   "key": "ec-evidence",
+   "name": "Selects and embeds textual evidence with analysis",
+   "topic": "building-arguments",
+   "prereqs": [
+    "ec-topic-sentences",
+    "ta-technique-effect"
+   ]
+  },
+  {
+   "key": "ec-analytical-verbs",
+   "name": "Writes in a precise analytical register",
+   "topic": "building-arguments",
+   "prereqs": [
+    "ec-evidence"
+   ]
+  },
+  {
+   "key": "ec-full-essay",
+   "name": "Sustains a thesis across a complete essay",
+   "topic": "sustained-essays",
+   "prereqs": [
+    "ec-evidence",
+    "ec-analytical-verbs",
+    "ec-intro-conclusions"
+   ]
+  },
+  {
+   "key": "ec-adapt-question",
+   "name": "Adapts prepared knowledge to an unseen essay question",
+   "topic": "sustained-essays",
+   "prereqs": [
+    "ec-full-essay"
+   ]
+  },
+  {
+   "key": "ec-integrate-context",
+   "name": "Integrates context and audience response into the argument",
+   "topic": "sustained-essays",
+   "prereqs": [
+    "ec-full-essay",
+    "ta-context"
+   ]
+  },
+  {
+   "key": "ec-timed-essay",
+   "name": "Writes a full essay in 40 minutes under exam conditions",
+   "topic": "sustained-essays",
+   "prereqs": [
+    "ec-adapt-question"
+   ]
+  },
+  {
+   "key": "cw-imagery",
+   "name": "Builds imagery through concrete, sensory detail",
+   "topic": "creative-craft",
+   "prereqs": [
+    "ta-poetry-techniques"
+   ]
+  },
+  {
+   "key": "cw-show-dont-tell",
+   "name": "Reveals character through action and dialogue rather than statement",
+   "topic": "creative-craft",
+   "prereqs": [
+    "cw-imagery"
+   ]
+  },
+  {
+   "key": "cw-dialogue",
+   "name": "Punctuates and paces dialogue effectively",
+   "topic": "creative-craft",
+   "prereqs": [
+    "cw-show-dont-tell"
+   ]
+  },
+  {
+   "key": "cw-structure",
+   "name": "Shapes narrative structure, openings and endings deliberately",
+   "topic": "creative-craft",
+   "prereqs": [
+    "cw-show-dont-tell"
+   ]
+  },
+  {
+   "key": "cw-voice",
+   "name": "Develops a distinctive narrative voice and point of view",
+   "topic": "creative-craft",
+   "prereqs": [
+    "cw-structure"
+   ]
+  },
+  {
+   "key": "cw-short-fiction",
+   "name": "Crafts a complete short imaginative piece",
+   "topic": "creative-craft",
+   "prereqs": [
+    "cw-voice",
+    "cw-dialogue"
+   ]
+  },
+  {
+   "key": "cw-discursive",
+   "name": "Writes discursively, exploring an idea through a personal lens",
+   "topic": "discursive-reflective",
+   "prereqs": [
+    "cw-voice"
+   ]
+  },
+  {
+   "key": "cw-stimulus",
+   "name": "Responds to visual and written stimulus in crafted writing",
+   "topic": "discursive-reflective",
+   "prereqs": [
+    "cw-short-fiction",
+    "cw-discursive"
+   ]
+  },
+  {
+   "key": "cw-reflection",
+   "name": "Writes a reflective statement justifying compositional choices",
+   "topic": "discursive-reflective",
+   "prereqs": [
+    "cw-stimulus",
+    "ta-technique-effect"
+   ]
+  }
+ ]
+}

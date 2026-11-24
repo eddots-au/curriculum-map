@@ -1,0 +1,3760 @@
+{
+ "schema": 1,
+ "id": "english-k10",
+ "name": "English K-10",
+ "treeVersion": 2,
+ "note": "NSW syllabus, as used on the learning platform",
+ "stageYears": {
+  "Early Stage 1": [
+   0
+  ],
+  "Stage 1": [
+   1,
+   2
+  ],
+  "Stage 2": [
+   3,
+   4
+  ],
+  "Stage 3": [
+   5,
+   6
+  ],
+  "Stage 4": [
+   7,
+   8
+  ],
+  "Stage 5": [
+   9,
+   10
+  ]
+ },
+ "strands": [
+  {
+   "key": "reading-viewing",
+   "name": "Reading and viewing"
+  },
+  {
+   "key": "writing-representing",
+   "name": "Writing and representing"
+  },
+  {
+   "key": "speaking-listening",
+   "name": "Speaking and listening"
+  }
+ ],
+ "topics": [
+  {
+   "key": "es1-phonic-knowledge",
+   "name": "Phonic knowledge",
+   "strand": "reading-viewing",
+   "stage": "Early Stage 1",
+   "years": [
+    0
+   ]
+  },
+  {
+   "key": "es1-phonological-awareness",
+   "name": "Phonological awareness",
+   "strand": "reading-viewing",
+   "stage": "Early Stage 1",
+   "years": [
+    0
+   ]
+  },
+  {
+   "key": "es1-print-conventions",
+   "name": "Print conventions",
+   "strand": "reading-viewing",
+   "stage": "Early Stage 1",
+   "years": [
+    0
+   ]
+  },
+  {
+   "key": "es1-reading-comprehension",
+   "name": "Reading comprehension",
+   "strand": "reading-viewing",
+   "stage": "Early Stage 1",
+   "years": [
+    0
+   ]
+  },
+  {
+   "key": "es1-reading-fluency",
+   "name": "Reading fluency",
+   "strand": "reading-viewing",
+   "stage": "Early Stage 1",
+   "years": [
+    0
+   ]
+  },
+  {
+   "key": "es1-understanding-literature",
+   "name": "Understanding and responding to literature",
+   "strand": "reading-viewing",
+   "stage": "Early Stage 1",
+   "years": [
+    0
+   ]
+  },
+  {
+   "key": "es1-vocabulary",
+   "name": "Vocabulary",
+   "strand": "reading-viewing",
+   "stage": "Early Stage 1",
+   "years": [
+    0
+   ]
+  },
+  {
+   "key": "s1-phonic-knowledge",
+   "name": "Phonic knowledge",
+   "strand": "reading-viewing",
+   "stage": "Stage 1",
+   "years": [
+    1,
+    2
+   ]
+  },
+  {
+   "key": "s1-reading-comprehension",
+   "name": "Reading comprehension",
+   "strand": "reading-viewing",
+   "stage": "Stage 1",
+   "years": [
+    1,
+    2
+   ]
+  },
+  {
+   "key": "s1-reading-fluency",
+   "name": "Reading fluency",
+   "strand": "reading-viewing",
+   "stage": "Stage 1",
+   "years": [
+    1,
+    2
+   ]
+  },
+  {
+   "key": "s1-understanding-literature",
+   "name": "Understanding and responding to literature",
+   "strand": "reading-viewing",
+   "stage": "Stage 1",
+   "years": [
+    1,
+    2
+   ]
+  },
+  {
+   "key": "s1-vocabulary",
+   "name": "Vocabulary",
+   "strand": "reading-viewing",
+   "stage": "Stage 1",
+   "years": [
+    1,
+    2
+   ]
+  },
+  {
+   "key": "s2-reading-comprehension",
+   "name": "Reading comprehension",
+   "strand": "reading-viewing",
+   "stage": "Stage 2",
+   "years": [
+    3,
+    4
+   ]
+  },
+  {
+   "key": "s2-reading-fluency",
+   "name": "Reading fluency",
+   "strand": "reading-viewing",
+   "stage": "Stage 2",
+   "years": [
+    3,
+    4
+   ]
+  },
+  {
+   "key": "s2-understanding-literature",
+   "name": "Understanding and responding to literature",
+   "strand": "reading-viewing",
+   "stage": "Stage 2",
+   "years": [
+    3,
+    4
+   ]
+  },
+  {
+   "key": "s2-vocabulary",
+   "name": "Vocabulary",
+   "strand": "reading-viewing",
+   "stage": "Stage 2",
+   "years": [
+    3,
+    4
+   ]
+  },
+  {
+   "key": "s3-reading-comprehension",
+   "name": "Reading comprehension",
+   "strand": "reading-viewing",
+   "stage": "Stage 3",
+   "years": [
+    5,
+    6
+   ]
+  },
+  {
+   "key": "s3-understanding-literature",
+   "name": "Understanding and responding to literature",
+   "strand": "reading-viewing",
+   "stage": "Stage 3",
+   "years": [
+    5,
+    6
+   ]
+  },
+  {
+   "key": "s3-vocabulary",
+   "name": "Vocabulary",
+   "strand": "reading-viewing",
+   "stage": "Stage 3",
+   "years": [
+    5,
+    6
+   ]
+  },
+  {
+   "key": "s4-reading-viewing-listening",
+   "name": "Reading, viewing and listening to texts",
+   "strand": "reading-viewing",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "s4-understanding-texts-a",
+   "name": "Understanding and responding to texts A",
+   "strand": "reading-viewing",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "s4-understanding-texts-b",
+   "name": "Understanding and responding to texts B",
+   "strand": "reading-viewing",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "s4-understanding-texts-c",
+   "name": "Understanding and responding to texts C",
+   "strand": "reading-viewing",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "s5-reading-viewing-listening",
+   "name": "Reading, viewing and listening to texts",
+   "strand": "reading-viewing",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "s5-understanding-texts-a",
+   "name": "Understanding and responding to texts A",
+   "strand": "reading-viewing",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "s5-understanding-texts-b",
+   "name": "Understanding and responding to texts B",
+   "strand": "reading-viewing",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "s5-understanding-texts-c",
+   "name": "Understanding and responding to texts C",
+   "strand": "reading-viewing",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "early-writing",
+   "name": "Early writing",
+   "strand": "writing-representing",
+   "stage": "Early Stage 1",
+   "years": [
+    0
+   ]
+  },
+  {
+   "key": "handwriting-es1",
+   "name": "Handwriting",
+   "strand": "writing-representing",
+   "stage": "Early Stage 1",
+   "years": [
+    0
+   ]
+  },
+  {
+   "key": "spelling-es1",
+   "name": "Spelling",
+   "strand": "writing-representing",
+   "stage": "Early Stage 1",
+   "years": [
+    0
+   ]
+  },
+  {
+   "key": "handwriting-s1",
+   "name": "Handwriting",
+   "strand": "writing-representing",
+   "stage": "Stage 1",
+   "years": [
+    1,
+    2
+   ]
+  },
+  {
+   "key": "sentence-craft",
+   "name": "Sentence craft",
+   "strand": "writing-representing",
+   "stage": "Stage 1",
+   "years": [
+    1,
+    2
+   ]
+  },
+  {
+   "key": "spelling-s1",
+   "name": "Spelling",
+   "strand": "writing-representing",
+   "stage": "Stage 1",
+   "years": [
+    1,
+    2
+   ]
+  },
+  {
+   "key": "text-craft-s1",
+   "name": "Creating written texts",
+   "strand": "writing-representing",
+   "stage": "Stage 1",
+   "years": [
+    1,
+    2
+   ]
+  },
+  {
+   "key": "handwriting-s2",
+   "name": "Handwriting and digital transcription",
+   "strand": "writing-representing",
+   "stage": "Stage 2",
+   "years": [
+    3,
+    4
+   ]
+  },
+  {
+   "key": "paragraph-craft",
+   "name": "Paragraph craft and cohesion",
+   "strand": "writing-representing",
+   "stage": "Stage 2",
+   "years": [
+    3,
+    4
+   ]
+  },
+  {
+   "key": "sentence-craft-s2",
+   "name": "Sentence-level grammar and punctuation",
+   "strand": "writing-representing",
+   "stage": "Stage 2",
+   "years": [
+    3,
+    4
+   ]
+  },
+  {
+   "key": "spelling-s2",
+   "name": "Spelling",
+   "strand": "writing-representing",
+   "stage": "Stage 2",
+   "years": [
+    3,
+    4
+   ]
+  },
+  {
+   "key": "text-purposes-s2",
+   "name": "Writing for imaginative, informative and persuasive purposes",
+   "strand": "writing-representing",
+   "stage": "Stage 2",
+   "years": [
+    3,
+    4
+   ]
+  },
+  {
+   "key": "handwriting-s3",
+   "name": "Handwriting and digital transcription",
+   "strand": "writing-representing",
+   "stage": "Stage 3",
+   "years": [
+    5,
+    6
+   ]
+  },
+  {
+   "key": "sentence-craft-s3",
+   "name": "Sentence-level grammar and punctuation",
+   "strand": "writing-representing",
+   "stage": "Stage 3",
+   "years": [
+    5,
+    6
+   ]
+  },
+  {
+   "key": "spelling-s3",
+   "name": "Spelling",
+   "strand": "writing-representing",
+   "stage": "Stage 3",
+   "years": [
+    5,
+    6
+   ]
+  },
+  {
+   "key": "text-craft-s3",
+   "name": "Text features, cohesion and planning",
+   "strand": "writing-representing",
+   "stage": "Stage 3",
+   "years": [
+    5,
+    6
+   ]
+  },
+  {
+   "key": "text-types",
+   "name": "Writing for different purposes",
+   "strand": "writing-representing",
+   "stage": "Stage 3",
+   "years": [
+    5,
+    6
+   ]
+  },
+  {
+   "key": "essay-craft",
+   "name": "Essay craft and composing written texts",
+   "strand": "writing-representing",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "imaginative-craft-s4",
+   "name": "Imaginative and poetic composition",
+   "strand": "writing-representing",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "representing-s4",
+   "name": "Representing and multimodal composition",
+   "strand": "writing-representing",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "sentence-craft-s4",
+   "name": "Sentence-level grammar and punctuation",
+   "strand": "writing-representing",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "word-craft-s4",
+   "name": "Word-level language and spelling",
+   "strand": "writing-representing",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "writing-process-s4",
+   "name": "Planning, monitoring, revising and reflecting",
+   "strand": "writing-representing",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "imaginative-craft-s5",
+   "name": "Imaginative, discursive and poetic composition",
+   "strand": "writing-representing",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "polished-writing",
+   "name": "Polished writing",
+   "strand": "writing-representing",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "representing-s5",
+   "name": "Representing and multimodal composition",
+   "strand": "writing-representing",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "sentence-craft-s5",
+   "name": "Sentence-level grammar and punctuation",
+   "strand": "writing-representing",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "word-craft-s5",
+   "name": "Word-level language and spelling",
+   "strand": "writing-representing",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "writing-process-s5",
+   "name": "Planning, monitoring, revising and reflecting",
+   "strand": "writing-representing",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  },
+  {
+   "key": "es1-grammar-when-interacting",
+   "name": "Understanding and using grammar when interacting",
+   "strand": "speaking-listening",
+   "stage": "Early Stage 1",
+   "years": [
+    0
+   ]
+  },
+  {
+   "key": "es1-listening-for-understanding",
+   "name": "Listening for understanding",
+   "strand": "speaking-listening",
+   "stage": "Early Stage 1",
+   "years": [
+    0
+   ]
+  },
+  {
+   "key": "es1-oral-narrative",
+   "name": "Oral narrative",
+   "strand": "speaking-listening",
+   "stage": "Early Stage 1",
+   "years": [
+    0
+   ]
+  },
+  {
+   "key": "es1-social-and-learning-interactions",
+   "name": "Social and learning interactions",
+   "strand": "speaking-listening",
+   "stage": "Early Stage 1",
+   "years": [
+    0
+   ]
+  },
+  {
+   "key": "s1-grammar-when-interacting",
+   "name": "Understanding and using grammar when interacting",
+   "strand": "speaking-listening",
+   "stage": "Stage 1",
+   "years": [
+    1,
+    2
+   ]
+  },
+  {
+   "key": "s1-listening-for-understanding",
+   "name": "Listening for understanding",
+   "strand": "speaking-listening",
+   "stage": "Stage 1",
+   "years": [
+    1,
+    2
+   ]
+  },
+  {
+   "key": "s1-oral-narrative",
+   "name": "Oral narrative",
+   "strand": "speaking-listening",
+   "stage": "Stage 1",
+   "years": [
+    1,
+    2
+   ]
+  },
+  {
+   "key": "s1-social-and-learning-interactions",
+   "name": "Social and learning interactions",
+   "strand": "speaking-listening",
+   "stage": "Stage 1",
+   "years": [
+    1,
+    2
+   ]
+  },
+  {
+   "key": "s2-interacting",
+   "name": "Interacting",
+   "strand": "speaking-listening",
+   "stage": "Stage 2",
+   "years": [
+    3,
+    4
+   ]
+  },
+  {
+   "key": "s2-listening-for-understanding",
+   "name": "Listening for understanding",
+   "strand": "speaking-listening",
+   "stage": "Stage 2",
+   "years": [
+    3,
+    4
+   ]
+  },
+  {
+   "key": "s2-presenting",
+   "name": "Presenting",
+   "strand": "speaking-listening",
+   "stage": "Stage 2",
+   "years": [
+    3,
+    4
+   ]
+  },
+  {
+   "key": "s3-interacting",
+   "name": "Interacting",
+   "strand": "speaking-listening",
+   "stage": "Stage 3",
+   "years": [
+    5,
+    6
+   ]
+  },
+  {
+   "key": "s3-listening-for-understanding",
+   "name": "Listening for understanding",
+   "strand": "speaking-listening",
+   "stage": "Stage 3",
+   "years": [
+    5,
+    6
+   ]
+  },
+  {
+   "key": "s3-presenting",
+   "name": "Presenting",
+   "strand": "speaking-listening",
+   "stage": "Stage 3",
+   "years": [
+    5,
+    6
+   ]
+  },
+  {
+   "key": "s4-speaking",
+   "name": "Speaking",
+   "strand": "speaking-listening",
+   "stage": "Stage 4",
+   "years": [
+    7,
+    8
+   ]
+  },
+  {
+   "key": "s5-speaking",
+   "name": "Speaking",
+   "strand": "speaking-listening",
+   "stage": "Stage 5",
+   "years": [
+    9,
+    10
+   ]
+  }
+ ],
+ "skills": [
+  {
+   "key": "rv-blend-cvc",
+   "name": "Blends sounds to read and spell short words like cat and sun",
+   "topic": "es1-phonic-knowledge",
+   "prereqs": [
+    "rv-letter-sounds",
+    "rv-blend-and-segment-sounds"
+   ]
+  },
+  {
+   "key": "rv-consonant-blends-es1",
+   "name": "Reads and spells words with two consonants together",
+   "topic": "es1-phonic-knowledge",
+   "prereqs": [
+    "rv-blend-cvc"
+   ]
+  },
+  {
+   "key": "rv-consonant-digraphs-es1",
+   "name": "Reads and spells words with consonant digraphs",
+   "topic": "es1-phonic-knowledge",
+   "prereqs": [
+    "rv-blend-cvc"
+   ]
+  },
+  {
+   "key": "rv-digraphs",
+   "name": "Reads words with long vowel patterns and split digraphs",
+   "topic": "es1-phonic-knowledge",
+   "prereqs": [
+    "rv-consonant-digraphs-es1"
+   ]
+  },
+  {
+   "key": "rv-letter-sounds",
+   "name": "Matches letters to their most common sounds",
+   "topic": "es1-phonic-knowledge",
+   "prereqs": [
+    "rv-first-sounds",
+    "rv-letters-words-and-numerals"
+   ]
+  },
+  {
+   "key": "rv-blend-and-segment-sounds",
+   "name": "Blends and segments all the sounds in a spoken word",
+   "topic": "es1-phonological-awareness",
+   "prereqs": [
+    "rv-first-sounds"
+   ]
+  },
+  {
+   "key": "rv-change-sounds-in-words",
+   "name": "Changes a sound in a spoken word to make a new word",
+   "topic": "es1-phonological-awareness",
+   "prereqs": [
+    "rv-blend-and-segment-sounds"
+   ]
+  },
+  {
+   "key": "rv-first-sounds",
+   "name": "Hears and says the first sound in a spoken word",
+   "topic": "es1-phonological-awareness",
+   "prereqs": [
+    "rv-hear-words-and-syllables"
+   ]
+  },
+  {
+   "key": "rv-hear-words-and-syllables",
+   "name": "Hears separate words and syllables in speech",
+   "topic": "es1-phonological-awareness",
+   "prereqs": []
+  },
+  {
+   "key": "rv-book-handling-and-tracking",
+   "name": "Handles a book and tracks print the right way",
+   "topic": "es1-print-conventions",
+   "prereqs": [
+    "rv-print-carries-meaning"
+   ]
+  },
+  {
+   "key": "rv-letters-words-and-numerals",
+   "name": "Tells letters, words, numerals and punctuation apart on the page",
+   "topic": "es1-print-conventions",
+   "prereqs": [
+    "rv-print-carries-meaning"
+   ]
+  },
+  {
+   "key": "rv-print-carries-meaning",
+   "name": "Knows that print carries a message",
+   "topic": "es1-print-conventions",
+   "prereqs": []
+  },
+  {
+   "key": "rv-literal",
+   "name": "Finds who, what, when, where and why in a text",
+   "topic": "es1-reading-comprehension",
+   "prereqs": [
+    "rv-word-meaning-es1"
+   ]
+  },
+  {
+   "key": "rv-monitor-es1",
+   "name": "Notices when reading stops making sense and fixes it",
+   "topic": "es1-reading-comprehension",
+   "prereqs": [
+    "rv-word-meaning-es1",
+    "rv-blend-cvc"
+   ]
+  },
+  {
+   "key": "rv-predict-connect-es1",
+   "name": "Predicts what a text will be about and links it to your life",
+   "topic": "es1-reading-comprehension",
+   "prereqs": [
+    "rv-print-carries-meaning"
+   ]
+  },
+  {
+   "key": "rv-sentence-meaning-es1",
+   "name": "Works out how a sentence puts its meaning together",
+   "topic": "es1-reading-comprehension",
+   "prereqs": [
+    "rv-literal"
+   ]
+  },
+  {
+   "key": "rv-sequence",
+   "name": "Retells a text in order",
+   "topic": "es1-reading-comprehension",
+   "prereqs": [
+    "rv-literal"
+   ]
+  },
+  {
+   "key": "rv-word-meaning-es1",
+   "name": "Uses words you already know to make sense of a text",
+   "topic": "es1-reading-comprehension",
+   "prereqs": [
+    "rv-print-carries-meaning"
+   ]
+  },
+  {
+   "key": "rv-read-with-expression",
+   "name": "Uses the voice and the punctuation to read with expression",
+   "topic": "es1-reading-fluency",
+   "prereqs": [
+    "rv-simple-sentences"
+   ]
+  },
+  {
+   "key": "rv-sight-words",
+   "name": "Reads taught words automatically, without sounding out",
+   "topic": "es1-reading-fluency",
+   "prereqs": [
+    "rv-blend-cvc"
+   ]
+  },
+  {
+   "key": "rv-simple-sentences",
+   "name": "Reads simple sentences aloud in phrases",
+   "topic": "es1-reading-fluency",
+   "prereqs": [
+    "rv-sight-words"
+   ]
+  },
+  {
+   "key": "rv-character-es1",
+   "name": "Talks about what characters are like and why they act",
+   "topic": "es1-understanding-literature",
+   "prereqs": [
+    "rv-narrative-es1"
+   ]
+  },
+  {
+   "key": "rv-context-es1",
+   "name": "Finds your own world in the texts you read",
+   "topic": "es1-understanding-literature",
+   "prereqs": [
+    "rv-predict-connect-es1"
+   ]
+  },
+  {
+   "key": "rv-imagery-es1",
+   "name": "Notices how pictures and playful words add meaning",
+   "topic": "es1-understanding-literature",
+   "prereqs": [
+    "rv-character-es1"
+   ]
+  },
+  {
+   "key": "rv-narrative-es1",
+   "name": "Knows how a story is built",
+   "topic": "es1-understanding-literature",
+   "prereqs": [
+    "rv-sequence"
+   ]
+  },
+  {
+   "key": "rv-opinion-es1",
+   "name": "Says what you think about a text and why",
+   "topic": "es1-understanding-literature",
+   "prereqs": [
+    "rv-character-es1",
+    "rv-literal"
+   ]
+  },
+  {
+   "key": "rv-text-purpose-es1",
+   "name": "Knows that texts are made for different reasons",
+   "topic": "es1-understanding-literature",
+   "prereqs": [
+    "rv-predict-connect-es1"
+   ]
+  },
+  {
+   "key": "rv-vocab-describe-es1",
+   "name": "Uses words to name, describe and sort",
+   "topic": "es1-vocabulary",
+   "prereqs": [
+    "rv-vocab-everyday-es1"
+   ]
+  },
+  {
+   "key": "rv-vocab-everyday-es1",
+   "name": "Learns and uses everyday and taught words",
+   "topic": "es1-vocabulary",
+   "prereqs": []
+  },
+  {
+   "key": "rv-vocab-word-choice-es1",
+   "name": "Chooses the right word and plays with words",
+   "topic": "es1-vocabulary",
+   "prereqs": [
+    "rv-vocab-describe-es1"
+   ]
+  },
+  {
+   "key": "rv-three-consonant-blends-s1",
+   "name": "Reads and spells words with three consonants together",
+   "topic": "s1-phonic-knowledge",
+   "prereqs": [
+    "rv-consonant-blends-es1"
+   ]
+  },
+  {
+   "key": "rv-trigraphs-s1",
+   "name": "Decodes less common digraphs, trigraphs and quadgraphs",
+   "topic": "s1-phonic-knowledge",
+   "prereqs": [
+    "rv-vowel-graphs-s1"
+   ]
+  },
+  {
+   "key": "rv-two-syllable-decoding-s1",
+   "name": "Decodes two-syllable words",
+   "topic": "s1-phonic-knowledge",
+   "prereqs": [
+    "rv-vowel-graphs-s1"
+   ]
+  },
+  {
+   "key": "rv-vowel-graphs-s1",
+   "name": "Reads and spells words with extended vowel graphs and digraphs",
+   "topic": "s1-phonic-knowledge",
+   "prereqs": [
+    "rv-digraphs"
+   ]
+  },
+  {
+   "key": "rv-infer-basic",
+   "name": "Makes simple inferences using clues in the text",
+   "topic": "s1-reading-comprehension",
+   "prereqs": [
+    "rv-literal",
+    "rv-sentence-clauses-s1"
+   ]
+  },
+  {
+   "key": "rv-multimodal-s1",
+   "name": "Uses visual features and navigation paths in digital texts",
+   "topic": "s1-reading-comprehension",
+   "prereqs": [
+    "rv-predict-connect-es1"
+   ]
+  },
+  {
+   "key": "rv-predict-connect-s1",
+   "name": "Predicts from text type and author, then checks",
+   "topic": "s1-reading-comprehension",
+   "prereqs": [
+    "rv-predict-connect-es1"
+   ]
+  },
+  {
+   "key": "rv-sentence-clauses-s1",
+   "name": "Reads complex sentences and tracks what each word refers to",
+   "topic": "s1-reading-comprehension",
+   "prereqs": [
+    "rv-sentence-meaning-es1"
+   ]
+  },
+  {
+   "key": "rv-summarise-s1",
+   "name": "Retells and summarises what was read",
+   "topic": "s1-reading-comprehension",
+   "prereqs": [
+    "rv-sequence",
+    "rv-whole-text-s1"
+   ]
+  },
+  {
+   "key": "rv-whole-text-s1",
+   "name": "Pulls information together from across a whole text",
+   "topic": "s1-reading-comprehension",
+   "prereqs": [
+    "rv-infer-basic"
+   ]
+  },
+  {
+   "key": "rv-word-solving-s1",
+   "name": "Works out unknown words while reading",
+   "topic": "s1-reading-comprehension",
+   "prereqs": [
+    "rv-word-meaning-es1"
+   ]
+  },
+  {
+   "key": "rv-fluency",
+   "name": "Reads aloud with accuracy, phrasing and expression",
+   "topic": "s1-reading-fluency",
+   "prereqs": [
+    "rv-read-with-expression",
+    "rv-vowel-graphs-s1"
+   ]
+  },
+  {
+   "key": "rv-self-correct",
+   "name": "Monitors own reading and self-corrects",
+   "topic": "s1-reading-fluency",
+   "prereqs": [
+    "rv-monitor-es1",
+    "rv-fluency"
+   ]
+  },
+  {
+   "key": "rv-character-s1",
+   "name": "Compares characters and how they are built",
+   "topic": "s1-understanding-literature",
+   "prereqs": [
+    "rv-character-es1"
+   ]
+  },
+  {
+   "key": "rv-context-s1",
+   "name": "Sees how purpose, audience and setting shape a text",
+   "topic": "s1-understanding-literature",
+   "prereqs": [
+    "rv-text-purpose-es1"
+   ]
+  },
+  {
+   "key": "rv-figurative-s1",
+   "name": "Spots figurative language, symbols and images",
+   "topic": "s1-understanding-literature",
+   "prereqs": [
+    "rv-imagery-es1",
+    "rv-wordplay-s1"
+   ]
+  },
+  {
+   "key": "rv-narrative-s1",
+   "name": "Follows narrative patterns and the feelings they create",
+   "topic": "s1-understanding-literature",
+   "prereqs": [
+    "rv-narrative-es1"
+   ]
+  },
+  {
+   "key": "rv-opinion-argument-s1",
+   "name": "Recognises opinions and arguments in texts",
+   "topic": "s1-understanding-literature",
+   "prereqs": [
+    "rv-opinion-es1",
+    "rv-context-s1"
+   ]
+  },
+  {
+   "key": "rv-representation-s1",
+   "name": "Notices how groups, cultures and worlds are represented",
+   "topic": "s1-understanding-literature",
+   "prereqs": [
+    "rv-context-es1"
+   ]
+  },
+  {
+   "key": "rv-word-choice-s1",
+   "name": "Chooses precise and subject-specific words",
+   "topic": "s1-vocabulary",
+   "prereqs": [
+    "rv-word-families-s1"
+   ]
+  },
+  {
+   "key": "rv-word-families-s1",
+   "name": "Builds word families and reads words with more than one meaning",
+   "topic": "s1-vocabulary",
+   "prereqs": [
+    "rv-vocab-word-choice-es1"
+   ]
+  },
+  {
+   "key": "rv-wordplay-s1",
+   "name": "Understands jokes, riddles, rhyme and wordplay",
+   "topic": "s1-vocabulary",
+   "prereqs": [
+    "rv-word-families-s1"
+   ]
+  },
+  {
+   "key": "rv-dialogue-s2",
+   "name": "Reads dialogue, quoted speech and reported speech",
+   "topic": "s2-reading-comprehension",
+   "prereqs": [
+    "rv-text-structures-s2"
+   ]
+  },
+  {
+   "key": "rv-inference-s2",
+   "name": "Infers meaning by linking clues across a text",
+   "topic": "s2-reading-comprehension",
+   "prereqs": [
+    "rv-infer-basic"
+   ]
+  },
+  {
+   "key": "rv-main-idea",
+   "name": "Identifies the main idea and supporting details",
+   "topic": "s2-reading-comprehension",
+   "prereqs": [
+    "rv-summarise-s1"
+   ]
+  },
+  {
+   "key": "rv-monitor-repair-s2",
+   "name": "Notices and repairs breakdowns in comprehension",
+   "topic": "s2-reading-comprehension",
+   "prereqs": [
+    "rv-self-correct"
+   ]
+  },
+  {
+   "key": "rv-reading-purposes-s2",
+   "name": "Reads widely for different purposes and connects texts",
+   "topic": "s2-reading-comprehension",
+   "prereqs": [
+    "rv-predict-connect-s1"
+   ]
+  },
+  {
+   "key": "rv-research-locate-s2",
+   "name": "Builds topic knowledge and locates information in a text",
+   "topic": "s2-reading-comprehension",
+   "prereqs": [
+    "rv-reading-purposes-s2"
+   ]
+  },
+  {
+   "key": "rv-text-structures-s2",
+   "name": "Identifies how structure, features and design achieve a text's purpose",
+   "topic": "s2-reading-comprehension",
+   "prereqs": [
+    "rv-text-purpose-es1",
+    "rv-context-s1"
+   ]
+  },
+  {
+   "key": "rv-word-choice-effects-s2",
+   "name": "Explains how word choices shape a text's meaning",
+   "topic": "s2-reading-comprehension",
+   "prereqs": [
+    "rv-word-choice-s1"
+   ]
+  },
+  {
+   "key": "rv-word-meaning-s2",
+   "name": "Uses morphemes and new information to build meaning while reading",
+   "topic": "s2-reading-comprehension",
+   "prereqs": [
+    "rv-word-solving-s1"
+   ]
+  },
+  {
+   "key": "rv-fluency-goals-s2",
+   "name": "Reflects on and sets goals for own reading fluency",
+   "topic": "s2-reading-fluency",
+   "prereqs": [
+    "rv-prosody-s2",
+    "rv-reading-stamina-s2"
+   ]
+  },
+  {
+   "key": "rv-prosody-s2",
+   "name": "Reads aloud with expression, tone and punctuation",
+   "topic": "s2-reading-fluency",
+   "prereqs": [
+    "rv-fluency"
+   ]
+  },
+  {
+   "key": "rv-reading-rate-s2",
+   "name": "Reads multisyllabic words and whole texts at a suitable rate",
+   "topic": "s2-reading-fluency",
+   "prereqs": [
+    "rv-two-syllable-decoding-s1",
+    "rv-fluency"
+   ]
+  },
+  {
+   "key": "rv-reading-stamina-s2",
+   "name": "Sustains reading of extended print and digital texts",
+   "topic": "s2-reading-fluency",
+   "prereqs": [
+    "rv-reading-rate-s2"
+   ]
+  },
+  {
+   "key": "rv-argument-authority-s2",
+   "name": "Recognises argument, authorship and authority",
+   "topic": "s2-understanding-literature",
+   "prereqs": [
+    "rv-opinion-argument-s1",
+    "rv-perspective-context-s2"
+   ]
+  },
+  {
+   "key": "rv-characterisation-s2",
+   "name": "Describes how characters are built and why they matter",
+   "topic": "s2-understanding-literature",
+   "prereqs": [
+    "rv-character-s1"
+   ]
+  },
+  {
+   "key": "rv-genre-s2",
+   "name": "Groups texts by genre and notices genre blends",
+   "topic": "s2-understanding-literature",
+   "prereqs": [
+    "rv-text-structures-s2"
+   ]
+  },
+  {
+   "key": "rv-imagery-s2",
+   "name": "Recognises imagery, symbol and figurative language in literature",
+   "topic": "s2-understanding-literature",
+   "prereqs": [
+    "rv-figurative-terms-s2"
+   ]
+  },
+  {
+   "key": "rv-narrative-connections-s2",
+   "name": "Connects narratives to lived experience and cultural narratives",
+   "topic": "s2-understanding-literature",
+   "prereqs": [
+    "rv-narrative-s2",
+    "rv-representation-s1"
+   ]
+  },
+  {
+   "key": "rv-narrative-s2",
+   "name": "Describes how plot, character and setting work together",
+   "topic": "s2-understanding-literature",
+   "prereqs": [
+    "rv-narrative-s1"
+   ]
+  },
+  {
+   "key": "rv-perspective-context-s2",
+   "name": "Sees how perspective and context shape literature",
+   "topic": "s2-understanding-literature",
+   "prereqs": [
+    "rv-context-s1",
+    "rv-theme-s2"
+   ]
+  },
+  {
+   "key": "rv-theme-s2",
+   "name": "Tells themes apart from topics",
+   "topic": "s2-understanding-literature",
+   "prereqs": [
+    "rv-main-idea",
+    "rv-narrative-s2"
+   ]
+  },
+  {
+   "key": "rv-etymology-s2",
+   "name": "Traces where words come from",
+   "topic": "s2-vocabulary",
+   "prereqs": [
+    "rv-vocab-build-s2"
+   ]
+  },
+  {
+   "key": "rv-figurative-terms-s2",
+   "name": "Names figurative language and wordplay",
+   "topic": "s2-vocabulary",
+   "prereqs": [
+    "rv-figurative-s1"
+   ]
+  },
+  {
+   "key": "rv-synonyms-antonyms-s2",
+   "name": "Uses synonyms, antonyms and a thesaurus",
+   "topic": "s2-vocabulary",
+   "prereqs": [
+    "rv-vocab-build-s2"
+   ]
+  },
+  {
+   "key": "rv-vocab-build-s2",
+   "name": "Builds vocabulary using morphemes and word associations",
+   "topic": "s2-vocabulary",
+   "prereqs": [
+    "rv-word-families-s1"
+   ]
+  },
+  {
+   "key": "rv-word-meanings-context-s2",
+   "name": "Reads words that carry more than their dictionary meaning",
+   "topic": "s2-vocabulary",
+   "prereqs": [
+    "rv-word-families-s1"
+   ]
+  },
+  {
+   "key": "rv-author-purpose",
+   "name": "Explains why an author structured a text the way they did",
+   "topic": "s3-reading-comprehension",
+   "prereqs": [
+    "rv-text-structures-s2"
+   ]
+  },
+  {
+   "key": "rv-cohesion-s3",
+   "name": "Follows the ties that hold a text together",
+   "topic": "s3-reading-comprehension",
+   "prereqs": [
+    "rv-sentence-clauses-s1",
+    "rv-inference-s2"
+   ]
+  },
+  {
+   "key": "rv-compare-texts",
+   "name": "Compares and synthesises texts on the same topic",
+   "topic": "s3-reading-comprehension",
+   "prereqs": [
+    "rv-research-evaluate-s3",
+    "rv-main-idea"
+   ]
+  },
+  {
+   "key": "rv-fact-opinion",
+   "name": "Distinguishes fact from opinion, identifies bias and questions the author",
+   "topic": "s3-reading-comprehension",
+   "prereqs": [
+    "rv-word-choice-effects-s2"
+   ]
+  },
+  {
+   "key": "rv-fluency-s3",
+   "name": "Reads accurately and matches rate and prosody to the text",
+   "topic": "s3-reading-comprehension",
+   "prereqs": [
+    "rv-reading-rate-s2",
+    "rv-prosody-s2"
+   ]
+  },
+  {
+   "key": "rv-infer-evidence",
+   "name": "Supports inferences with evidence from the text",
+   "topic": "s3-reading-comprehension",
+   "prereqs": [
+    "rv-inference-s2",
+    "rv-cohesion-s3"
+   ]
+  },
+  {
+   "key": "rv-language-effects-s3",
+   "name": "Explains how language choices shape a reader's response",
+   "topic": "s3-reading-comprehension",
+   "prereqs": [
+    "rv-word-choice-effects-s2",
+    "rv-word-meanings-context-s2"
+   ]
+  },
+  {
+   "key": "rv-monitor-comprehension-s3",
+   "name": "Monitors, repairs and evaluates own comprehension strategies",
+   "topic": "s3-reading-comprehension",
+   "prereqs": [
+    "rv-monitor-repair-s2"
+   ]
+  },
+  {
+   "key": "rv-navigate-texts-s3",
+   "name": "Uses signposts and structure to find information fast",
+   "topic": "s3-reading-comprehension",
+   "prereqs": [
+    "rv-reading-stamina-s2"
+   ]
+  },
+  {
+   "key": "rv-reading-choices-s3",
+   "name": "Chooses texts and reading approaches for a purpose",
+   "topic": "s3-reading-comprehension",
+   "prereqs": [
+    "rv-reading-purposes-s2"
+   ]
+  },
+  {
+   "key": "rv-research-evaluate-s3",
+   "name": "Gathers research and judges the reliability of sources",
+   "topic": "s3-reading-comprehension",
+   "prereqs": [
+    "rv-research-locate-s2"
+   ]
+  },
+  {
+   "key": "rv-summarise-s3",
+   "name": "Summarises and organises the main ideas of a text",
+   "topic": "s3-reading-comprehension",
+   "prereqs": [
+    "rv-main-idea"
+   ]
+  },
+  {
+   "key": "rv-word-meaning-s3",
+   "name": "Uses morphology and etymology to unlock unfamiliar words",
+   "topic": "s3-reading-comprehension",
+   "prereqs": [
+    "rv-word-meaning-s2",
+    "rv-etymology-s2"
+   ]
+  },
+  {
+   "key": "rv-argument-authority-s3",
+   "name": "Judges argument, objectivity and the authority of texts",
+   "topic": "s3-understanding-literature",
+   "prereqs": [
+    "rv-argument-authority-s2",
+    "rv-fact-opinion"
+   ]
+  },
+  {
+   "key": "rv-characterisation-s3",
+   "name": "Analyses character attributes, archetypes and development",
+   "topic": "s3-understanding-literature",
+   "prereqs": [
+    "rv-characterisation-s2"
+   ]
+  },
+  {
+   "key": "rv-genre-s3",
+   "name": "Explains genre codes and the texts that break them",
+   "topic": "s3-understanding-literature",
+   "prereqs": [
+    "rv-genre-s2"
+   ]
+  },
+  {
+   "key": "rv-imagery-s3",
+   "name": "Analyses figurative language, symbol and imagery in literature",
+   "topic": "s3-understanding-literature",
+   "prereqs": [
+    "rv-imagery-s2",
+    "rv-idiom-metaphor-s3"
+   ]
+  },
+  {
+   "key": "rv-narrative-s3",
+   "name": "Analyses narrative conventions and the expectations they set",
+   "topic": "s3-understanding-literature",
+   "prereqs": [
+    "rv-narrative-s2",
+    "rv-narrative-connections-s2"
+   ]
+  },
+  {
+   "key": "rv-perspective-context-s3",
+   "name": "Explains how perspective is shaped by context and authorial choice",
+   "topic": "s3-understanding-literature",
+   "prereqs": [
+    "rv-perspective-context-s2"
+   ]
+  },
+  {
+   "key": "rv-theme-s3",
+   "name": "Identifies the recurring messages in literature",
+   "topic": "s3-understanding-literature",
+   "prereqs": [
+    "rv-theme-s2"
+   ]
+  },
+  {
+   "key": "rv-idiom-metaphor-s3",
+   "name": "Works out non-literal meanings: idiom and metaphor",
+   "topic": "s3-vocabulary",
+   "prereqs": [
+    "rv-figurative-terms-s2"
+   ]
+  },
+  {
+   "key": "rv-morphology-s3",
+   "name": "Analyses morphemes to unlock subject-specific words",
+   "topic": "s3-vocabulary",
+   "prereqs": [
+    "rv-vocab-build-s2"
+   ]
+  },
+  {
+   "key": "rv-objective-subjective-words-s3",
+   "name": "Tells informative words from emotive, persuasive ones",
+   "topic": "s3-vocabulary",
+   "prereqs": [
+    "rv-word-meanings-context-s2"
+   ]
+  },
+  {
+   "key": "rv-vocab-build-s3",
+   "name": "Collects and uses newly met words, including metalanguage",
+   "topic": "s3-vocabulary",
+   "prereqs": [
+    "rv-vocab-build-s2"
+   ]
+  },
+  {
+   "key": "rv-word-origins-s3",
+   "name": "Identifies where words come from",
+   "topic": "s3-vocabulary",
+   "prereqs": [
+    "rv-etymology-s2"
+   ]
+  },
+  {
+   "key": "rv-word-precision-s3",
+   "name": "Weighs modality and shades of meaning between synonyms",
+   "topic": "s3-vocabulary",
+   "prereqs": [
+    "rv-synonyms-antonyms-s2",
+    "rv-word-meanings-context-s2"
+   ]
+  },
+  {
+   "key": "rv-close-reading-s4",
+   "name": "Re-reads closely to uncover main ideas and layers of meaning",
+   "topic": "s4-reading-viewing-listening",
+   "prereqs": [
+    "rv-infer-evidence",
+    "rv-summarise-s3"
+   ]
+  },
+  {
+   "key": "rv-language-culture-s4",
+   "name": "Explores how culture and time shape language in texts",
+   "topic": "s4-reading-viewing-listening",
+   "prereqs": [
+    "rv-word-origins-s3",
+    "rv-perspective-context-s3"
+   ]
+  },
+  {
+   "key": "rv-personal-response-s4",
+   "name": "Explains a personal response and where it comes from",
+   "topic": "s4-reading-viewing-listening",
+   "prereqs": [
+    "rv-reading-choices-s3"
+   ]
+  },
+  {
+   "key": "rv-reading-pathways-s4",
+   "name": "Reads strategically: pathways, context cues and reading aloud",
+   "topic": "s4-reading-viewing-listening",
+   "prereqs": [
+    "rv-navigate-texts-s3",
+    "rv-word-meaning-s3"
+   ]
+  },
+  {
+   "key": "rv-reading-reflection-s4",
+   "name": "Reflects on what reading has taught you",
+   "topic": "s4-reading-viewing-listening",
+   "prereqs": [
+    "rv-wide-reading-s4",
+    "rv-monitor-comprehension-s3"
+   ]
+  },
+  {
+   "key": "rv-wide-reading-s4",
+   "name": "Sustains wide reading across diverse perspectives",
+   "topic": "s4-reading-viewing-listening",
+   "prereqs": [
+    "rv-personal-response-s4"
+   ]
+  },
+  {
+   "key": "rv-characterisation-s4",
+   "name": "Analyses how characters are constructed and what they represent",
+   "topic": "s4-understanding-texts-a",
+   "prereqs": [
+    "rv-characterisation-s3"
+   ]
+  },
+  {
+   "key": "rv-language-techniques",
+   "name": "Identifies imagery, simile, metaphor and personification and analyses their effect",
+   "topic": "s4-understanding-texts-a",
+   "prereqs": [
+    "rv-imagery-s3"
+   ]
+  },
+  {
+   "key": "rv-narrative-s4",
+   "name": "Analyses narrative conventions and the identities they depict",
+   "topic": "s4-understanding-texts-a",
+   "prereqs": [
+    "rv-narrative-s3"
+   ]
+  },
+  {
+   "key": "rv-point-of-view-s4",
+   "name": "Analyses narrative voice, focaliser and person",
+   "topic": "s4-understanding-texts-a",
+   "prereqs": [
+    "rv-perspective-context-s3",
+    "rv-dialogue-s2"
+   ]
+  },
+  {
+   "key": "rv-representation-s4",
+   "name": "Understands texts as acts of representation and describes them with metalanguage",
+   "topic": "s4-understanding-texts-a",
+   "prereqs": [
+    "rv-vocab-build-s3",
+    "rv-perspective-context-s3"
+   ]
+  },
+  {
+   "key": "rv-visual-texts",
+   "name": "Analyses images, film and multimodal texts using their codes and conventions",
+   "topic": "s4-understanding-texts-a",
+   "prereqs": [
+    "rv-author-purpose",
+    "rv-representation-s4"
+   ]
+  },
+  {
+   "key": "rv-argument-s4",
+   "name": "Analyses how arguments are constructed and evidenced",
+   "topic": "s4-understanding-texts-b",
+   "prereqs": [
+    "rv-argument-authority-s3"
+   ]
+  },
+  {
+   "key": "rv-context",
+   "name": "Explains how cultural context shapes a text and its language",
+   "topic": "s4-understanding-texts-b",
+   "prereqs": [
+    "rv-perspective",
+    "rv-language-culture-s4"
+   ]
+  },
+  {
+   "key": "rv-perspective",
+   "name": "Explains how texts position readers to accept a point of view",
+   "topic": "s4-understanding-texts-b",
+   "prereqs": [
+    "rv-perspective-context-s3",
+    "rv-fact-opinion"
+   ]
+  },
+  {
+   "key": "rv-style-s4",
+   "name": "Describes the stylistic and aesthetic qualities of a text",
+   "topic": "s4-understanding-texts-b",
+   "prereqs": [
+    "rv-word-precision-s3",
+    "rv-representation-s4"
+   ]
+  },
+  {
+   "key": "rv-theme",
+   "name": "Identifies themes and explains how they develop across a text",
+   "topic": "s4-understanding-texts-b",
+   "prereqs": [
+    "rv-theme-s3",
+    "rv-close-reading-s4"
+   ]
+  },
+  {
+   "key": "rv-voice-authority-s4",
+   "name": "Analyses personal voice and how a text builds authority",
+   "topic": "s4-understanding-texts-b",
+   "prereqs": [
+    "rv-argument-s4"
+   ]
+  },
+  {
+   "key": "rv-genre-s4",
+   "name": "Analyses genre conventions and how texts exhibit or challenge them",
+   "topic": "s4-understanding-texts-c",
+   "prereqs": [
+    "rv-genre-s3",
+    "rv-narrative-s4"
+   ]
+  },
+  {
+   "key": "rv-intertext",
+   "name": "Analyses connections between texts, including adaptations and appropriations",
+   "topic": "s4-understanding-texts-c",
+   "prereqs": [
+    "rv-genre-s4",
+    "rv-compare-texts"
+   ]
+  },
+  {
+   "key": "rv-literary-value-s4",
+   "name": "Explains why texts are valued differently in different contexts",
+   "topic": "s4-understanding-texts-c",
+   "prereqs": [
+    "rv-style-s4",
+    "rv-intertext"
+   ]
+  },
+  {
+   "key": "rv-close-reading-s5",
+   "name": "Rereads and reinterprets to analyse layers of meaning",
+   "topic": "s5-reading-viewing-listening",
+   "prereqs": [
+    "rv-close-reading-s4"
+   ]
+  },
+  {
+   "key": "rv-positioning-s5",
+   "name": "Justifies a personal response by analysing how the text positions the reader",
+   "topic": "s5-reading-viewing-listening",
+   "prereqs": [
+    "rv-personal-response-s4",
+    "rv-perspective"
+   ]
+  },
+  {
+   "key": "rv-reading-reflection-s5",
+   "name": "Evaluates own reading strategies and the value of reading",
+   "topic": "s5-reading-viewing-listening",
+   "prereqs": [
+    "rv-reading-reflection-s4",
+    "rv-wide-reading-s5"
+   ]
+  },
+  {
+   "key": "rv-reading-strategies-s5",
+   "name": "Reads complex texts strategically",
+   "topic": "s5-reading-viewing-listening",
+   "prereqs": [
+    "rv-reading-pathways-s4"
+   ]
+  },
+  {
+   "key": "rv-thematic-analysis-s5",
+   "name": "Analyses the main ideas and thematic concerns of a text",
+   "topic": "s5-reading-viewing-listening",
+   "prereqs": [
+    "rv-theme",
+    "rv-close-reading-s5"
+   ]
+  },
+  {
+   "key": "rv-wide-reading-s5",
+   "name": "Sustains varied reading and responds at length",
+   "topic": "s5-reading-viewing-listening",
+   "prereqs": [
+    "rv-wide-reading-s4"
+   ]
+  },
+  {
+   "key": "rv-characterisation-s5",
+   "name": "Analyses complex characters and their structural roles",
+   "topic": "s5-understanding-texts-a",
+   "prereqs": [
+    "rv-characterisation-s4"
+   ]
+  },
+  {
+   "key": "rv-figurative-s5",
+   "name": "Analyses figurative language within larger patterns of meaning",
+   "topic": "s5-understanding-texts-a",
+   "prereqs": [
+    "rv-language-techniques"
+   ]
+  },
+  {
+   "key": "rv-focalisation-s5",
+   "name": "Examines focalisation, reliability and authorial voice",
+   "topic": "s5-understanding-texts-a",
+   "prereqs": [
+    "rv-point-of-view-s4"
+   ]
+  },
+  {
+   "key": "rv-narrative-s5",
+   "name": "Analyses narrative conventions across genres, modes and contexts",
+   "topic": "s5-understanding-texts-a",
+   "prereqs": [
+    "rv-narrative-s4",
+    "rv-genre-s4"
+   ]
+  },
+  {
+   "key": "rv-representation-s5",
+   "name": "Analyses how representations are shaped and how texts use or subvert conventions",
+   "topic": "s5-understanding-texts-a",
+   "prereqs": [
+    "rv-representation-s4",
+    "rv-visual-texts"
+   ]
+  },
+  {
+   "key": "rv-argument-s5",
+   "name": "Evaluates how arguments are constructed and evidenced",
+   "topic": "s5-understanding-texts-b",
+   "prereqs": [
+    "rv-argument-s4"
+   ]
+  },
+  {
+   "key": "rv-authority-s5",
+   "name": "Analyses voice and how the authority of a text is negotiated",
+   "topic": "s5-understanding-texts-b",
+   "prereqs": [
+    "rv-voice-authority-s4",
+    "rv-argument-s5"
+   ]
+  },
+  {
+   "key": "rv-context-s5",
+   "name": "Analyses how context shapes texts, readers and language",
+   "topic": "s5-understanding-texts-b",
+   "prereqs": [
+    "rv-context",
+    "rv-language-culture-s4"
+   ]
+  },
+  {
+   "key": "rv-critical-analysis",
+   "name": "Evaluates how texts position audiences and how they can be read",
+   "topic": "s5-understanding-texts-b",
+   "prereqs": [
+    "rv-perspective",
+    "rv-context-s5"
+   ]
+  },
+  {
+   "key": "rv-style-s5",
+   "name": "Analyses style, from personal signature to literary movement",
+   "topic": "s5-understanding-texts-b",
+   "prereqs": [
+    "rv-style-s4"
+   ]
+  },
+  {
+   "key": "rv-theme-s5",
+   "name": "Analyses how themes hold a text together",
+   "topic": "s5-understanding-texts-b",
+   "prereqs": [
+    "rv-theme",
+    "rv-thematic-analysis-s5"
+   ]
+  },
+  {
+   "key": "rv-genre-s5",
+   "name": "Analyses how genre shapes values and how genres evolve",
+   "topic": "s5-understanding-texts-c",
+   "prereqs": [
+    "rv-genre-s4",
+    "rv-narrative-s5"
+   ]
+  },
+  {
+   "key": "rv-intertext-s5",
+   "name": "Analyses adaptation, appropriation and connections between texts",
+   "topic": "s5-understanding-texts-c",
+   "prereqs": [
+    "rv-intertext",
+    "rv-genre-s5"
+   ]
+  },
+  {
+   "key": "rv-literary-value-s5",
+   "name": "Evaluates how audiences negotiate the value of a text",
+   "topic": "s5-understanding-texts-c",
+   "prereqs": [
+    "rv-literary-value-s4",
+    "rv-critical-analysis"
+   ]
+  },
+  {
+   "key": "wr-capitals-endmarks-es1",
+   "name": "Uses capital letters for proper nouns and uses question and exclamation marks",
+   "topic": "early-writing",
+   "prereqs": [
+    "wr-simple-sentence"
+   ]
+  },
+  {
+   "key": "wr-join-ideas-es1",
+   "name": "Experiments with joining two ideas into a compound sentence",
+   "topic": "early-writing",
+   "prereqs": [
+    "wr-simple-sentence",
+    "wr-sequence-ideas-es1"
+   ]
+  },
+  {
+   "key": "wr-nouns-verbs-es1",
+   "name": "Identifies and uses nouns and verbs in own simple sentences",
+   "topic": "early-writing",
+   "prereqs": [
+    "wr-simple-sentence"
+   ]
+  },
+  {
+   "key": "wr-plan-and-edit-es1",
+   "name": "Plans writing with drawings and improves it after feedback",
+   "topic": "early-writing",
+   "prereqs": [
+    "wr-simple-sentence"
+   ]
+  },
+  {
+   "key": "wr-pronouns-prepositions-es1",
+   "name": "Uses personal pronouns and prepositional phrases that show time or place",
+   "topic": "early-writing",
+   "prereqs": [
+    "wr-simple-sentence"
+   ]
+  },
+  {
+   "key": "wr-sequence-ideas-es1",
+   "name": "Writes at least two related ideas in order using time connectives",
+   "topic": "early-writing",
+   "prereqs": [
+    "wr-simple-sentence"
+   ]
+  },
+  {
+   "key": "wr-simple-sentence",
+   "name": "Writes a correct simple sentence with a capital letter and a full stop",
+   "topic": "early-writing",
+   "prereqs": [
+    "wr-letter-formation"
+   ]
+  },
+  {
+   "key": "wr-text-purpose-es1",
+   "name": "Writes short texts that describe, recount, tell a story or give an opinion",
+   "topic": "early-writing",
+   "prereqs": [
+    "wr-sequence-ideas-es1"
+   ]
+  },
+  {
+   "key": "wr-word-choice-es1",
+   "name": "Chooses nouns, verbs, adjectives and articles deliberately in own writing",
+   "topic": "early-writing",
+   "prereqs": [
+    "wr-nouns-verbs-es1"
+   ]
+  },
+  {
+   "key": "wr-keyboard-letters",
+   "name": "Produces letters using a keyboard, touch screen, stylus or speech-to-text",
+   "topic": "handwriting-es1",
+   "prereqs": []
+  },
+  {
+   "key": "wr-letter-formation",
+   "name": "Forms every lower-case and upper-case letter in NSW Foundation Style",
+   "topic": "handwriting-es1",
+   "prereqs": []
+  },
+  {
+   "key": "wr-segment-to-spell",
+   "name": "Segments spoken words into syllables and phonemes as a strategy for spelling",
+   "topic": "spelling-es1",
+   "prereqs": []
+  },
+  {
+   "key": "wr-spell-first-suffixes",
+   "name": "Adds plural -s and tense suffixes, and spells compound words and homophones",
+   "topic": "spelling-es1",
+   "prereqs": [
+    "wr-write-words"
+   ]
+  },
+  {
+   "key": "wr-spell-position-patterns",
+   "name": "Uses position rules for zz, ss, ll, ff, ck and ve, and experiments with vowel digraphs",
+   "topic": "spelling-es1",
+   "prereqs": [
+    "wr-segment-to-spell"
+   ]
+  },
+  {
+   "key": "wr-write-words",
+   "name": "Writes their own name and taught high-frequency words using letter-sound knowledge",
+   "topic": "spelling-es1",
+   "prereqs": [
+    "wr-segment-to-spell"
+   ]
+  },
+  {
+   "key": "wr-handwriting-fluency-s1",
+   "name": "Forms all letters from memory with consistent size, slope and spacing",
+   "topic": "handwriting-s1",
+   "prereqs": [
+    "wr-letter-formation"
+   ]
+  },
+  {
+   "key": "wr-word-processing-s1",
+   "name": "Types texts using word-processing functions and punctuation keys",
+   "topic": "handwriting-s1",
+   "prereqs": [
+    "wr-keyboard-letters"
+   ]
+  },
+  {
+   "key": "wr-adjectives",
+   "name": "Builds precise noun groups and adds detail with verbs and adverbs",
+   "topic": "sentence-craft",
+   "prereqs": [
+    "wr-word-choice-es1"
+   ]
+  },
+  {
+   "key": "wr-complex-experiment-s1",
+   "name": "Experiments with complex sentences that carry a main message and a dependent clause",
+   "topic": "sentence-craft",
+   "prereqs": [
+    "wr-compound"
+   ]
+  },
+  {
+   "key": "wr-compound",
+   "name": "Writes compound sentences using coordinating conjunctions",
+   "topic": "sentence-craft",
+   "prereqs": [
+    "wr-join-ideas-es1"
+   ]
+  },
+  {
+   "key": "wr-contractions-apostrophes-s1",
+   "name": "Spells taught contractions and uses possessive apostrophes",
+   "topic": "sentence-craft",
+   "prereqs": [
+    "wr-punctuation"
+   ]
+  },
+  {
+   "key": "wr-prepositions-articles-s1",
+   "name": "Uses contextually precise prepositional phrases, articles and pronouns",
+   "topic": "sentence-craft",
+   "prereqs": [
+    "wr-pronouns-prepositions-es1"
+   ]
+  },
+  {
+   "key": "wr-punctuation",
+   "name": "Uses commas, question and exclamation marks, and quotation marks for dialogue",
+   "topic": "sentence-craft",
+   "prereqs": [
+    "wr-capitals-endmarks-es1"
+   ]
+  },
+  {
+   "key": "wr-segment-to-spell-s1",
+   "name": "Segments single-syllable and multisyllabic words into phonemes to spell them",
+   "topic": "spelling-s1",
+   "prereqs": [
+    "wr-segment-to-spell"
+   ]
+  },
+  {
+   "key": "wr-spell-prefixes-compounds-s1",
+   "name": "Uses common prefixes and spells compound words and homophones",
+   "topic": "spelling-s1",
+   "prereqs": [
+    "wr-spell-suffixes-s1"
+   ]
+  },
+  {
+   "key": "wr-spell-suffixes-s1",
+   "name": "Adds plural, tense, comparative and derivational suffixes using spelling conventions",
+   "topic": "spelling-s1",
+   "prereqs": [
+    "wr-spell-first-suffixes"
+   ]
+  },
+  {
+   "key": "wr-spelling-patterns",
+   "name": "Spells base words using taught vowel and consonant letter patterns",
+   "topic": "spelling-s1",
+   "prereqs": [
+    "wr-segment-to-spell-s1"
+   ]
+  },
+  {
+   "key": "wr-cohesion-s1",
+   "name": "Keeps conjunctions, referencing, agreement and tense consistent across a text",
+   "topic": "text-craft-s1",
+   "prereqs": [
+    "wr-topic-sentence",
+    "wr-compound"
+   ]
+  },
+  {
+   "key": "wr-edit-feedback-s1",
+   "name": "Re-reads and edits own texts after receiving feedback",
+   "topic": "text-craft-s1",
+   "prereqs": [
+    "wr-plan-and-edit-es1",
+    "wr-topic-sentence"
+   ]
+  },
+  {
+   "key": "wr-plan-audience-s1",
+   "name": "Identifies context, audience and purpose and plans before writing",
+   "topic": "text-craft-s1",
+   "prereqs": [
+    "wr-plan-and-edit-es1"
+   ]
+  },
+  {
+   "key": "wr-text-purposes-s1",
+   "name": "Writes texts that describe, explain, give an opinion, recount or tell a story",
+   "topic": "text-craft-s1",
+   "prereqs": [
+    "wr-text-purpose-es1",
+    "wr-topic-sentence"
+   ]
+  },
+  {
+   "key": "wr-topic-sentence",
+   "name": "Groups sentences into a paragraph that starts with a topic sentence",
+   "topic": "text-craft-s1",
+   "prereqs": [
+    "wr-sequence-ideas-es1",
+    "wr-compound"
+   ]
+  },
+  {
+   "key": "wr-visual-elements-s1",
+   "name": "Uses visual elements and different modes to present own texts",
+   "topic": "text-craft-s1",
+   "prereqs": [
+    "wr-text-purposes-s1"
+   ]
+  },
+  {
+   "key": "wr-wordplay-s1",
+   "name": "Makes intentional and creative word choices to affect the reader",
+   "topic": "text-craft-s1",
+   "prereqs": [
+    "wr-adjectives"
+   ]
+  },
+  {
+   "key": "wr-joined-handwriting-s2",
+   "name": "Joins letters legibly and consistently to build handwriting fluency",
+   "topic": "handwriting-s2",
+   "prereqs": [
+    "wr-handwriting-fluency-s1"
+   ]
+  },
+  {
+   "key": "wr-typing-digital-s2",
+   "name": "Types accurately and uses software functions to draft, revise and illustrate texts",
+   "topic": "handwriting-s2",
+   "prereqs": [
+    "wr-word-processing-s1"
+   ]
+  },
+  {
+   "key": "wr-cohesion",
+   "name": "Holds tense, referencing, agreement, articles and connectives steady across a text",
+   "topic": "paragraph-craft",
+   "prereqs": [
+    "wr-cohesion-s1"
+   ]
+  },
+  {
+   "key": "wr-editing-basic",
+   "name": "Proofreads, revises and edits written texts against criteria and feedback",
+   "topic": "paragraph-craft",
+   "prereqs": [
+    "wr-edit-feedback-s1"
+   ]
+  },
+  {
+   "key": "wr-imagery-s2",
+   "name": "Creates imagery and humour with simile, personification, idiom and pun",
+   "topic": "paragraph-craft",
+   "prereqs": [
+    "wr-wordplay-s1"
+   ]
+  },
+  {
+   "key": "wr-multimodal-features-s2",
+   "name": "Selects multimodal features and digital tools that add meaning",
+   "topic": "paragraph-craft",
+   "prereqs": [
+    "wr-visual-elements-s1"
+   ]
+  },
+  {
+   "key": "wr-plan-research-s2",
+   "name": "Plans a text by researching, summarising and drawing on experience",
+   "topic": "paragraph-craft",
+   "prereqs": [
+    "wr-plan-audience-s1"
+   ]
+  },
+  {
+   "key": "wr-clauses-phrases-s2",
+   "name": "Adds information with adjectival clauses and adverbial phrases",
+   "topic": "sentence-craft-s2",
+   "prereqs": [
+    "wr-adjectives",
+    "wr-complex-sentences"
+   ]
+  },
+  {
+   "key": "wr-complex-sentences",
+   "name": "Writes complex sentences with subordinating conjunctions and varies sentence length",
+   "topic": "sentence-craft-s2",
+   "prereqs": [
+    "wr-complex-experiment-s1",
+    "wr-compound"
+   ]
+  },
+  {
+   "key": "wr-punctuation-s2",
+   "name": "Uses capitals, commas, bullet points and apostrophes accurately",
+   "topic": "sentence-craft-s2",
+   "prereqs": [
+    "wr-punctuation",
+    "wr-contractions-apostrophes-s1"
+   ]
+  },
+  {
+   "key": "wr-quoted-speech-s2",
+   "name": "Uses quoted and reported speech in own writing",
+   "topic": "sentence-craft-s2",
+   "prereqs": [
+    "wr-dialogue-s2"
+   ]
+  },
+  {
+   "key": "wr-sentence-types-s2",
+   "name": "Uses declarative, imperative, exclamatory and interrogative sentences for purpose",
+   "topic": "sentence-craft-s2",
+   "prereqs": [
+    "wr-complex-sentences"
+   ]
+  },
+  {
+   "key": "wr-verb-choice-s2",
+   "name": "Selects precise verbs and verb groups and writes cause-and-effect statements",
+   "topic": "sentence-craft-s2",
+   "prereqs": [
+    "wr-adjectives"
+   ]
+  },
+  {
+   "key": "wr-vocab-choice-s2",
+   "name": "Chooses topic-specific vocabulary, adjectives and synonyms for precision",
+   "topic": "sentence-craft-s2",
+   "prereqs": [
+    "wr-wordplay-s1"
+   ]
+  },
+  {
+   "key": "wr-word-effects-s2",
+   "name": "Uses word order, repetition and personal pronouns for rhetorical effect",
+   "topic": "sentence-craft-s2",
+   "prereqs": [
+    "wr-persuasive"
+   ]
+  },
+  {
+   "key": "wr-irregular-plurals-homophones-s2",
+   "name": "Spells irregular plurals and taught homophones correctly in own writing",
+   "topic": "spelling-s2",
+   "prereqs": [
+    "wr-morphemic-spelling-s2"
+   ]
+  },
+  {
+   "key": "wr-morphemic-spelling-s2",
+   "name": "Adds inflected and derivational suffixes and prefixes to base words",
+   "topic": "spelling-s2",
+   "prereqs": [
+    "wr-spell-suffixes-s1",
+    "wr-spell-prefixes-compounds-s1"
+   ]
+  },
+  {
+   "key": "wr-orthographic-spelling-s2",
+   "name": "Applies position and etymology rules for graphemes and proofreads spelling",
+   "topic": "spelling-s2",
+   "prereqs": [
+    "wr-spelling-patterns"
+   ]
+  },
+  {
+   "key": "wr-syllables-schwa-s2",
+   "name": "Segments multisyllabic words and uses stress and the schwa when spelling",
+   "topic": "spelling-s2",
+   "prereqs": [
+    "wr-segment-to-spell-s1"
+   ]
+  },
+  {
+   "key": "wr-dialogue-s2",
+   "name": "Writes and punctuates dialogue inside a narrative",
+   "topic": "text-purposes-s2",
+   "prereqs": [
+    "wr-punctuation",
+    "wr-narrative"
+   ]
+  },
+  {
+   "key": "wr-info-report",
+   "name": "Writes an information report with headings, topic sentences and a conclusion",
+   "topic": "text-purposes-s2",
+   "prereqs": [
+    "wr-topic-sentence"
+   ]
+  },
+  {
+   "key": "wr-modality-s2",
+   "name": "Uses modality to strengthen or soften an argument",
+   "topic": "text-purposes-s2",
+   "prereqs": [
+    "wr-persuasive"
+   ]
+  },
+  {
+   "key": "wr-narrative",
+   "name": "Writes a narrative with an orientation, complication and resolution",
+   "topic": "text-purposes-s2",
+   "prereqs": [
+    "wr-text-purposes-s1",
+    "wr-topic-sentence"
+   ]
+  },
+  {
+   "key": "wr-narrative-voice-s2",
+   "name": "Chooses first, second or third person narrative voice for effect",
+   "topic": "text-purposes-s2",
+   "prereqs": [
+    "wr-narrative"
+   ]
+  },
+  {
+   "key": "wr-persuasive",
+   "name": "Writes a persuasive text with a stated position, sequenced arguments and a conclusion",
+   "topic": "text-purposes-s2",
+   "prereqs": [
+    "wr-topic-sentence",
+    "wr-text-purposes-s1"
+   ]
+  },
+  {
+   "key": "wr-poetry-s2",
+   "name": "Writes poems in stanzas, using punctuation innovatively for effect",
+   "topic": "text-purposes-s2",
+   "prereqs": [
+    "wr-wordplay-s1"
+   ]
+  },
+  {
+   "key": "wr-procedure-explanation-s2",
+   "name": "Writes procedures and explanations in ordered steps",
+   "topic": "text-purposes-s2",
+   "prereqs": [
+    "wr-info-report"
+   ]
+  },
+  {
+   "key": "wr-recount-account-s2",
+   "name": "Writes factual and historical accounts with an introduction, events and conclusion",
+   "topic": "text-purposes-s2",
+   "prereqs": [
+    "wr-info-report"
+   ]
+  },
+  {
+   "key": "wr-digital-tools-s3",
+   "name": "Types efficiently and selects digital tools to suit audience and purpose",
+   "topic": "handwriting-s3",
+   "prereqs": [
+    "wr-typing-digital-s2"
+   ]
+  },
+  {
+   "key": "wr-handwriting-personal-s3",
+   "name": "Sustains a legible personal handwriting style and adjusts it to purpose",
+   "topic": "handwriting-s3",
+   "prereqs": [
+    "wr-joined-handwriting-s2"
+   ]
+  },
+  {
+   "key": "wr-appositives-nominalisation-s3",
+   "name": "Uses appositives and nominalisation to write succinctly and authoritatively",
+   "topic": "sentence-craft-s3",
+   "prereqs": [
+    "wr-clause-placement-s3"
+   ]
+  },
+  {
+   "key": "wr-clause-placement-s3",
+   "name": "Embeds adjectival clauses and repositions adverbial clauses for effect",
+   "topic": "sentence-craft-s3",
+   "prereqs": [
+    "wr-clauses-phrases-s2"
+   ]
+  },
+  {
+   "key": "wr-dashes-parentheses-s3",
+   "name": "Uses parentheses, dashes and hyphens, and experiments with punctuation for effect",
+   "topic": "sentence-craft-s3",
+   "prereqs": [
+    "wr-punctuation-s3"
+   ]
+  },
+  {
+   "key": "wr-punctuation-s3",
+   "name": "Uses capitals, commas and quotation marks consistently across a text",
+   "topic": "sentence-craft-s3",
+   "prereqs": [
+    "wr-punctuation-s2"
+   ]
+  },
+  {
+   "key": "wr-sentence-variety-s3",
+   "name": "Varies sentence type and length for clarity and effect suited to text purpose",
+   "topic": "sentence-craft-s3",
+   "prereqs": [
+    "wr-sentence-types-s2",
+    "wr-complex-sentences"
+   ]
+  },
+  {
+   "key": "wr-verb-precision-s3",
+   "name": "Chooses verbs and verb groups for precision and added detail",
+   "topic": "sentence-craft-s3",
+   "prereqs": [
+    "wr-verb-choice-s2"
+   ]
+  },
+  {
+   "key": "wr-vocab-authority-s3",
+   "name": "Uses Tier 2 and Tier 3 vocabulary, synonyms and modality with control",
+   "topic": "sentence-craft-s3",
+   "prereqs": [
+    "wr-vocab-choice-s2",
+    "wr-modality-s2"
+   ]
+  },
+  {
+   "key": "wr-etymology-spelling-s3",
+   "name": "Explains graphemes and roots by their etymology when spelling",
+   "topic": "spelling-s3",
+   "prereqs": [
+    "wr-orthographic-spelling-s2"
+   ]
+  },
+  {
+   "key": "wr-morphemic-spelling-s3",
+   "name": "Adds derivational suffixes and assimilated prefixes to base words and roots",
+   "topic": "spelling-s3",
+   "prereqs": [
+    "wr-morphemic-spelling-s2"
+   ]
+  },
+  {
+   "key": "wr-proofread-homophones-s3",
+   "name": "Proofreads for misspellings and spells taught homophones across learning areas",
+   "topic": "spelling-s3",
+   "prereqs": [
+    "wr-irregular-plurals-homophones-s2"
+   ]
+  },
+  {
+   "key": "wr-spell-unfamiliar-s3",
+   "name": "Segments unfamiliar multisyllabic words and applies infrequent graphemes",
+   "topic": "spelling-s3",
+   "prereqs": [
+    "wr-syllables-schwa-s2"
+   ]
+  },
+  {
+   "key": "wr-cohesion-s3",
+   "name": "Controls tense, referencing, substitution and paragraph transitions across a whole text",
+   "topic": "text-craft-s3",
+   "prereqs": [
+    "wr-cohesion"
+   ]
+  },
+  {
+   "key": "wr-evaluate-sources-s3",
+   "name": "Assesses the reliability and authority of sources when researching",
+   "topic": "text-craft-s3",
+   "prereqs": [
+    "wr-hybrid-plan-s3"
+   ]
+  },
+  {
+   "key": "wr-figurative-s3",
+   "name": "Uses metaphor, hyperbole, oxymoron and allusion for effect",
+   "topic": "text-craft-s3",
+   "prereqs": [
+    "wr-imagery-s2"
+   ]
+  },
+  {
+   "key": "wr-hybrid-plan-s3",
+   "name": "Plans hybrid texts and researches from several sources using print or digital tools",
+   "topic": "text-craft-s3",
+   "prereqs": [
+    "wr-plan-research-s2"
+   ]
+  },
+  {
+   "key": "wr-multimodal-sources-s3",
+   "name": "Chooses multimodal features for an audience and acknowledges sources",
+   "topic": "text-craft-s3",
+   "prereqs": [
+    "wr-multimodal-features-s2"
+   ]
+  },
+  {
+   "key": "wr-reflect-edit-s3",
+   "name": "Justifies authorial decisions and edits own and others' writing against criteria",
+   "topic": "text-craft-s3",
+   "prereqs": [
+    "wr-editing-basic"
+   ]
+  },
+  {
+   "key": "wr-argument-s3",
+   "name": "Builds a statement of position and logical lines of argument to a rhetorical conclusion",
+   "topic": "text-types",
+   "prereqs": [
+    "wr-persuasive"
+   ]
+  },
+  {
+   "key": "wr-compare-cause-s3",
+   "name": "Compares, contrasts and discusses cause and effect across sequenced paragraphs",
+   "topic": "text-types",
+   "prereqs": [
+    "wr-informative-s3"
+   ]
+  },
+  {
+   "key": "wr-historical-account-s3",
+   "name": "Writes factual and historical accounts that include broader contextual information",
+   "topic": "text-types",
+   "prereqs": [
+    "wr-recount-account-s2"
+   ]
+  },
+  {
+   "key": "wr-imaginative",
+   "name": "Crafts imaginative texts with deliberate choices of setting, character, voice and theme",
+   "topic": "text-types",
+   "prereqs": [
+    "wr-narrative",
+    "wr-narrative-voice-s2"
+   ]
+  },
+  {
+   "key": "wr-informative-s3",
+   "name": "Chooses informative formats and organises ideas into logically sequenced paragraphs",
+   "topic": "text-types",
+   "prereqs": [
+    "wr-info-report"
+   ]
+  },
+  {
+   "key": "wr-objective-argument-s3",
+   "name": "Writes objective arguments, blends them with personal ones, and presents multiple viewpoints",
+   "topic": "text-types",
+   "prereqs": [
+    "wr-argument-s3"
+   ]
+  },
+  {
+   "key": "wr-poetry-s3",
+   "name": "Selects poetic forms to express ideas descriptively",
+   "topic": "text-types",
+   "prereqs": [
+    "wr-poetry-s2"
+   ]
+  },
+  {
+   "key": "wr-rhetoric-modality-s3",
+   "name": "Targets rhetorical devices and modality to qualify or strengthen arguments",
+   "topic": "text-types",
+   "prereqs": [
+    "wr-modality-s2",
+    "wr-argument-s3"
+   ]
+  },
+  {
+   "key": "wr-control-conventions-s4",
+   "name": "Controls the structural and grammatical conventions of imaginative, informative and persuasive writing",
+   "topic": "essay-craft",
+   "prereqs": [
+    "wr-cohesion-s3",
+    "wr-sentence-variety-s3"
+   ]
+  },
+  {
+   "key": "wr-discuss-idea-s4",
+   "name": "Discusses a central idea from personal and objective positions",
+   "topic": "essay-craft",
+   "prereqs": [
+    "wr-objective-argument-s3"
+   ]
+  },
+  {
+   "key": "wr-essay",
+   "name": "Writes a structured analytical text with introduction, supporting points and conclusion",
+   "topic": "essay-craft",
+   "prereqs": [
+    "wr-informative-s3",
+    "wr-structure-cohesion-s4"
+   ]
+  },
+  {
+   "key": "wr-evidence-argument-s4",
+   "name": "Supports arguments with subjective and objective evidence, and refutes counterarguments",
+   "topic": "essay-craft",
+   "prereqs": [
+    "wr-persuasive-s4"
+   ]
+  },
+  {
+   "key": "wr-imagery-modality-s4",
+   "name": "Uses imagery, figurative language and modality to create tone, atmosphere and mood",
+   "topic": "essay-craft",
+   "prereqs": [
+    "wr-figurative-s3",
+    "wr-rhetoric-modality-s3"
+   ]
+  },
+  {
+   "key": "wr-peel",
+   "name": "Embeds textual evidence within sentences to support a personal perspective",
+   "topic": "essay-craft",
+   "prereqs": [
+    "wr-essay"
+   ]
+  },
+  {
+   "key": "wr-persuasive-s4",
+   "name": "Composes persuasive texts with a defining thesis, elaboration paragraphs and a synthesising conclusion",
+   "topic": "essay-craft",
+   "prereqs": [
+    "wr-argument-s3",
+    "wr-objective-argument-s3"
+   ]
+  },
+  {
+   "key": "wr-rhetorical-language-s4",
+   "name": "Uses rhetorical language to shape ideas and express a perspective",
+   "topic": "essay-craft",
+   "prereqs": [
+    "wr-rhetoric-modality-s3"
+   ]
+  },
+  {
+   "key": "wr-structure-cohesion-s4",
+   "name": "Structures and sequences texts cohesively and orients the reader in the opening",
+   "topic": "essay-craft",
+   "prereqs": [
+    "wr-cohesion-s3"
+   ]
+  },
+  {
+   "key": "wr-summarise-s4",
+   "name": "Composes informative texts that summarise conceptual information",
+   "topic": "essay-craft",
+   "prereqs": [
+    "wr-essay"
+   ]
+  },
+  {
+   "key": "wr-experimental-structure-s4",
+   "name": "Experiments with unpredictable structural features to engage a reader",
+   "topic": "imaginative-craft-s4",
+   "prereqs": [
+    "wr-imaginative-s4"
+   ]
+  },
+  {
+   "key": "wr-imaginative-s4",
+   "name": "Creates imaginative texts that drive plot, develop character and build place and atmosphere",
+   "topic": "imaginative-craft-s4",
+   "prereqs": [
+    "wr-imaginative"
+   ]
+  },
+  {
+   "key": "wr-poetry-s4",
+   "name": "Selects poetic forms and features to express ideas and personal perspectives",
+   "topic": "imaginative-craft-s4",
+   "prereqs": [
+    "wr-poetry-s3"
+   ]
+  },
+  {
+   "key": "wr-theme-conflict-s4",
+   "name": "Develops thematic elements around a central complication or conflict",
+   "topic": "imaginative-craft-s4",
+   "prereqs": [
+    "wr-imaginative-s4"
+   ]
+  },
+  {
+   "key": "wr-transformation-s4",
+   "name": "Reshapes aspects of texts to create new meaning",
+   "topic": "imaginative-craft-s4",
+   "prereqs": [
+    "wr-imaginative-s4"
+   ]
+  },
+  {
+   "key": "wr-representing-s4",
+   "name": "Composes visual and multimodal texts that create tone, atmosphere and mood",
+   "topic": "representing-s4",
+   "prereqs": [
+    "wr-multimodal-sources-s3"
+   ]
+  },
+  {
+   "key": "wr-clauses-s4",
+   "name": "Embeds adjectival clauses and positions adverbial phrases and clauses to clarify meaning",
+   "topic": "sentence-craft-s4",
+   "prereqs": [
+    "wr-clause-placement-s3"
+   ]
+  },
+  {
+   "key": "wr-noun-groups-modality-s4",
+   "name": "Selects noun groups and verb forms to control clarity and express modality",
+   "topic": "sentence-craft-s4",
+   "prereqs": [
+    "wr-appositives-nominalisation-s3"
+   ]
+  },
+  {
+   "key": "wr-punctuation-s4",
+   "name": "Applies a wide range of punctuation to control clarity, pace and reader response",
+   "topic": "sentence-craft-s4",
+   "prereqs": [
+    "wr-dashes-parentheses-s3"
+   ]
+  },
+  {
+   "key": "wr-quotes",
+   "name": "Applies punctuation conventions for quotations and citing sources",
+   "topic": "sentence-craft-s4",
+   "prereqs": [
+    "wr-punctuation-s3",
+    "wr-peel"
+   ]
+  },
+  {
+   "key": "wr-sentence-variety-s4",
+   "name": "Constructs varied sentence structures and controls the four sentence types for purpose",
+   "topic": "sentence-craft-s4",
+   "prereqs": [
+    "wr-sentence-variety-s3"
+   ]
+  },
+  {
+   "key": "wr-syntax-cohesion-s4",
+   "name": "Controls agreement, prepositions, articles, conjunctions, linking devices and pronouns for cohesion",
+   "topic": "sentence-craft-s4",
+   "prereqs": [
+    "wr-cohesion-s3"
+   ]
+  },
+  {
+   "key": "wr-voice-tense-s4",
+   "name": "Controls active and passive voice and tense for particular purposes",
+   "topic": "sentence-craft-s4",
+   "prereqs": [
+    "wr-cohesion-s3"
+   ]
+  },
+  {
+   "key": "wr-spell-complex-s4",
+   "name": "Spells unfamiliar, complex and technical words using phonological, orthographic and morphological knowledge",
+   "topic": "word-craft-s4",
+   "prereqs": [
+    "wr-spell-unfamiliar-s3",
+    "wr-morphemic-spelling-s3"
+   ]
+  },
+  {
+   "key": "wr-vocab-style-s4",
+   "name": "Selects topic-specific vocabulary that contributes to the stylistic features of writing",
+   "topic": "word-craft-s4",
+   "prereqs": [
+    "wr-vocab-authority-s3"
+   ]
+  },
+  {
+   "key": "wr-collaborate-s4",
+   "name": "Produces co-constructed texts that represent different ideas and values",
+   "topic": "writing-process-s4",
+   "prereqs": [
+    "wr-plan-goals-s4"
+   ]
+  },
+  {
+   "key": "wr-model-texts-s4",
+   "name": "Uses model texts to plan and to shape compositional choices",
+   "topic": "writing-process-s4",
+   "prereqs": [
+    "wr-hybrid-plan-s3"
+   ]
+  },
+  {
+   "key": "wr-monitor-edit-s4",
+   "name": "Monitors accuracy and responds to verbal and written feedback",
+   "topic": "writing-process-s4",
+   "prereqs": [
+    "wr-reflect-edit-s3"
+   ]
+  },
+  {
+   "key": "wr-plan-goals-s4",
+   "name": "Plans a logical sequence of arguments and sets goals at conceptual, text and paragraph level",
+   "topic": "writing-process-s4",
+   "prereqs": [
+    "wr-thesis"
+   ]
+  },
+  {
+   "key": "wr-reflect-s4",
+   "name": "Reflects on own composition using technical vocabulary",
+   "topic": "writing-process-s4",
+   "prereqs": [
+    "wr-monitor-edit-s4"
+   ]
+  },
+  {
+   "key": "wr-research-integrate-s4",
+   "name": "Integrates information and perspectives from different sources into informed texts",
+   "topic": "writing-process-s4",
+   "prereqs": [
+    "wr-evaluate-sources-s3"
+   ]
+  },
+  {
+   "key": "wr-thesis",
+   "name": "Develops a coherent thesis for extended analytical and persuasive texts",
+   "topic": "writing-process-s4",
+   "prereqs": [
+    "wr-persuasive-s4",
+    "wr-essay"
+   ]
+  },
+  {
+   "key": "wr-discursive-s5",
+   "name": "Uses the structural conventions of discursive texts to present complex and nuanced ideas",
+   "topic": "imaginative-craft-s5",
+   "prereqs": [
+    "wr-discuss-idea-s4"
+   ]
+  },
+  {
+   "key": "wr-imaginative-s5",
+   "name": "Shapes complex complications and crafts authentic characters to depict ideas",
+   "topic": "imaginative-craft-s5",
+   "prereqs": [
+    "wr-theme-conflict-s4",
+    "wr-setting-s5"
+   ]
+  },
+  {
+   "key": "wr-poetry-s5",
+   "name": "Experiments with a range of poetic forms to explore ideas and personal perspectives",
+   "topic": "imaginative-craft-s5",
+   "prereqs": [
+    "wr-poetry-s4"
+   ]
+  },
+  {
+   "key": "wr-setting-s5",
+   "name": "Creates engaging and authentic temporal and spatial settings",
+   "topic": "imaginative-craft-s5",
+   "prereqs": [
+    "wr-imaginative-s4"
+   ]
+  },
+  {
+   "key": "wr-transformation-s5",
+   "name": "Experiments with the process of transformation to create texts with new meaning",
+   "topic": "imaginative-craft-s5",
+   "prereqs": [
+    "wr-transformation-s4"
+   ]
+  },
+  {
+   "key": "wr-craft-forms-s5",
+   "name": "Adapts codes and conventions across analytical, informative, persuasive, discursive and imaginative writing",
+   "topic": "polished-writing",
+   "prereqs": [
+    "wr-control-conventions-s4"
+   ]
+  },
+  {
+   "key": "wr-informative-s5",
+   "name": "Uses the structural conventions of informative texts to build a field of facts and perspectives",
+   "topic": "polished-writing",
+   "prereqs": [
+    "wr-summarise-s4"
+   ]
+  },
+  {
+   "key": "wr-personal-style-s5",
+   "name": "Expresses ideas in structures that reflect an emerging personal style",
+   "topic": "polished-writing",
+   "prereqs": [
+    "wr-voice"
+   ]
+  },
+  {
+   "key": "wr-persuasive-s5",
+   "name": "Uses the structural conventions of persuasive texts to develop expanding arguments",
+   "topic": "polished-writing",
+   "prereqs": [
+    "wr-persuasive-s4"
+   ]
+  },
+  {
+   "key": "wr-rhetoric-s5",
+   "name": "Uses rhetorical language strategically and subtly to convince an audience",
+   "topic": "polished-writing",
+   "prereqs": [
+    "wr-rhetorical-language-s4"
+   ]
+  },
+  {
+   "key": "wr-sustained-essay",
+   "name": "Sustains a considered thesis and cohesive analytical progression across a full text",
+   "topic": "polished-writing",
+   "prereqs": [
+    "wr-essay",
+    "wr-thesis"
+   ]
+  },
+  {
+   "key": "wr-tense-narrative-voice-s5",
+   "name": "Uses tense accurately and applies narrative voice to depict complex ideas",
+   "topic": "polished-writing",
+   "prereqs": [
+    "wr-voice-tense-s4",
+    "wr-narrative-voice-s2"
+   ]
+  },
+  {
+   "key": "wr-voice",
+   "name": "Develops a personal and informed voice and experiments with tone, atmosphere and mood",
+   "topic": "polished-writing",
+   "prereqs": [
+    "wr-imagery-modality-s4",
+    "wr-vocab-style-s4"
+   ]
+  },
+  {
+   "key": "wr-combine-modes-s5",
+   "name": "Experiments with a combination of modes for specific effect and impact",
+   "topic": "representing-s5",
+   "prereqs": [
+    "wr-representing-s5"
+   ]
+  },
+  {
+   "key": "wr-representing-s5",
+   "name": "Composes visual and multimodal texts with aesthetic qualities that influence viewpoints",
+   "topic": "representing-s5",
+   "prereqs": [
+    "wr-representing-s4"
+   ]
+  },
+  {
+   "key": "wr-agreement-voice-s5",
+   "name": "Maintains agreement in complex structures and controls active and passive voice",
+   "topic": "sentence-craft-s5",
+   "prereqs": [
+    "wr-syntax-cohesion-s4",
+    "wr-voice-tense-s4"
+   ]
+  },
+  {
+   "key": "wr-noun-verb-groups-s5",
+   "name": "Crafts elaborated noun and verb groups for effect, clarity or complexity",
+   "topic": "sentence-craft-s5",
+   "prereqs": [
+    "wr-noun-groups-modality-s4"
+   ]
+  },
+  {
+   "key": "wr-punctuation-s5",
+   "name": "Applies punctuation to suit text purpose, support meaning and control reader response",
+   "topic": "sentence-craft-s5",
+   "prereqs": [
+    "wr-punctuation-s4"
+   ]
+  },
+  {
+   "key": "wr-sentence-control-s5",
+   "name": "Justifies varied sentence type, length and complexity, and crafts concise sentences",
+   "topic": "sentence-craft-s5",
+   "prereqs": [
+    "wr-sentence-variety-s4"
+   ]
+  },
+  {
+   "key": "wr-connotation-s5",
+   "name": "Makes vocabulary choices that enhance style and shape meaning through connotation",
+   "topic": "word-craft-s5",
+   "prereqs": [
+    "wr-vocab-style-s4",
+    "wr-voice"
+   ]
+  },
+  {
+   "key": "wr-grammar-relationships-s5",
+   "name": "Uses grammatical features to describe relationships between complex ideas",
+   "topic": "word-craft-s5",
+   "prereqs": [
+    "wr-syntax-cohesion-s4"
+   ]
+  },
+  {
+   "key": "wr-register-vocab-s5",
+   "name": "Selects technical vocabulary and register appropriate to audience, purpose, form and context",
+   "topic": "word-craft-s5",
+   "prereqs": [
+    "wr-vocab-style-s4"
+   ]
+  },
+  {
+   "key": "wr-spell-complex-s5",
+   "name": "Uses etymology and reference resources to spell unfamiliar, complex and technical words",
+   "topic": "word-craft-s5",
+   "prereqs": [
+    "wr-spell-complex-s4",
+    "wr-etymology-spelling-s3"
+   ]
+  },
+  {
+   "key": "wr-collaborate-s5",
+   "name": "Produces co-constructed complex texts representing a diversity of ideas and values",
+   "topic": "writing-process-s5",
+   "prereqs": [
+    "wr-collaborate-s4"
+   ]
+  },
+  {
+   "key": "wr-model-texts-s5",
+   "name": "Engages with model texts to develop and refine features, structures and stylistic approaches",
+   "topic": "writing-process-s5",
+   "prereqs": [
+    "wr-model-texts-s4"
+   ]
+  },
+  {
+   "key": "wr-plan-goals-s5",
+   "name": "Plans a progressive sequence of arguments and sets goals at every level",
+   "topic": "writing-process-s5",
+   "prereqs": [
+    "wr-plan-goals-s4",
+    "wr-thesis-s5"
+   ]
+  },
+  {
+   "key": "wr-precision-edit",
+   "name": "Selects collaborative drafting strategies and feedback processes to improve clarity, meaning and effect",
+   "topic": "writing-process-s5",
+   "prereqs": [
+    "wr-monitor-edit-s4"
+   ]
+  },
+  {
+   "key": "wr-reflect-evaluate-s5",
+   "name": "Evaluates own authorial decisions and the composition process itself",
+   "topic": "writing-process-s5",
+   "prereqs": [
+    "wr-reflect-s4",
+    "wr-precision-edit"
+   ]
+  },
+  {
+   "key": "wr-research-synthesise-s5",
+   "name": "Researches, evaluates and synthesises sources to generate new ideas",
+   "topic": "writing-process-s5",
+   "prereqs": [
+    "wr-research-integrate-s4",
+    "wr-evaluate-sources-s3"
+   ]
+  },
+  {
+   "key": "wr-thesis-s5",
+   "name": "Develops an effective thesis based on critical thinking for extended texts",
+   "topic": "writing-process-s5",
+   "prereqs": [
+    "wr-thesis",
+    "wr-sustained-essay"
+   ]
+  },
+  {
+   "key": "sl-past-tense-speaking",
+   "name": "Talks about the past using regular and irregular past-tense verbs",
+   "topic": "es1-grammar-when-interacting",
+   "prereqs": [
+    "sl-speak-simple-sentences"
+   ]
+  },
+  {
+   "key": "sl-speak-simple-sentences",
+   "name": "Builds spoken sentences and joins ideas with and, but and because",
+   "topic": "es1-grammar-when-interacting",
+   "prereqs": [
+    "sl-turn-taking"
+   ]
+  },
+  {
+   "key": "sl-instructions",
+   "name": "Listens to and follows spoken instructions of up to three parts",
+   "topic": "es1-listening-for-understanding",
+   "prereqs": []
+  },
+  {
+   "key": "sl-listen-respond-purpose",
+   "name": "Listens for a purpose by agreeing, disagreeing, adding on or sharing a feeling",
+   "topic": "es1-listening-for-understanding",
+   "prereqs": [
+    "sl-instructions"
+   ]
+  },
+  {
+   "key": "sl-nonverbal-meaning-es1",
+   "name": "Recognises how faces, hands and body add meaning to what is said",
+   "topic": "es1-listening-for-understanding",
+   "prereqs": []
+  },
+  {
+   "key": "sl-spoken-grammar-cues-es1",
+   "name": "Follows who and when in speech by tracking pronouns and word endings",
+   "topic": "es1-listening-for-understanding",
+   "prereqs": [
+    "sl-instructions"
+   ]
+  },
+  {
+   "key": "sl-retell",
+   "name": "Retells a familiar story or event and recalls its details",
+   "topic": "es1-oral-narrative",
+   "prereqs": [
+    "sl-instructions",
+    "sl-speak-simple-sentences"
+   ]
+  },
+  {
+   "key": "sl-tell-a-story-es1",
+   "name": "Tells an original story or shares information with peers and adults",
+   "topic": "es1-oral-narrative",
+   "prereqs": [
+    "sl-retell"
+   ]
+  },
+  {
+   "key": "sl-imaginative-talk",
+   "name": "Uses imaginative language to pretend and act out stories in play",
+   "topic": "es1-social-and-learning-interactions",
+   "prereqs": [
+    "sl-turn-taking"
+   ]
+  },
+  {
+   "key": "sl-reason-and-persuade-es1",
+   "name": "Gives reasons, opinions and simple persuasion when speaking",
+   "topic": "es1-social-and-learning-interactions",
+   "prereqs": [
+    "sl-turn-taking",
+    "sl-talk-to-get-things-done"
+   ]
+  },
+  {
+   "key": "sl-talk-to-get-things-done",
+   "name": "Uses talk to ask for what is needed and to ask who, what, when, where, why and how",
+   "topic": "es1-social-and-learning-interactions",
+   "prereqs": [
+    "sl-turn-taking"
+   ]
+  },
+  {
+   "key": "sl-turn-taking",
+   "name": "Starts, joins and takes turns in conversation, staying on topic",
+   "topic": "es1-social-and-learning-interactions",
+   "prereqs": [
+    "sl-instructions"
+   ]
+  },
+  {
+   "key": "sl-elaborate-with-detail-s1",
+   "name": "Elaborates with adjectives and adverbs, and links or compares ideas",
+   "topic": "s1-grammar-when-interacting",
+   "prereqs": [
+    "sl-extended-sentences-speaking"
+   ]
+  },
+  {
+   "key": "sl-extended-sentences-speaking",
+   "name": "Uses simple, compound and complex sentences and sequences ideas when speaking",
+   "topic": "s1-grammar-when-interacting",
+   "prereqs": [
+    "sl-speak-simple-sentences"
+   ]
+  },
+  {
+   "key": "sl-tense-speaking-s1",
+   "name": "Uses tense correctly to talk about past, present and future events",
+   "topic": "s1-grammar-when-interacting",
+   "prereqs": [
+    "sl-past-tense-speaking"
+   ]
+  },
+  {
+   "key": "sl-clarify-meaning-s1",
+   "name": "Notices when a message is unclear and asks questions to clarify and extend",
+   "topic": "s1-listening-for-understanding",
+   "prereqs": [
+    "sl-nonverbal-meaning-es1",
+    "sl-listen-respond-purpose"
+   ]
+  },
+  {
+   "key": "sl-follow-extended-instructions",
+   "name": "Follows extended instructions containing connectives and conjunctions",
+   "topic": "s1-listening-for-understanding",
+   "prereqs": [
+    "sl-instructions"
+   ]
+  },
+  {
+   "key": "sl-listen-to-texts-s1",
+   "name": "Listens to texts for enjoyment and recognises how own experience shapes an opinion",
+   "topic": "s1-listening-for-understanding",
+   "prereqs": [
+    "sl-listen-respond-purpose"
+   ]
+  },
+  {
+   "key": "sl-adapt-narrative-audience",
+   "name": "Adapts a narrative for a particular audience",
+   "topic": "s1-oral-narrative",
+   "prereqs": [
+    "sl-recount-narrative-s1",
+    "sl-nonverbal-meaning-es1"
+   ]
+  },
+  {
+   "key": "sl-news-talk",
+   "name": "Delivers a planned talk to an audience for a specific context and purpose",
+   "topic": "s1-oral-narrative",
+   "prereqs": [
+    "sl-tell-a-story-es1",
+    "sl-recount-narrative-s1"
+   ]
+  },
+  {
+   "key": "sl-recite-poems-rhymes",
+   "name": "Recites poems and rhymes aloud",
+   "topic": "s1-oral-narrative",
+   "prereqs": [
+    "sl-retell"
+   ]
+  },
+  {
+   "key": "sl-recount-narrative-s1",
+   "name": "Recounts a narrative with its key components",
+   "topic": "s1-oral-narrative",
+   "prereqs": [
+    "sl-retell",
+    "sl-extended-sentences-speaking"
+   ]
+  },
+  {
+   "key": "sl-group-conversation-s1",
+   "name": "Initiates, listens and responds in partner and group conversations",
+   "topic": "s1-social-and-learning-interactions",
+   "prereqs": [
+    "sl-turn-taking",
+    "sl-listen-respond-purpose"
+   ]
+  },
+  {
+   "key": "sl-first-nations-protocols",
+   "name": "Identifies cultural practices and protocols Aboriginal and Torres Strait Islander Peoples use to interact",
+   "topic": "s2-interacting",
+   "prereqs": [
+    "sl-group-discussion"
+   ]
+  },
+  {
+   "key": "sl-group-discussion",
+   "name": "Contributes ideas and builds on others' ideas in class discussion",
+   "topic": "s2-interacting",
+   "prereqs": [
+    "sl-group-conversation-s1"
+   ]
+  },
+  {
+   "key": "sl-questions-about-literature-s2",
+   "name": "Poses and responds to open-ended questions about literature",
+   "topic": "s2-interacting",
+   "prereqs": [
+    "sl-group-discussion",
+    "sl-listen-to-texts-s1"
+   ]
+  },
+  {
+   "key": "sl-register-and-context",
+   "name": "Adjusts language for different social and learning contexts",
+   "topic": "s2-interacting",
+   "prereqs": [
+    "sl-group-conversation-s1"
+   ]
+  },
+  {
+   "key": "sl-roles-and-protocols",
+   "name": "Follows agreed protocols and assigned roles for classroom interactions, in person and online",
+   "topic": "s2-interacting",
+   "prereqs": [
+    "sl-group-discussion"
+   ]
+  },
+  {
+   "key": "sl-active-listening",
+   "name": "Listens actively, makes notes, paraphrases and asks follow-up questions",
+   "topic": "s2-listening-for-understanding",
+   "prereqs": [
+    "sl-clarify-meaning-s1",
+    "sl-follow-extended-instructions"
+   ]
+  },
+  {
+   "key": "sl-connectives-in-spoken-texts",
+   "name": "Identifies connective vocabulary that holds a spoken text together",
+   "topic": "s2-listening-for-understanding",
+   "prereqs": [
+    "sl-active-listening",
+    "sl-extended-sentences-speaking"
+   ]
+  },
+  {
+   "key": "sl-delivery-affects-meaning-s2",
+   "name": "Identifies how tone, pace, pitch, volume, gesture and posture change meaning",
+   "topic": "s2-listening-for-understanding",
+   "prereqs": [
+    "sl-active-listening",
+    "sl-nonverbal-meaning-es1"
+   ]
+  },
+  {
+   "key": "sl-rhetorical-questions",
+   "name": "Understands that rhetorical questions are used for intentional effect",
+   "topic": "s2-listening-for-understanding",
+   "prereqs": [
+    "sl-active-listening"
+   ]
+  },
+  {
+   "key": "sl-speaker-evidence",
+   "name": "Identifies the evidence a speaker gives for a point of view",
+   "topic": "s2-listening-for-understanding",
+   "prereqs": [
+    "sl-active-listening"
+   ]
+  },
+  {
+   "key": "sl-spoken-language-features-s2",
+   "name": "Identifies language features in spoken texts such as idioms, puns and colloquialisms",
+   "topic": "s2-listening-for-understanding",
+   "prereqs": [
+    "sl-active-listening"
+   ]
+  },
+  {
+   "key": "sl-multimodal-presenting-s2",
+   "name": "Includes multimodal features in a planned presentation",
+   "topic": "s2-presenting",
+   "prereqs": [
+    "sl-plan-deliver-presentation-s2"
+   ]
+  },
+  {
+   "key": "sl-phrases-for-presenting-s2",
+   "name": "Uses prepositional, adverbial and adjectival phrases to extend a planned presentation",
+   "topic": "s2-presenting",
+   "prereqs": [
+    "sl-plan-deliver-presentation-s2",
+    "sl-elaborate-with-detail-s1"
+   ]
+  },
+  {
+   "key": "sl-plan-deliver-presentation-s2",
+   "name": "Plans and delivers a spoken presentation suited to purpose and audience",
+   "topic": "s2-presenting",
+   "prereqs": [
+    "sl-news-talk",
+    "sl-adapt-narrative-audience"
+   ]
+  },
+  {
+   "key": "sl-presentation-voice-s2",
+   "name": "Adjusts volume, pace and intonation when presenting and reciting",
+   "topic": "s2-presenting",
+   "prereqs": [
+    "sl-plan-deliver-presentation-s2",
+    "sl-delivery-affects-meaning-s2"
+   ]
+  },
+  {
+   "key": "sl-reasoned-argument-s2",
+   "name": "States a reasoned argument in a presentation about learning-area content",
+   "topic": "s2-presenting",
+   "prereqs": [
+    "sl-plan-deliver-presentation-s2",
+    "sl-reason-and-persuade-es1"
+   ]
+  },
+  {
+   "key": "sl-reflect-on-presentations-s2",
+   "name": "Reflects on and monitors own presentations against given criteria",
+   "topic": "s2-presenting",
+   "prereqs": [
+    "sl-plan-deliver-presentation-s2"
+   ]
+  },
+  {
+   "key": "sl-first-nations-protocols-s3",
+   "name": "Describes ways of interacting that follow Aboriginal and Torres Strait Islander cultural protocols",
+   "topic": "s3-interacting",
+   "prereqs": [
+    "sl-first-nations-protocols"
+   ]
+  },
+  {
+   "key": "sl-gesture-in-interaction-s3",
+   "name": "Evaluates the role of gesture in social and learning interactions",
+   "topic": "s3-interacting",
+   "prereqs": [
+    "sl-delivery-affects-meaning-s2"
+   ]
+  },
+  {
+   "key": "sl-questions-about-literature-s3",
+   "name": "Asks and responds to analytical and evaluative questions about literature",
+   "topic": "s3-interacting",
+   "prereqs": [
+    "sl-questions-about-literature-s2",
+    "sl-sustained-discussion"
+   ]
+  },
+  {
+   "key": "sl-roles-goals-protocols-s3",
+   "name": "Defines roles, goals, criteria and timeframes for in-person and online interactions",
+   "topic": "s3-interacting",
+   "prereqs": [
+    "sl-roles-and-protocols"
+   ]
+  },
+  {
+   "key": "sl-social-conventions-audiences",
+   "name": "Identifies varying social conventions and deliberately adjusts language and style",
+   "topic": "s3-interacting",
+   "prereqs": [
+    "sl-register-and-context"
+   ]
+  },
+  {
+   "key": "sl-sustained-discussion",
+   "name": "Initiates and sustains a discussion by questioning, building on and evaluating ideas",
+   "topic": "s3-interacting",
+   "prereqs": [
+    "sl-group-discussion"
+   ]
+  },
+  {
+   "key": "sl-audio-elements-analysis",
+   "name": "Analyses how audio elements integrate with visual, gestural and spatial elements",
+   "topic": "s3-listening-for-understanding",
+   "prereqs": [
+    "sl-delivery-affects-meaning-s2",
+    "sl-multimodal-presenting-s2"
+   ]
+  },
+  {
+   "key": "sl-evaluate-rhetorical-questions",
+   "name": "Evaluates the effectiveness of rhetorical questions used for intentional effect",
+   "topic": "s3-listening-for-understanding",
+   "prereqs": [
+    "sl-rhetorical-questions"
+   ]
+  },
+  {
+   "key": "sl-evaluate-spoken-texts-s3",
+   "name": "Evaluates the features of spoken texts that make them enjoyable",
+   "topic": "s3-listening-for-understanding",
+   "prereqs": [
+    "sl-spoken-language-features-s2"
+   ]
+  },
+  {
+   "key": "sl-interactive-listening-feedback",
+   "name": "Applies interactive and active listening strategies and gives feedback to a speaker",
+   "topic": "s3-listening-for-understanding",
+   "prereqs": [
+    "sl-active-listening"
+   ]
+  },
+  {
+   "key": "sl-paraphrase-analyse-s3",
+   "name": "Analyses key ideas and perspectives through paraphrasing and note-taking",
+   "topic": "s3-listening-for-understanding",
+   "prereqs": [
+    "sl-active-listening"
+   ]
+  },
+  {
+   "key": "sl-connectives-perspective-s3",
+   "name": "Uses connectives to signal a change in perspective or a causal relationship when speaking",
+   "topic": "s3-presenting",
+   "prereqs": [
+    "sl-connectives-in-spoken-texts",
+    "sl-sentence-craft-presenting-s3"
+   ]
+  },
+  {
+   "key": "sl-deliver-presentation-s3",
+   "name": "Delivers a presentation suited to purpose and audience, moderating length, content and style",
+   "topic": "s3-presenting",
+   "prereqs": [
+    "sl-plan-deliver-presentation-s2"
+   ]
+  },
+  {
+   "key": "sl-multimedia-presenting-s3",
+   "name": "Selects multimedia components, visual displays and gestural features to bring clarity",
+   "topic": "s3-presenting",
+   "prereqs": [
+    "sl-multimodal-presenting-s2"
+   ]
+  },
+  {
+   "key": "sl-multimodal-argument-s3",
+   "name": "Presents a researched multimodal argument with references and persuasive techniques",
+   "topic": "s3-presenting",
+   "prereqs": [
+    "sl-reasoned-argument-s2",
+    "sl-speaker-evidence",
+    "wr-persuasive"
+   ]
+  },
+  {
+   "key": "sl-presentation-voice-s3",
+   "name": "Experiments with volume, pace and intonation and recognises the effect on the audience",
+   "topic": "s3-presenting",
+   "prereqs": [
+    "sl-presentation-voice-s2"
+   ]
+  },
+  {
+   "key": "sl-reflect-on-presentations-s3",
+   "name": "Reflects on and monitors own and peer presentations against given criteria",
+   "topic": "s3-presenting",
+   "prereqs": [
+    "sl-reflect-on-presentations-s2",
+    "sl-deliver-presentation-s3"
+   ]
+  },
+  {
+   "key": "sl-sentence-craft-presenting-s3",
+   "name": "Varies sentence length and uses expanded noun and verb groups in planned spoken texts",
+   "topic": "s3-presenting",
+   "prereqs": [
+    "sl-phrases-for-presenting-s2"
+   ]
+  },
+  {
+   "key": "sl-compose-spoken-texts-s4",
+   "name": "Creates spoken, signed or communicated texts that convey ideas and viewpoints to an audience",
+   "topic": "s4-speaking",
+   "prereqs": [
+    "sl-prepared-speech",
+    "rv-language-techniques"
+   ]
+  },
+  {
+   "key": "sl-exploratory-discussion-s4",
+   "name": "Participates in informal, speculative and exploratory discussion about texts and ideas",
+   "topic": "s4-speaking",
+   "prereqs": [
+    "sl-sustained-discussion",
+    "sl-interactive-listening-feedback"
+   ]
+  },
+  {
+   "key": "sl-persuasive-speech",
+   "name": "Uses rhetorical strategies to engage an audience and evoke an emotional response",
+   "topic": "s4-speaking",
+   "prereqs": [
+    "sl-prepared-speech",
+    "sl-multimodal-argument-s3",
+    "wr-persuasive"
+   ]
+  },
+  {
+   "key": "sl-prepared-speech",
+   "name": "Delivers a spoken text with control of intonation, emphasis, volume, pace and timing",
+   "topic": "s4-speaking",
+   "prereqs": [
+    "sl-deliver-presentation-s3",
+    "sl-presentation-voice-s3"
+   ]
+  },
+  {
+   "key": "sl-craft-spoken-texts-s5",
+   "name": "Crafts spoken, signed or communicated texts that convey complex ideas to specific audiences",
+   "topic": "s5-speaking",
+   "prereqs": [
+    "sl-compose-spoken-texts-s4"
+   ]
+  },
+  {
+   "key": "sl-debate",
+   "name": "Selects rhetorical strategies to position an audience in formal argument and debate",
+   "topic": "s5-speaking",
+   "prereqs": [
+    "sl-persuasive-speech",
+    "sl-exploratory-discussion-s4"
+   ]
+  },
+  {
+   "key": "sl-deliver-spoken-texts-s5",
+   "name": "Delivers spoken, signed or communicated texts with engaging use of intonation, emphasis, volume, pace and timing",
+   "topic": "s5-speaking",
+   "prereqs": [
+    "sl-prepared-speech"
+   ]
+  },
+  {
+   "key": "sl-lead-discussion-s5",
+   "name": "Participates in and leads analytical, speculative and exploratory discussion",
+   "topic": "s5-speaking",
+   "prereqs": [
+    "sl-exploratory-discussion-s4"
+   ]
+  },
+  {
+   "key": "sl-multimodal",
+   "name": "Signals the development of ideas through language, structure and presentational features",
+   "topic": "s5-speaking",
+   "prereqs": [
+    "sl-multimedia-presenting-s3",
+    "sl-craft-spoken-texts-s5",
+    "rv-visual-texts"
+   ]
+  }
+ ]
+}

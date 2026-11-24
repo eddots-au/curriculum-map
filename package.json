@@ -1,0 +1,14 @@
+{
+  "name": "curriculum-map",
+  "version": "0.1.0",
+  "description": "An open model for learning maps: skills with prerequisite links and cross-discipline connections, a validator and a loader. Built for school curricula; usable for universities, degrees and other countries.",
+  "type": "module",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "validate": "node src/cli.mjs data/maps",
+    "test": "node --test test/*.test.mjs"
+  }
+}
